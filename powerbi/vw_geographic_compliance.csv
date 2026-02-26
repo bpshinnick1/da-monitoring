@@ -1,0 +1,213 @@
+policy_ref,coverholder_id,coverholder_name,insured_name,postcode,inception_date,premium,bound_month,is_breach
+POL-CH004-00049,CH004,Southgate Property Partners,"Norton, Smith and Khan",L2 5VK,2024-01-23,1035.00,2024-01,t
+POL-CH004-00113,CH004,Southgate Property Partners,Williamson-Hussain,NE2 5RC,2024-02-16,1448.00,2024-02,t
+POL-CH004-00114,CH004,Southgate Property Partners,Johnson and Sons,PR1 2CM,2024-02-08,2142.00,2024-02,t
+POL-CH004-00178,CH004,Southgate Property Partners,"Day, Stone and Davies",WN1 1MP,2024-03-04,1852.00,2024-03,t
+POL-CH004-00169,CH004,Southgate Property Partners,Turner LLC,L2 5HP,2024-03-11,1967.00,2024-03,t
+POL-CH004-00297,CH004,Southgate Property Partners,Smith Ltd,OL1 4QB,2024-05-28,1859.00,2024-05,t
+POL-CH004-00358,CH004,Southgate Property Partners,"Barker, Patel and Mason",S2 4SF,2024-06-27,1814.00,2024-06,t
+POL-CH004-00478,CH004,Southgate Property Partners,"Scott, Collins and Heath",LS1 4ZA,2024-08-27,1431.00,2024-08,t
+POL-CH004-00541,CH004,Southgate Property Partners,Smith-Farmer,L1 2EL,2024-09-18,2682.00,2024-09,t
+POL-CH004-00598,CH004,Southgate Property Partners,"Brown, Bates and Roberts",OL1 2KD,2024-10-27,1252.00,2024-10,t
+POL-CH004-00658,CH004,Southgate Property Partners,"Reynolds, Hardy and Higgins",L2 1SY,2024-11-09,1560.00,2024-11,t
+POL-CH004-00802,CH004,Southgate Property Partners,"Davies, Houghton and Ellis",CB1 5FB,2025-01-22,1260.00,2025-01,t
+POL-CH004-00799,CH004,Southgate Property Partners,"Green, Smart and Evans",BS1 4FT,2025-01-06,2511.00,2025-01,t
+POL-CH004-00940,CH004,Southgate Property Partners,Long-Jones,L2 6SQ,2025-03-05,1310.00,2025-03,t
+POL-CH004-01005,CH004,Southgate Property Partners,Ahmed Inc,WN1 9EV,2025-04-18,1720.00,2025-04,t
+POL-CH004-01068,CH004,Southgate Property Partners,Bennett-Martin,L1 5IA,2025-05-20,2933.00,2025-05,t
+POL-CH004-01136,CH004,Southgate Property Partners,Bartlett PLC,NE2 5BP,2025-06-15,2020.00,2025-06,t
+POL-CH004-00046,CH004,Southgate Property Partners,"Harris, Bray and McCarthy",RG1 1ZK,2024-01-28,1588.00,2024-01,f
+POL-CH004-00050,CH004,Southgate Property Partners,"Wells, Lane and Davison",EC1 7AN,2024-01-03,1614.00,2024-01,f
+POL-CH004-00048,CH004,Southgate Property Partners,Lawson-Anderson,BR1 4LX,2024-01-03,1802.00,2024-01,f
+POL-CH004-00047,CH004,Southgate Property Partners,"Stokes, Williams and Nash",BN1 7NZ,2024-01-24,1959.00,2024-01,f
+POL-CH004-00044,CH004,Southgate Property Partners,Jones and Sons,KT1 6PT,2024-01-11,1852.00,2024-01,f
+POL-CH004-00045,CH004,Southgate Property Partners,Gallagher-Byrne,EC1 6OY,2024-01-04,1420.00,2024-01,f
+POL-CH004-00052,CH004,Southgate Property Partners,Shah Group,OX1 2RO,2024-01-12,2818.00,2024-01,f
+POL-CH004-00053,CH004,Southgate Property Partners,"Godfrey, Humphreys and Ward",SL1 3HZ,2024-01-20,1939.00,2024-01,f
+POL-CH004-00054,CH004,Southgate Property Partners,Ellis PLC,SM1 6DE,2024-01-15,763.00,2024-01,f
+POL-CH004-00055,CH004,Southgate Property Partners,Mitchell Group,SW1 4SO,2024-01-27,1832.00,2024-01,f
+POL-CH004-00051,CH004,Southgate Property Partners,"Smart, Andrews and Brookes",BR1 3HU,2024-01-09,1712.00,2024-01,f
+POL-CH004-00105,CH004,Southgate Property Partners,Hall Group,KT2 9BR,2024-02-13,1672.00,2024-02,f
+POL-CH004-00106,CH004,Southgate Property Partners,Brown-O'Brien,SE1 2WU,2024-02-09,1844.00,2024-02,f
+POL-CH004-00107,CH004,Southgate Property Partners,"Hardy, Phillips and Roberts",OX1 6ND,2024-02-22,791.00,2024-02,f
+POL-CH004-00108,CH004,Southgate Property Partners,"Pritchard, Rose and James",TN1 8QL,2024-02-04,929.00,2024-02,f
+POL-CH004-00112,CH004,Southgate Property Partners,Harrison-Richards,SE1 6HB,2024-02-12,1916.00,2024-02,f
+POL-CH004-00109,CH004,Southgate Property Partners,Jones-Howarth,RG1 9UO,2024-02-01,2388.00,2024-02,f
+POL-CH004-00110,CH004,Southgate Property Partners,Davies Inc,EC1 5RN,2024-02-25,1218.00,2024-02,f
+POL-CH004-00111,CH004,Southgate Property Partners,"Hurst, Anderson and Burns",GU1 3OY,2024-02-27,2166.00,2024-02,f
+POL-CH004-00175,CH004,Southgate Property Partners,Day Group,IG1 3XC,2024-03-08,1741.00,2024-03,f
+POL-CH004-00176,CH004,Southgate Property Partners,Simpson-Gregory,KT2 4IQ,2024-03-14,2172.00,2024-03,f
+POL-CH004-00177,CH004,Southgate Property Partners,Gregory-Morris,IG1 9RP,2024-03-28,1921.00,2024-03,f
+POL-CH004-00179,CH004,Southgate Property Partners,Foster-Smith,SL1 3JM,2024-03-03,1813.00,2024-03,f
+POL-CH004-00170,CH004,Southgate Property Partners,"Oliver, Robinson and Rees",CT1 8UF,2024-03-22,2263.00,2024-03,f
+POL-CH004-00171,CH004,Southgate Property Partners,Ellis LLC,EN1 4JK,2024-03-08,1789.00,2024-03,f
+POL-CH004-00172,CH004,Southgate Property Partners,James-Roberts,HA1 6CY,2024-03-04,1790.00,2024-03,f
+POL-CH004-00173,CH004,Southgate Property Partners,King Group,SW1 2QH,2024-03-14,1974.00,2024-03,f
+POL-CH004-00174,CH004,Southgate Property Partners,"Scott, Jennings and Moore",CM1 2FB,2024-03-02,2080.00,2024-03,f
+POL-CH004-00242,CH004,Southgate Property Partners,Johnson-Khan,KT1 6OC,2024-04-05,2831.00,2024-04,f
+POL-CH004-00236,CH004,Southgate Property Partners,Patterson-Kaur,EC1 2MY,2024-04-15,2276.00,2024-04,f
+POL-CH004-00235,CH004,Southgate Property Partners,Alexander-Davies,SW6 1AZ,2024-04-11,1215.00,2024-04,f
+POL-CH004-00234,CH004,Southgate Property Partners,Kelly Ltd,AL1 8MF,2024-04-09,1031.00,2024-04,f
+POL-CH004-00233,CH004,Southgate Property Partners,Phillips Ltd,SG1 4EA,2024-04-07,1909.00,2024-04,f
+POL-CH004-00232,CH004,Southgate Property Partners,Lane-Burgess,SG1 5HN,2024-04-20,1284.00,2024-04,f
+POL-CH004-00231,CH004,Southgate Property Partners,Elliott-Phillips,SL1 1EG,2024-04-04,2404.00,2024-04,f
+POL-CH004-00230,CH004,Southgate Property Partners,"Clarke, Cook and Ward",SL1 7TY,2024-04-03,1968.00,2024-04,f
+POL-CH004-00237,CH004,Southgate Property Partners,Jackson-Rice,RG1 3MG,2024-04-18,2599.00,2024-04,f
+POL-CH004-00238,CH004,Southgate Property Partners,"Collins, Turner and Parker",SL1 6JS,2024-04-12,1334.00,2024-04,f
+POL-CH004-00239,CH004,Southgate Property Partners,Jordan-Perry,AL1 9XO,2024-04-10,2091.00,2024-04,f
+POL-CH004-00240,CH004,Southgate Property Partners,Brooks PLC,AL1 2YD,2024-04-01,1697.00,2024-04,f
+POL-CH004-00241,CH004,Southgate Property Partners,"Johnson, Booth and Chadwick",EC1 9XJ,2024-04-05,1053.00,2024-04,f
+POL-CH004-00301,CH004,Southgate Property Partners,Doherty Inc,OX1 6ZR,2024-05-09,2660.00,2024-05,f
+POL-CH004-00291,CH004,Southgate Property Partners,Kennedy PLC,KT1 4BR,2024-05-02,2023.00,2024-05,f
+POL-CH004-00292,CH004,Southgate Property Partners,Cooper Inc,EN1 3VO,2024-05-22,1382.00,2024-05,f
+POL-CH004-00293,CH004,Southgate Property Partners,Hicks-Walsh,RH1 7GP,2024-05-08,839.00,2024-05,f
+POL-CH004-00294,CH004,Southgate Property Partners,"Holden, King and Robinson",CM1 7GH,2024-05-01,2153.00,2024-05,f
+POL-CH004-00295,CH004,Southgate Property Partners,Hall Inc,SL1 5PT,2024-05-26,1951.00,2024-05,f
+POL-CH004-00296,CH004,Southgate Property Partners,Murray-Miles,EC1 7PU,2024-05-06,3120.00,2024-05,f
+POL-CH004-00298,CH004,Southgate Property Partners,Gilbert PLC,KT2 6PE,2024-05-07,2059.00,2024-05,f
+POL-CH004-00299,CH004,Southgate Property Partners,Lucas-Begum,SM1 4YM,2024-05-10,1373.00,2024-05,f
+POL-CH004-00300,CH004,Southgate Property Partners,Cross-Evans,DA1 6BK,2024-05-01,2816.00,2024-05,f
+POL-CH004-00302,CH004,Southgate Property Partners,Williams-Burke,CM1 1MG,2024-05-21,1265.00,2024-05,f
+POL-CH004-00303,CH004,Southgate Property Partners,"Quinn, Atkinson and Manning",RG1 3JI,2024-05-04,1830.00,2024-05,f
+POL-CH004-00304,CH004,Southgate Property Partners,"Humphries, Singh and Nicholls",RG1 1DH,2024-05-19,886.00,2024-05,f
+POL-CH004-00356,CH004,Southgate Property Partners,Hill-Davies,CR0 3JZ,2024-06-14,2347.00,2024-06,f
+POL-CH004-00366,CH004,Southgate Property Partners,Johnson-Wade,GU1 7ZL,2024-06-15,2178.00,2024-06,f
+POL-CH004-00357,CH004,Southgate Property Partners,Newton Group,DA1 9HG,2024-06-20,1109.00,2024-06,f
+POL-CH004-00359,CH004,Southgate Property Partners,"Robertson, Dunn and Jones",SG1 8SG,2024-06-14,1408.00,2024-06,f
+POL-CH004-00360,CH004,Southgate Property Partners,Fry-Khan,KT1 9JP,2024-06-15,1392.00,2024-06,f
+POL-CH004-00361,CH004,Southgate Property Partners,Manning and Sons,TN1 2CU,2024-06-16,1040.00,2024-06,f
+POL-CH004-00362,CH004,Southgate Property Partners,"Cross, Smith and Rogers",CM1 2TH,2024-06-10,1070.00,2024-06,f
+POL-CH004-00363,CH004,Southgate Property Partners,"Akhtar, Wilson and Burton",SL1 5KZ,2024-06-27,2368.00,2024-06,f
+POL-CH004-00364,CH004,Southgate Property Partners,"Cooper, Newton and Walters",ME1 1TO,2024-06-08,3221.00,2024-06,f
+POL-CH004-00365,CH004,Southgate Property Partners,"Austin, Bennett and White",TW1 2RD,2024-06-02,1899.00,2024-06,f
+POL-CH004-00367,CH004,Southgate Property Partners,Burgess-Jones,ME1 1PT,2024-06-16,1865.00,2024-06,f
+POL-CH004-00369,CH004,Southgate Property Partners,Atkinson PLC,KT2 1NY,2024-06-08,1420.00,2024-06,f
+POL-CH004-00368,CH004,Southgate Property Partners,Brown-Storey,EC1 7VZ,2024-06-25,1748.00,2024-06,f
+POL-CH004-00428,CH004,Southgate Property Partners,"Smith, West and Graham",SM1 8VQ,2024-07-24,2118.00,2024-07,f
+POL-CH004-00421,CH004,Southgate Property Partners,"Fitzgerald, Taylor and Davis",CR0 3AV,2024-07-05,1782.00,2024-07,f
+POL-CH004-00422,CH004,Southgate Property Partners,"Stevens, Jackson and Frost",EN1 7DQ,2024-07-23,1520.00,2024-07,f
+POL-CH004-00423,CH004,Southgate Property Partners,"Hart, Newman and Lloyd",EN1 1XF,2024-07-11,1791.00,2024-07,f
+POL-CH004-00424,CH004,Southgate Property Partners,Douglas Inc,CR0 1EF,2024-07-07,3164.00,2024-07,f
+POL-CH004-00425,CH004,Southgate Property Partners,Grant-Moore,CR0 8MH,2024-07-28,1535.00,2024-07,f
+POL-CH004-00426,CH004,Southgate Property Partners,Thomson-Evans,AL1 7QF,2024-07-01,2168.00,2024-07,f
+POL-CH004-00427,CH004,Southgate Property Partners,Thompson LLC,EN1 9RS,2024-07-28,2115.00,2024-07,f
+POL-CH004-00429,CH004,Southgate Property Partners,Dawson and Sons,UB1 1YP,2024-07-08,2243.00,2024-07,f
+POL-CH004-00430,CH004,Southgate Property Partners,Berry PLC,DA1 3YV,2024-07-13,2376.00,2024-07,f
+POL-CH004-00487,CH004,Southgate Property Partners,Thomas-Ward,SE1 7NZ,2024-08-17,1906.00,2024-08,f
+POL-CH004-00488,CH004,Southgate Property Partners,Davies Group,HA1 6JQ,2024-08-27,1427.00,2024-08,f
+POL-CH004-00486,CH004,Southgate Property Partners,"Stokes, Morgan and Wilson",BR1 2IS,2024-08-12,1510.00,2024-08,f
+POL-CH004-00485,CH004,Southgate Property Partners,Rogers and Sons,BN1 1CZ,2024-08-23,2142.00,2024-08,f
+POL-CH004-00484,CH004,Southgate Property Partners,Joyce PLC,SL1 2JH,2024-08-23,2012.00,2024-08,f
+POL-CH004-00483,CH004,Southgate Property Partners,Parry-Barker,CR0 7SQ,2024-08-19,1450.00,2024-08,f
+POL-CH004-00482,CH004,Southgate Property Partners,Barton Inc,SE10 5UA,2024-08-10,2299.00,2024-08,f
+POL-CH004-00481,CH004,Southgate Property Partners,Walton Group,BN1 3CL,2024-08-20,2109.00,2024-08,f
+POL-CH004-00480,CH004,Southgate Property Partners,Phillips LLC,BR1 3KI,2024-08-15,2146.00,2024-08,f
+POL-CH004-00479,CH004,Southgate Property Partners,Stevenson-Collins,BN1 4ST,2024-08-05,1648.00,2024-08,f
+POL-CH004-00477,CH004,Southgate Property Partners,"Miah, Ward and Blackburn",SL1 4MU,2024-08-02,697.00,2024-08,f
+POL-CH004-00542,CH004,Southgate Property Partners,"Williams, Williamson and Harris",UB1 9NY,2024-09-08,1963.00,2024-09,f
+POL-CH004-00543,CH004,Southgate Property Partners,"Booth, Moore and Gibson",TW1 8DY,2024-09-25,1765.00,2024-09,f
+POL-CH004-00544,CH004,Southgate Property Partners,"Burgess, Miller and Smith",E1 5NA,2024-09-15,1973.00,2024-09,f
+POL-CH004-00545,CH004,Southgate Property Partners,Williams Inc,SL1 5MJ,2024-09-08,2671.00,2024-09,f
+POL-CH004-00546,CH004,Southgate Property Partners,McCarthy-Gibson,TW1 9QN,2024-09-22,1668.00,2024-09,f
+POL-CH004-00547,CH004,Southgate Property Partners,Forster-Conway,CM1 6PE,2024-09-17,2442.00,2024-09,f
+POL-CH004-00548,CH004,Southgate Property Partners,Morris-Carter,AL1 5WK,2024-09-23,2122.00,2024-09,f
+POL-CH004-00549,CH004,Southgate Property Partners,Williams Group,GU1 6OY,2024-09-08,1639.00,2024-09,f
+POL-CH004-00597,CH004,Southgate Property Partners,"Gregory, Moss and Gibson",TW1 2QV,2024-10-09,1690.00,2024-10,f
+POL-CH004-00596,CH004,Southgate Property Partners,"Whitehouse, Clark and Hall",RH1 1ZI,2024-10-16,2679.00,2024-10,f
+POL-CH004-00599,CH004,Southgate Property Partners,"Murphy, Adams and Little",SW1 3KC,2024-10-19,1139.00,2024-10,f
+POL-CH004-00600,CH004,Southgate Property Partners,"Pope, Carroll and Douglas",AL1 2AQ,2024-10-05,1384.00,2024-10,f
+POL-CH004-00601,CH004,Southgate Property Partners,Smith Group,EN1 4ED,2024-10-08,959.00,2024-10,f
+POL-CH004-00602,CH004,Southgate Property Partners,Preston-Hughes,IG1 8JL,2024-10-25,2250.00,2024-10,f
+POL-CH004-00603,CH004,Southgate Property Partners,Green PLC,HA1 5HZ,2024-10-10,2001.00,2024-10,f
+POL-CH004-00604,CH004,Southgate Property Partners,"Baker, Lane and Jones",EC1 4JJ,2024-10-19,1146.00,2024-10,f
+POL-CH004-00605,CH004,Southgate Property Partners,Roberts Ltd,E1 3DN,2024-10-21,2026.00,2024-10,f
+POL-CH004-00606,CH004,Southgate Property Partners,"Burke, Hobbs and Carter",SW6 3EB,2024-10-08,1769.00,2024-10,f
+POL-CH004-00607,CH004,Southgate Property Partners,"Berry, Hunter and Pearce",TW1 5QM,2024-10-01,1841.00,2024-10,f
+POL-CH004-00608,CH004,Southgate Property Partners,"Taylor, Fisher and Mitchell",HP1 8OA,2024-10-02,1302.00,2024-10,f
+POL-CH004-00663,CH004,Southgate Property Partners,Anderson-Talbot,CM1 6PW,2024-11-16,1472.00,2024-11,f
+POL-CH004-00659,CH004,Southgate Property Partners,Holt-Parker,OX1 1OM,2024-11-25,1706.00,2024-11,f
+POL-CH004-00667,CH004,Southgate Property Partners,Barton-O'Connor,SG1 2EF,2024-11-03,2502.00,2024-11,f
+POL-CH004-00666,CH004,Southgate Property Partners,"Peacock, Fuller and Lee",SE15 8VT,2024-11-27,2200.00,2024-11,f
+POL-CH004-00660,CH004,Southgate Property Partners,"James, Taylor and Khan",TW1 9PE,2024-11-25,1059.00,2024-11,f
+POL-CH004-00665,CH004,Southgate Property Partners,Sheppard-King,HP1 7XY,2024-11-14,2964.00,2024-11,f
+POL-CH004-00661,CH004,Southgate Property Partners,"Garner, Gill and Johnson",OX1 3CE,2024-11-21,2594.00,2024-11,f
+POL-CH004-00664,CH004,Southgate Property Partners,Bailey LLC,TN1 6PK,2024-11-22,2166.00,2024-11,f
+POL-CH004-00662,CH004,Southgate Property Partners,Dale and Sons,UB1 2RO,2024-11-19,1438.00,2024-11,f
+POL-CH004-00724,CH004,Southgate Property Partners,"Kennedy, Morgan and Williams",CR0 4GP,2024-12-15,1555.00,2024-12,f
+POL-CH004-00725,CH004,Southgate Property Partners,Murphy-Butcher,CT1 2IR,2024-12-20,2315.00,2024-12,f
+POL-CH004-00726,CH004,Southgate Property Partners,"Young, Turner and Marsden",EN1 6ZP,2024-12-09,2597.00,2024-12,f
+POL-CH004-00727,CH004,Southgate Property Partners,"Joyce, Bolton and Sutton",SE1 5BG,2024-12-26,1695.00,2024-12,f
+POL-CH004-00730,CH004,Southgate Property Partners,Farrell-Fletcher,CR0 8JG,2024-12-18,2140.00,2024-12,f
+POL-CH004-00723,CH004,Southgate Property Partners,Kemp Ltd,TW1 4CO,2024-12-27,1798.00,2024-12,f
+POL-CH004-00722,CH004,Southgate Property Partners,Jones-Barlow,OX1 7VI,2024-12-10,1502.00,2024-12,f
+POL-CH004-00729,CH004,Southgate Property Partners,Mahmood Group,SS1 6EI,2024-12-15,1734.00,2024-12,f
+POL-CH004-00728,CH004,Southgate Property Partners,"Lawrence, Lloyd and Jones",UB1 3SR,2024-12-24,792.00,2024-12,f
+POL-CH004-00731,CH004,Southgate Property Partners,Gibson-Marsden,SL1 7XT,2024-12-11,2801.00,2024-12,f
+POL-CH004-00732,CH004,Southgate Property Partners,"White, Stewart and Pearce",EN1 1LL,2024-12-08,2114.00,2024-12,f
+POL-CH004-00733,CH004,Southgate Property Partners,"Craig, Lord and Johnson",CR0 7WP,2024-12-11,1281.00,2024-12,f
+POL-CH004-00734,CH004,Southgate Property Partners,Slater-Saunders,ME1 8IV,2024-12-22,2387.00,2024-12,f
+POL-CH004-00805,CH004,Southgate Property Partners,"Hutchinson, Murphy and Richards",AL1 4BS,2025-01-23,1588.00,2025-01,f
+POL-CH004-00795,CH004,Southgate Property Partners,"Wood, Charlton and Carpenter",AL1 1BB,2025-01-04,1904.00,2025-01,f
+POL-CH004-00796,CH004,Southgate Property Partners,Turnbull and Sons,SW1 5WC,2025-01-02,1982.00,2025-01,f
+POL-CH004-00797,CH004,Southgate Property Partners,Gilbert Group,ME1 4ZF,2025-01-12,1890.00,2025-01,f
+POL-CH004-00798,CH004,Southgate Property Partners,"Gregory, Winter and Hawkins",RH1 3IM,2025-01-17,1256.00,2025-01,f
+POL-CH004-00800,CH004,Southgate Property Partners,"Potter, White and Dunn",ME1 4OV,2025-01-16,654.00,2025-01,f
+POL-CH004-00801,CH004,Southgate Property Partners,Hughes Ltd,KT2 5PQ,2025-01-15,2500.00,2025-01,f
+POL-CH004-00803,CH004,Southgate Property Partners,Harris and Sons,SW6 8PF,2025-01-22,2253.00,2025-01,f
+POL-CH004-00804,CH004,Southgate Property Partners,"Lee, Short and Jackson",AL1 7YX,2025-01-12,1670.00,2025-01,f
+POL-CH004-00806,CH004,Southgate Property Partners,"Randall, Davies and Clark",EC1 4FG,2025-01-13,2672.00,2025-01,f
+POL-CH004-00869,CH004,Southgate Property Partners,"Bryan, Edwards and Pearson",SW6 3QX,2025-02-26,944.00,2025-02,f
+POL-CH004-00870,CH004,Southgate Property Partners,Shaw-Woods,DA1 9WA,2025-02-25,2074.00,2025-02,f
+POL-CH004-00871,CH004,Southgate Property Partners,"Cross, Thompson and King",DA1 1NJ,2025-02-12,2283.00,2025-02,f
+POL-CH004-00872,CH004,Southgate Property Partners,Lawrence LLC,KT2 6GF,2025-02-09,1879.00,2025-02,f
+POL-CH004-00873,CH004,Southgate Property Partners,Walters-Cook,RG1 7UW,2025-02-22,2284.00,2025-02,f
+POL-CH004-00874,CH004,Southgate Property Partners,Bishop PLC,BR1 2ZY,2025-02-27,1318.00,2025-02,f
+POL-CH004-00875,CH004,Southgate Property Partners,Henry Group,SE10 9JL,2025-02-22,1411.00,2025-02,f
+POL-CH004-00868,CH004,Southgate Property Partners,George-Glover,HP1 6RI,2025-02-27,982.00,2025-02,f
+POL-CH004-00867,CH004,Southgate Property Partners,"Patterson, White and Daly",TN1 5KL,2025-02-17,1767.00,2025-02,f
+POL-CH004-00866,CH004,Southgate Property Partners,"Cook, Collins and Martin",BR1 9YB,2025-02-05,1811.00,2025-02,f
+POL-CH004-00865,CH004,Southgate Property Partners,"Allen, Smith and Benson",RH1 4PI,2025-02-11,1370.00,2025-02,f
+POL-CH004-00935,CH004,Southgate Property Partners,"Harris, Cooke and Barry",KT1 4FO,2025-03-03,1945.00,2025-03,f
+POL-CH004-00931,CH004,Southgate Property Partners,Mitchell-Collins,SS1 1XU,2025-03-18,3227.00,2025-03,f
+POL-CH004-00932,CH004,Southgate Property Partners,Begum-Turner,BN1 8RY,2025-03-13,1937.00,2025-03,f
+POL-CH004-00933,CH004,Southgate Property Partners,Holmes-Jones,SE10 1KP,2025-03-03,2386.00,2025-03,f
+POL-CH004-00934,CH004,Southgate Property Partners,"Patel, Parry and Simpson",CT1 4JE,2025-03-26,1966.00,2025-03,f
+POL-CH004-00936,CH004,Southgate Property Partners,Dawson LLC,CM1 3CD,2025-03-27,2135.00,2025-03,f
+POL-CH004-00937,CH004,Southgate Property Partners,"Jones, Smith and Hawkins",SE1 5ZZ,2025-03-26,2003.00,2025-03,f
+POL-CH004-00938,CH004,Southgate Property Partners,Bradley-Thomas,CT1 9UD,2025-03-28,2408.00,2025-03,f
+POL-CH004-00939,CH004,Southgate Property Partners,"Jones, Page and Black",BN1 1NN,2025-03-09,842.00,2025-03,f
+POL-CH004-00941,CH004,Southgate Property Partners,"Marsh, Page and Morris",SW1 3FP,2025-03-01,1478.00,2025-03,f
+POL-CH004-01000,CH004,Southgate Property Partners,Brown Ltd,EN1 2FQ,2025-04-27,2450.00,2025-04,f
+POL-CH004-01001,CH004,Southgate Property Partners,White-Smith,RG1 6TR,2025-04-11,1556.00,2025-04,f
+POL-CH004-01002,CH004,Southgate Property Partners,Bell-Green,TW1 2EG,2025-04-05,2124.00,2025-04,f
+POL-CH004-01003,CH004,Southgate Property Partners,Wheeler Inc,E1 7WC,2025-04-03,560.00,2025-04,f
+POL-CH004-01004,CH004,Southgate Property Partners,Davison and Sons,BR1 3CL,2025-04-04,1140.00,2025-04,f
+POL-CH004-00999,CH004,Southgate Property Partners,Sykes-Miah,EN1 6XK,2025-04-15,1629.00,2025-04,f
+POL-CH004-01006,CH004,Southgate Property Partners,"Watts, Evans and Doherty",EN1 6OI,2025-04-11,2584.00,2025-04,f
+POL-CH004-01007,CH004,Southgate Property Partners,"Wilkinson, Cooper and Johnston",HA1 1AG,2025-04-28,1962.00,2025-04,f
+POL-CH004-01008,CH004,Southgate Property Partners,"Bartlett, Collins and Smith",SS1 2MO,2025-04-10,1185.00,2025-04,f
+POL-CH004-01009,CH004,Southgate Property Partners,Lucas and Sons,ME1 8WI,2025-04-19,1759.00,2025-04,f
+POL-CH004-00998,CH004,Southgate Property Partners,Holland PLC,KT1 7SO,2025-04-26,1906.00,2025-04,f
+POL-CH004-00997,CH004,Southgate Property Partners,Rose-Harvey,HA1 2BJ,2025-04-15,2467.00,2025-04,f
+POL-CH004-01061,CH004,Southgate Property Partners,"Cox, Collins and Green",E1 1GU,2025-05-10,1283.00,2025-05,f
+POL-CH004-01062,CH004,Southgate Property Partners,Morris LLC,SW1 2SE,2025-05-05,2601.00,2025-05,f
+POL-CH004-01063,CH004,Southgate Property Partners,Harrison and Sons,HA1 8JS,2025-05-09,1630.00,2025-05,f
+POL-CH004-01064,CH004,Southgate Property Partners,"Turner, Smith and Gough",OX1 4WA,2025-05-20,1124.00,2025-05,f
+POL-CH004-01065,CH004,Southgate Property Partners,Kennedy Group,SS1 7NS,2025-05-25,2276.00,2025-05,f
+POL-CH004-01066,CH004,Southgate Property Partners,Khan-Woodward,UB1 9HQ,2025-05-04,1546.00,2025-05,f
+POL-CH004-01067,CH004,Southgate Property Partners,Turner-Dobson,SM1 7MB,2025-05-22,1564.00,2025-05,f
+POL-CH004-01069,CH004,Southgate Property Partners,"Ward, Bennett and Miller",RG1 5UK,2025-05-07,1606.00,2025-05,f
+POL-CH004-01070,CH004,Southgate Property Partners,Norton-Jones,UB1 7JL,2025-05-11,2201.00,2025-05,f
+POL-CH004-01059,CH004,Southgate Property Partners,Chadwick Inc,KT1 7HC,2025-05-03,2774.00,2025-05,f
+POL-CH004-01060,CH004,Southgate Property Partners,"Bradshaw, Evans and Chamberlain",TN1 6NH,2025-05-14,2188.00,2025-05,f
+POL-CH004-01126,CH004,Southgate Property Partners,Lewis-Woodward,BN1 9UO,2025-06-25,1443.00,2025-06,f
+POL-CH004-01127,CH004,Southgate Property Partners,Davey-Hall,SS1 6QQ,2025-06-17,2027.00,2025-06,f
+POL-CH004-01128,CH004,Southgate Property Partners,"Norris, Wright and Smith",ME1 4JO,2025-06-24,1515.00,2025-06,f
+POL-CH004-01129,CH004,Southgate Property Partners,Pugh-Reed,GU1 3GI,2025-06-04,2392.00,2025-06,f
+POL-CH004-01130,CH004,Southgate Property Partners,"Brown, Wallace and Green",SW6 3BO,2025-06-20,1334.00,2025-06,f
+POL-CH004-01131,CH004,Southgate Property Partners,Briggs LLC,KT2 8OB,2025-06-25,1588.00,2025-06,f
+POL-CH004-01132,CH004,Southgate Property Partners,"Robinson, Nash and Barton",SG1 6RN,2025-06-22,2133.00,2025-06,f
+POL-CH004-01135,CH004,Southgate Property Partners,Richards PLC,AL1 8WY,2025-06-12,1877.00,2025-06,f
+POL-CH004-01133,CH004,Southgate Property Partners,Saunders LLC,TW1 8WZ,2025-06-05,1062.00,2025-06,f
+POL-CH004-01134,CH004,Southgate Property Partners,Yates-Bradley,OX1 1EN,2025-06-21,1941.00,2025-06,f
+POL-CH004-01125,CH004,Southgate Property Partners,Murphy and Sons,SM1 6BQ,2025-06-10,1826.00,2025-06,f

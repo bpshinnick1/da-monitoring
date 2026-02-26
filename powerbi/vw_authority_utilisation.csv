@@ -1,0 +1,11 @@
+coverholder_id,coverholder_name,underwriting_year,authority_limit,cumulative_premium,utilisation_pct,utilisation_status
+CH001,Avonbridge Underwriting,2024,2000000.00,919690.00,46.0,OK
+CH001,Avonbridge Underwriting,2025,2000000.00,441279.00,22.1,OK
+CH002,Meridian Risk Solutions,2024,1500000.00,504680.00,33.6,OK
+CH002,Meridian Risk Solutions,2025,1500000.00,352952.00,23.5,OK
+CH003,Fortis Professional Risks,2024,1000000.00,616628.00,61.7,OK
+CH003,Fortis Professional Risks,2025,1000000.00,331823.00,33.2,OK
+CH004,Southgate Property Partners,2024,500000.00,259321.00,51.9,OK
+CH004,Southgate Property Partners,2025,500000.00,129826.00,26.0,OK
+CH005,Ironclad Construction Risks,2024,750000.00,282795.00,37.7,OK
+CH005,Ironclad Construction Risks,2025,750000.00,119581.00,15.9,OK

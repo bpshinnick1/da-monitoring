@@ -1,0 +1,6 @@
+coverholder_id,coverholder_name,class_of_business,territory,authority_limit,rolling_loss_ratio_pct,utilisation_pct,utilisation_status,geo_breach_count,late_submission_count,rag_status
+CH004,Southgate Property Partners,Commercial Property,South East,500000.00,32.7,26.0,OK,17,0,RED
+CH005,Ironclad Construction Risks,EL/PL Liability,Construction sector,750000.00,62.4,15.9,OK,0,14,AMBER
+CH001,Avonbridge Underwriting,Commercial Property,UK-wide,2000000.00,44.3,22.1,OK,0,0,GREEN
+CH002,Meridian Risk Solutions,EL/PL Liability,UK-wide,1500000.00,41.3,23.5,OK,0,0,GREEN
+CH003,Fortis Professional Risks,Professional Indemnity,UK-wide,1000000.00,61.8,33.2,OK,0,1,GREEN

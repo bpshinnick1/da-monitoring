@@ -1,0 +1,1144 @@
+policy_ref,coverholder_id,coverholder_name,inception_date,expiry_date,class_of_business,insured_name,postcode,premium,sum_insured,underwriting_year,bound_month
+POL-CH001-00001,CH001,Avonbridge Underwriting,2024-01-21,2025-01-21,Commercial Property,Walsh Inc,DL90 0EZ,4025,987633,2024,2024-01
+POL-CH001-00002,CH001,Avonbridge Underwriting,2024-01-04,2025-01-04,Commercial Property,"Rees, Hall and Evans",CV28 8WG,6119,800242,2024,2024-01
+POL-CH001-00003,CH001,Avonbridge Underwriting,2024-01-01,2025-01-01,Commercial Property,Thompson-Holland,TR5E 6WD,3904,1185582,2024,2024-01
+POL-CH001-00004,CH001,Avonbridge Underwriting,2024-01-24,2025-01-24,Commercial Property,Hudson-Harrison,RM17 6ED,5166,750236,2024,2024-01
+POL-CH001-00005,CH001,Avonbridge Underwriting,2024-01-09,2025-01-09,Commercial Property,Murray-Evans,CF91 8TG,4883,751523,2024,2024-01
+POL-CH001-00006,CH001,Avonbridge Underwriting,2024-01-08,2025-01-08,Commercial Property,James Inc,G2 2SS,3613,901416,2024,2024-01
+POL-CH001-00007,CH001,Avonbridge Underwriting,2024-01-08,2025-01-08,Commercial Property,"Reid, Turner and Ward",N1W 1QU,1789,483454,2024,2024-01
+POL-CH001-00008,CH001,Avonbridge Underwriting,2024-01-05,2025-01-05,Commercial Property,"Carter, Chamberlain and Lawrence",B1 1ED,3491,634773,2024,2024-01
+POL-CH001-00009,CH001,Avonbridge Underwriting,2024-01-24,2025-01-24,Commercial Property,Smith Ltd,PH67 9QG,4595,657044,2024,2024-01
+POL-CH001-00010,CH001,Avonbridge Underwriting,2024-01-04,2025-01-04,Commercial Property,Marsh-Hardy,GU69 9JF,2420,1161450,2024,2024-01
+POL-CH001-00011,CH001,Avonbridge Underwriting,2024-01-22,2025-01-22,Commercial Property,Thomas-Coleman,CB7B 1SE,3915,864349,2024,2024-01
+POL-CH001-00012,CH001,Avonbridge Underwriting,2024-01-24,2025-01-24,Commercial Property,"Mitchell, Lamb and Jones",W5 7BT,2404,734318,2024,2024-01
+POL-CH001-00013,CH001,Avonbridge Underwriting,2024-01-18,2025-01-18,Commercial Property,"Harris, Richards and Jones",WD2 4PE,4339,605413,2024,2024-01
+POL-CH001-00014,CH001,Avonbridge Underwriting,2024-01-03,2025-01-03,Commercial Property,Jones and Sons,E66 8AL,4673,722364,2024,2024-01
+POL-CH001-00015,CH001,Avonbridge Underwriting,2024-01-19,2025-01-19,Commercial Property,"Hill, Miller and Collins",S4C 7NQ,3832,722137,2024,2024-01
+POL-CH001-00016,CH001,Avonbridge Underwriting,2024-01-14,2025-01-14,Commercial Property,"Graham, Robinson and Moore",G4J 2HD,6533,847131,2024,2024-01
+POL-CH001-00017,CH001,Avonbridge Underwriting,2024-01-02,2025-01-02,Commercial Property,"Patel, Pollard and Hamilton",RH06 4RQ,2867,1024790,2024,2024-01
+POL-CH001-00018,CH001,Avonbridge Underwriting,2024-01-01,2025-01-01,Commercial Property,Fraser and Sons,G77 1XW,2661,894383,2024,2024-01
+POL-CH001-00019,CH001,Avonbridge Underwriting,2024-01-03,2025-01-03,Commercial Property,"Ali, Carter and George",N0C 2SS,1730,567760,2024,2024-01
+POL-CH002-00020,CH002,Meridian Risk Solutions,2024-01-07,2025-01-07,EL/PL Liability,"Archer, Davies and Jones",LE7 6EB,3786,521421,2024,2024-01
+POL-CH002-00021,CH002,Meridian Risk Solutions,2024-01-08,2025-01-08,EL/PL Liability,"Goddard, Ahmed and Jones",IP59 7ZS,2992,462362,2024,2024-01
+POL-CH002-00022,CH002,Meridian Risk Solutions,2024-01-17,2025-01-17,EL/PL Liability,White LLC,E3 8TS,1724,410019,2024,2024-01
+POL-CH002-00023,CH002,Meridian Risk Solutions,2024-01-20,2025-01-20,EL/PL Liability,Cox LLC,HD18 0FH,2671,632140,2024,2024-01
+POL-CH002-00024,CH002,Meridian Risk Solutions,2024-01-01,2025-01-01,EL/PL Liability,Mason Inc,S7 2NX,3419,279619,2024,2024-01
+POL-CH002-00025,CH002,Meridian Risk Solutions,2024-01-18,2025-01-18,EL/PL Liability,Page LLC,M9 0WB,3401,451864,2024,2024-01
+POL-CH002-00026,CH002,Meridian Risk Solutions,2024-01-07,2025-01-07,EL/PL Liability,Mills Ltd,AB75 5BS,2470,576459,2024,2024-01
+POL-CH002-00027,CH002,Meridian Risk Solutions,2024-01-23,2025-01-23,EL/PL Liability,Walker PLC,E1 3NT,4058,616410,2024,2024-01
+POL-CH002-00028,CH002,Meridian Risk Solutions,2024-01-21,2025-01-21,EL/PL Liability,Singh and Sons,L83 6YT,2319,461348,2024,2024-01
+POL-CH002-00029,CH002,Meridian Risk Solutions,2024-01-23,2025-01-23,EL/PL Liability,"Smith, Jackson and Russell",LL03 1PW,3408,621943,2024,2024-01
+POL-CH002-00030,CH002,Meridian Risk Solutions,2024-01-18,2025-01-18,EL/PL Liability,Moran and Sons,EH21 2DW,2654,476792,2024,2024-01
+POL-CH002-00031,CH002,Meridian Risk Solutions,2024-01-14,2025-01-14,EL/PL Liability,"Porter, Wright and Quinn",W85 1TJ,2071,350474,2024,2024-01
+POL-CH002-00032,CH002,Meridian Risk Solutions,2024-01-08,2025-01-08,EL/PL Liability,Harris LLC,N8F 0DP,3855,669530,2024,2024-01
+POL-CH002-00033,CH002,Meridian Risk Solutions,2024-01-15,2025-01-15,EL/PL Liability,Jones-Turnbull,SS3R 5SU,3033,625441,2024,2024-01
+POL-CH003-00034,CH003,Fortis Professional Risks,2024-01-19,2025-01-19,Professional Indemnity,Knight-Morris,TQ97 0US,4435,1308418,2024,2024-01
+POL-CH003-00035,CH003,Fortis Professional Risks,2024-01-09,2025-01-09,Professional Indemnity,Owen-Palmer,FK4P 7HU,8037,1189252,2024,2024-01
+POL-CH003-00036,CH003,Fortis Professional Risks,2024-01-26,2025-01-26,Professional Indemnity,Gardiner Group,DY6W 3AU,8081,414076,2024,2024-01
+POL-CH003-00037,CH003,Fortis Professional Risks,2024-01-28,2025-01-28,Professional Indemnity,"Patterson, Phillips and Stone",B8 2UB,6856,1226114,2024,2024-01
+POL-CH003-00038,CH003,Fortis Professional Risks,2024-01-01,2025-01-01,Professional Indemnity,Rose Group,L2J 4BS,5006,1227528,2024,2024-01
+POL-CH003-00039,CH003,Fortis Professional Risks,2024-01-25,2025-01-25,Professional Indemnity,"Watkins, Hicks and Harding",E1H 4NG,2220,1134098,2024,2024-01
+POL-CH003-00040,CH003,Fortis Professional Risks,2024-01-26,2025-01-26,Professional Indemnity,Ryan-Ali,DA79 0LA,6089,1643368,2024,2024-01
+POL-CH003-00041,CH003,Fortis Professional Risks,2024-01-06,2025-01-06,Professional Indemnity,"Singh, Martin and Martin",G7 2SJ,4644,957451,2024,2024-01
+POL-CH003-00042,CH003,Fortis Professional Risks,2024-01-23,2025-01-23,Professional Indemnity,"Wilkinson, Watts and Clarke",CV4Y 3XB,4672,1474620,2024,2024-01
+POL-CH003-00043,CH003,Fortis Professional Risks,2024-01-14,2025-01-14,Professional Indemnity,"Davies, Buckley and Jarvis",G4 4WJ,6042,1041071,2024,2024-01
+POL-CH004-00044,CH004,Southgate Property Partners,2024-01-11,2025-01-11,Commercial Property,Jones and Sons,KT1 6PT,1852,496864,2024,2024-01
+POL-CH004-00045,CH004,Southgate Property Partners,2024-01-04,2025-01-04,Commercial Property,Gallagher-Byrne,EC1 6OY,1420,367233,2024,2024-01
+POL-CH004-00046,CH004,Southgate Property Partners,2024-01-28,2025-01-28,Commercial Property,"Harris, Bray and McCarthy",RG1 1ZK,1588,253648,2024,2024-01
+POL-CH004-00047,CH004,Southgate Property Partners,2024-01-24,2025-01-24,Commercial Property,"Stokes, Williams and Nash",BN1 7NZ,1959,426105,2024,2024-01
+POL-CH004-00048,CH004,Southgate Property Partners,2024-01-03,2025-01-03,Commercial Property,Lawson-Anderson,BR1 4LX,1802,376541,2024,2024-01
+POL-CH004-00049,CH004,Southgate Property Partners,2024-01-23,2025-01-23,Commercial Property,"Norton, Smith and Khan",L2 5VK,1035,357935,2024,2024-01
+POL-CH004-00050,CH004,Southgate Property Partners,2024-01-03,2025-01-03,Commercial Property,"Wells, Lane and Davison",EC1 7AN,1614,319772,2024,2024-01
+POL-CH004-00051,CH004,Southgate Property Partners,2024-01-09,2025-01-09,Commercial Property,"Smart, Andrews and Brookes",BR1 3HU,1712,440405,2024,2024-01
+POL-CH004-00052,CH004,Southgate Property Partners,2024-01-12,2025-01-12,Commercial Property,Shah Group,OX1 2RO,2818,417457,2024,2024-01
+POL-CH004-00053,CH004,Southgate Property Partners,2024-01-20,2025-01-20,Commercial Property,"Godfrey, Humphreys and Ward",SL1 3HZ,1939,392555,2024,2024-01
+POL-CH004-00054,CH004,Southgate Property Partners,2024-01-15,2025-01-15,Commercial Property,Ellis PLC,SM1 6DE,763,397348,2024,2024-01
+POL-CH004-00055,CH004,Southgate Property Partners,2024-01-27,2025-01-27,Commercial Property,Mitchell Group,SW1 4SO,1832,646324,2024,2024-01
+POL-CH005-00056,CH005,Ironclad Construction Risks,2024-01-27,2025-01-27,EL/PL Liability,Day-Dennis,LE9X 8DE,2835,594793,2024,2024-01
+POL-CH005-00057,CH005,Ironclad Construction Risks,2024-01-02,2025-01-02,EL/PL Liability,Robson Ltd,NW8P 8GF,1688,771423,2024,2024-01
+POL-CH005-00058,CH005,Ironclad Construction Risks,2024-01-26,2025-01-26,EL/PL Liability,"Reynolds, Davies and Smith",SK8 2JJ,3186,718654,2024,2024-01
+POL-CH005-00059,CH005,Ironclad Construction Risks,2024-01-11,2025-01-11,EL/PL Liability,Kerr and Sons,E31 8NU,1890,810419,2024,2024-01
+POL-CH005-00060,CH005,Ironclad Construction Risks,2024-01-13,2025-01-13,EL/PL Liability,"Griffiths, Kelly and Dennis",CV7 1YN,1506,688028,2024,2024-01
+POL-CH005-00061,CH005,Ironclad Construction Risks,2024-01-09,2025-01-09,EL/PL Liability,Khan-Jones,CO45 6ND,4308,451419,2024,2024-01
+POL-CH005-00062,CH005,Ironclad Construction Risks,2024-01-03,2025-01-03,EL/PL Liability,"Watson, Cooper and James",N10 2UW,2158,614947,2024,2024-01
+POL-CH005-00063,CH005,Ironclad Construction Risks,2024-01-07,2025-01-07,EL/PL Liability,Robinson Group,SG8N 9BP,2207,367400,2024,2024-01
+POL-CH001-00064,CH001,Avonbridge Underwriting,2024-02-19,2025-02-19,Commercial Property,Jones and Sons,OX5E 8XY,2861,950638,2024,2024-02
+POL-CH001-00065,CH001,Avonbridge Underwriting,2024-02-23,2025-02-23,Commercial Property,Warner Ltd,L5D 1TL,3041,1179361,2024,2024-02
+POL-CH001-00066,CH001,Avonbridge Underwriting,2024-02-11,2025-02-11,Commercial Property,"Hamilton, Sullivan and Jones",RM3 4PQ,3213,781561,2024,2024-02
+POL-CH001-00067,CH001,Avonbridge Underwriting,2024-02-07,2025-02-07,Commercial Property,Singh-Johnson,TR9R 0SS,5225,588441,2024,2024-02
+POL-CH001-00068,CH001,Avonbridge Underwriting,2024-02-21,2025-02-21,Commercial Property,Jones Group,WV69 2WD,4486,1127767,2024,2024-02
+POL-CH001-00069,CH001,Avonbridge Underwriting,2024-02-16,2025-02-16,Commercial Property,"Spencer, Dickinson and Akhtar",M7 9QR,2174,889234,2024,2024-02
+POL-CH001-00070,CH001,Avonbridge Underwriting,2024-02-13,2025-02-13,Commercial Property,"Brown, Roberts and Ali",L90 6QE,4527,1016137,2024,2024-02
+POL-CH001-00071,CH001,Avonbridge Underwriting,2024-02-21,2025-02-21,Commercial Property,Sharp Inc,E0 8PY,2641,569402,2024,2024-02
+POL-CH001-00072,CH001,Avonbridge Underwriting,2024-02-15,2025-02-15,Commercial Property,"Davis, Carey and Cox",G32 2WW,4857,913109,2024,2024-02
+POL-CH001-00073,CH001,Avonbridge Underwriting,2024-02-05,2025-02-05,Commercial Property,Hunter PLC,S4 7DN,4515,923620,2024,2024-02
+POL-CH001-00074,CH001,Avonbridge Underwriting,2024-02-09,2025-02-09,Commercial Property,Williamson-Fowler,DY0A 3FF,3343,899353,2024,2024-02
+POL-CH001-00075,CH001,Avonbridge Underwriting,2024-02-05,2025-02-05,Commercial Property,Knight Ltd,S3G 3NS,4569,698200,2024,2024-02
+POL-CH001-00076,CH001,Avonbridge Underwriting,2024-02-08,2025-02-08,Commercial Property,Sheppard-Leach,M9 1JJ,6550,950689,2024,2024-02
+POL-CH001-00077,CH001,Avonbridge Underwriting,2024-02-24,2025-02-24,Commercial Property,Williams PLC,OL5 8XH,2698,989517,2024,2024-02
+POL-CH001-00078,CH001,Avonbridge Underwriting,2024-02-18,2025-02-18,Commercial Property,"Thompson, Palmer and Thomas",SM1 1WJ,2971,1017255,2024,2024-02
+POL-CH001-00079,CH001,Avonbridge Underwriting,2024-02-18,2025-02-18,Commercial Property,Mistry and Sons,G0 7UR,5659,675605,2024,2024-02
+POL-CH001-00080,CH001,Avonbridge Underwriting,2024-02-09,2025-02-09,Commercial Property,"Nicholls, Davis and Riley",W5U 7UW,5413,937715,2024,2024-02
+POL-CH001-00081,CH001,Avonbridge Underwriting,2024-02-24,2025-02-24,Commercial Property,Marsh LLC,S8 3JY,5235,1253068,2024,2024-02
+POL-CH002-00082,CH002,Meridian Risk Solutions,2024-02-19,2025-02-19,EL/PL Liability,Baldwin-Smith,E39 1XR,2399,388810,2024,2024-02
+POL-CH002-00083,CH002,Meridian Risk Solutions,2024-02-14,2025-02-14,EL/PL Liability,Cook Ltd,NE2X 9QS,2341,490362,2024,2024-02
+POL-CH002-00084,CH002,Meridian Risk Solutions,2024-02-19,2025-02-19,EL/PL Liability,"Bird, Evans and Smith",EH5H 7BS,3417,534586,2024,2024-02
+POL-CH002-00085,CH002,Meridian Risk Solutions,2024-02-13,2025-02-13,EL/PL Liability,"Williams, Gregory and Jones",B08 3PW,3869,501625,2024,2024-02
+POL-CH002-00086,CH002,Meridian Risk Solutions,2024-02-12,2025-02-12,EL/PL Liability,Hall Group,NE2N 2DW,4451,466917,2024,2024-02
+POL-CH002-00087,CH002,Meridian Risk Solutions,2024-02-08,2025-02-08,EL/PL Liability,"Holt, Turner and Pearce",CV58 8FH,5629,578208,2024,2024-02
+POL-CH002-00088,CH002,Meridian Risk Solutions,2024-02-05,2025-02-05,EL/PL Liability,Ford PLC,N84 6YP,2302,366138,2024,2024-02
+POL-CH002-00089,CH002,Meridian Risk Solutions,2024-02-17,2025-02-17,EL/PL Liability,Morrison Ltd,TR3 1ZW,3548,472067,2024,2024-02
+POL-CH002-00090,CH002,Meridian Risk Solutions,2024-02-16,2025-02-16,EL/PL Liability,"Marshall, Jordan and Reeves",BD1H 5SR,3764,559154,2024,2024-02
+POL-CH002-00091,CH002,Meridian Risk Solutions,2024-02-03,2025-02-03,EL/PL Liability,Dunn-Harris,KA81 4BE,3032,394150,2024,2024-02
+POL-CH002-00092,CH002,Meridian Risk Solutions,2024-02-25,2025-02-25,EL/PL Liability,"Hughes, Cross and Cook",GU5 1HH,1691,444185,2024,2024-02
+POL-CH002-00093,CH002,Meridian Risk Solutions,2024-02-02,2025-02-02,EL/PL Liability,Mason-Jones,E0 0LR,3896,526761,2024,2024-02
+POL-CH002-00094,CH002,Meridian Risk Solutions,2024-02-28,2025-02-28,EL/PL Liability,"Banks, Khan and Douglas",G41 9GB,1941,521647,2024,2024-02
+POL-CH003-00095,CH003,Fortis Professional Risks,2024-02-04,2025-02-04,Professional Indemnity,"Turnbull, Phillips and Miles",PO4H 8FB,4041,1246117,2024,2024-02
+POL-CH003-00096,CH003,Fortis Professional Risks,2024-02-05,2025-02-05,Professional Indemnity,Thompson Ltd,W17 3XL,5596,857108,2024,2024-02
+POL-CH003-00097,CH003,Fortis Professional Risks,2024-02-21,2025-02-21,Professional Indemnity,Fuller Group,CT0X 3EN,6090,1368235,2024,2024-02
+POL-CH003-00098,CH003,Fortis Professional Risks,2024-02-06,2025-02-06,Professional Indemnity,"Reid, Williams and Williams",BN6 4LU,7287,1516140,2024,2024-02
+POL-CH003-00099,CH003,Fortis Professional Risks,2024-02-26,2025-02-26,Professional Indemnity,Kelly LLC,B6 5FA,3226,918652,2024,2024-02
+POL-CH003-00100,CH003,Fortis Professional Risks,2024-02-22,2025-02-22,Professional Indemnity,Harris and Sons,NR44 7NH,6349,1354135,2024,2024-02
+POL-CH003-00101,CH003,Fortis Professional Risks,2024-02-14,2025-02-14,Professional Indemnity,"Barker, Shepherd and Allen",HU22 7GY,6349,2355819,2024,2024-02
+POL-CH003-00102,CH003,Fortis Professional Risks,2024-02-20,2025-02-20,Professional Indemnity,"Watson, Browne and Nicholls",E9 1LG,6441,1540669,2024,2024-02
+POL-CH003-00103,CH003,Fortis Professional Risks,2024-02-03,2025-02-03,Professional Indemnity,"Smith, Parry and Page",EH73 2NY,7074,1395417,2024,2024-02
+POL-CH003-00104,CH003,Fortis Professional Risks,2024-02-13,2025-02-13,Professional Indemnity,Butler LLC,LL4 0WY,4979,1427690,2024,2024-02
+POL-CH004-00105,CH004,Southgate Property Partners,2024-02-13,2025-02-13,Commercial Property,Hall Group,KT2 9BR,1672,351463,2024,2024-02
+POL-CH004-00106,CH004,Southgate Property Partners,2024-02-09,2025-02-09,Commercial Property,Brown-O'Brien,SE1 2WU,1844,631465,2024,2024-02
+POL-CH004-00107,CH004,Southgate Property Partners,2024-02-22,2025-02-22,Commercial Property,"Hardy, Phillips and Roberts",OX1 6ND,791,468626,2024,2024-02
+POL-CH004-00108,CH004,Southgate Property Partners,2024-02-04,2025-02-04,Commercial Property,"Pritchard, Rose and James",TN1 8QL,929,352806,2024,2024-02
+POL-CH004-00109,CH004,Southgate Property Partners,2024-02-01,2025-02-01,Commercial Property,Jones-Howarth,RG1 9UO,2388,406428,2024,2024-02
+POL-CH004-00110,CH004,Southgate Property Partners,2024-02-25,2025-02-25,Commercial Property,Davies Inc,EC1 5RN,1218,328469,2024,2024-02
+POL-CH004-00111,CH004,Southgate Property Partners,2024-02-27,2025-02-27,Commercial Property,"Hurst, Anderson and Burns",GU1 3OY,2166,326963,2024,2024-02
+POL-CH004-00112,CH004,Southgate Property Partners,2024-02-12,2025-02-12,Commercial Property,Harrison-Richards,SE1 6HB,1916,404557,2024,2024-02
+POL-CH004-00113,CH004,Southgate Property Partners,2024-02-16,2025-02-16,Commercial Property,Williamson-Hussain,NE2 5RC,1448,614394,2024,2024-02
+POL-CH004-00114,CH004,Southgate Property Partners,2024-02-08,2025-02-08,Commercial Property,Johnson and Sons,PR1 2CM,2142,197485,2024,2024-02
+POL-CH005-00115,CH005,Ironclad Construction Risks,2024-02-03,2025-02-03,EL/PL Liability,"Hussain, Hunt and Ward",L6U 7RG,2083,727865,2024,2024-02
+POL-CH005-00116,CH005,Ironclad Construction Risks,2024-02-24,2025-02-24,EL/PL Liability,Fox LLC,SR0 9WT,1981,582789,2024,2024-02
+POL-CH005-00117,CH005,Ironclad Construction Risks,2024-02-16,2025-02-16,EL/PL Liability,Thompson-Hutchinson,CV57 0UT,2993,729863,2024,2024-02
+POL-CH005-00118,CH005,Ironclad Construction Risks,2024-02-27,2025-02-27,EL/PL Liability,Pickering-Wallace,WS64 9YN,1663,549824,2024,2024-02
+POL-CH005-00119,CH005,Ironclad Construction Risks,2024-02-03,2025-02-03,EL/PL Liability,"Clark, Wallace and Stokes",W5 0UY,2229,502000,2024,2024-02
+POL-CH005-00120,CH005,Ironclad Construction Risks,2024-02-25,2025-02-25,EL/PL Liability,Kent Inc,SL8A 6PF,3977,660747,2024,2024-02
+POL-CH005-00121,CH005,Ironclad Construction Risks,2024-02-18,2025-02-18,EL/PL Liability,Knight and Sons,KY4M 5XX,1616,737679,2024,2024-02
+POL-CH005-00122,CH005,Ironclad Construction Risks,2024-02-25,2025-02-25,EL/PL Liability,Green LLC,BH9M 8UZ,4255,754869,2024,2024-02
+POL-CH005-00123,CH005,Ironclad Construction Risks,2024-02-05,2025-02-05,EL/PL Liability,Smith Inc,SM2 4DT,1414,527364,2024,2024-02
+POL-CH001-00124,CH001,Avonbridge Underwriting,2024-03-05,2025-03-05,Commercial Property,Patterson-Jackson,N56 6BW,3308,944311,2024,2024-03
+POL-CH001-00125,CH001,Avonbridge Underwriting,2024-03-22,2025-03-22,Commercial Property,Nash-Moss,BH2R 2ED,5176,653027,2024,2024-03
+POL-CH001-00126,CH001,Avonbridge Underwriting,2024-03-16,2025-03-16,Commercial Property,"Walsh, Sutton and Waters",W99 7PN,4124,161230,2024,2024-03
+POL-CH001-00127,CH001,Avonbridge Underwriting,2024-03-18,2025-03-18,Commercial Property,Brown-Stone,G7G 5WR,2909,796329,2024,2024-03
+POL-CH001-00128,CH001,Avonbridge Underwriting,2024-03-06,2025-03-06,Commercial Property,Carter-Sullivan,IM1Y 9DX,2627,1196887,2024,2024-03
+POL-CH001-00129,CH001,Avonbridge Underwriting,2024-03-09,2025-03-09,Commercial Property,"Sykes, Norton and Evans",CM4X 1BY,2398,756490,2024,2024-03
+POL-CH001-00130,CH001,Avonbridge Underwriting,2024-03-17,2025-03-17,Commercial Property,Morris Ltd,LD43 1RJ,4364,1156270,2024,2024-03
+POL-CH001-00131,CH001,Avonbridge Underwriting,2024-03-28,2025-03-28,Commercial Property,Mitchell and Sons,SW7H 0LG,2390,1097172,2024,2024-03
+POL-CH001-00132,CH001,Avonbridge Underwriting,2024-03-20,2025-03-20,Commercial Property,"Osborne, O'Neill and Carter",S8H 9PF,4212,641429,2024,2024-03
+POL-CH001-00133,CH001,Avonbridge Underwriting,2024-03-14,2025-03-14,Commercial Property,"Hartley, Robinson and Gray",M0U 2YY,4782,892300,2024,2024-03
+POL-CH001-00134,CH001,Avonbridge Underwriting,2024-03-07,2025-03-07,Commercial Property,Knowles-Benson,W15 6JF,3443,864832,2024,2024-03
+POL-CH001-00135,CH001,Avonbridge Underwriting,2024-03-18,2025-03-18,Commercial Property,Griffiths LLC,YO8 0FR,3714,874122,2024,2024-03
+POL-CH001-00136,CH001,Avonbridge Underwriting,2024-03-25,2025-03-25,Commercial Property,Jones-Gallagher,E1 9HY,5034,1187028,2024,2024-03
+POL-CH001-00137,CH001,Avonbridge Underwriting,2024-03-24,2025-03-24,Commercial Property,Bevan-Humphreys,SW4H 1TT,2640,1303269,2024,2024-03
+POL-CH001-00138,CH001,Avonbridge Underwriting,2024-03-23,2025-03-23,Commercial Property,Ali-Stone,W0G 2EF,1740,817745,2024,2024-03
+POL-CH001-00139,CH001,Avonbridge Underwriting,2024-03-07,2025-03-07,Commercial Property,Wright-Grant,E3 2QN,4941,909710,2024,2024-03
+POL-CH001-00140,CH001,Avonbridge Underwriting,2024-03-23,2025-03-23,Commercial Property,Lucas PLC,L25 1GW,3415,805774,2024,2024-03
+POL-CH001-00141,CH001,Avonbridge Underwriting,2024-03-10,2025-03-10,Commercial Property,Faulkner-Cole,PO19 9GG,3578,724759,2024,2024-03
+POL-CH001-00142,CH001,Avonbridge Underwriting,2024-03-13,2025-03-13,Commercial Property,Ward LLC,EN17 7DG,5270,925865,2024,2024-03
+POL-CH001-00143,CH001,Avonbridge Underwriting,2024-03-22,2025-03-22,Commercial Property,Miller-Smith,W1B 1HD,3326,1041164,2024,2024-03
+POL-CH001-00144,CH001,Avonbridge Underwriting,2024-03-21,2025-03-21,Commercial Property,Payne-Collins,N4 6GW,4587,1022733,2024,2024-03
+POL-CH002-00145,CH002,Meridian Risk Solutions,2024-03-12,2025-03-12,EL/PL Liability,Miller Group,E1J 7ZW,2329,429977,2024,2024-03
+POL-CH002-00146,CH002,Meridian Risk Solutions,2024-03-15,2025-03-15,EL/PL Liability,Sanderson Inc,TF7 3UN,3794,576296,2024,2024-03
+POL-CH002-00147,CH002,Meridian Risk Solutions,2024-03-17,2025-03-17,EL/PL Liability,Stevenson-Knight,SY7 0DY,3080,514665,2024,2024-03
+POL-CH002-00148,CH002,Meridian Risk Solutions,2024-03-15,2025-03-15,EL/PL Liability,"Martin, Day and Taylor",L9T 2TR,4288,426053,2024,2024-03
+POL-CH002-00149,CH002,Meridian Risk Solutions,2024-03-04,2025-03-04,EL/PL Liability,Frost and Sons,DA3E 5AT,3608,474725,2024,2024-03
+POL-CH002-00150,CH002,Meridian Risk Solutions,2024-03-08,2025-03-08,EL/PL Liability,Oliver-Allen,W3 6ZS,2897,637347,2024,2024-03
+POL-CH002-00151,CH002,Meridian Risk Solutions,2024-03-08,2025-03-08,EL/PL Liability,"Smith, Blake and Richardson",SY25 9WD,3867,601688,2024,2024-03
+POL-CH002-00152,CH002,Meridian Risk Solutions,2024-03-03,2025-03-03,EL/PL Liability,Mills Inc,SM55 9DS,4314,502625,2024,2024-03
+POL-CH002-00153,CH002,Meridian Risk Solutions,2024-03-11,2025-03-11,EL/PL Liability,Watts and Sons,B4 9FE,3734,461216,2024,2024-03
+POL-CH002-00154,CH002,Meridian Risk Solutions,2024-03-01,2025-03-01,EL/PL Liability,Taylor-Fuller,BT01 5PX,3401,483732,2024,2024-03
+POL-CH002-00155,CH002,Meridian Risk Solutions,2024-03-19,2025-03-19,EL/PL Liability,"Williams, Cooper and Vaughan",WR4 3ES,3190,574394,2024,2024-03
+POL-CH002-00156,CH002,Meridian Risk Solutions,2024-03-18,2025-03-18,EL/PL Liability,Simpson LLC,B0J 9BS,2339,761548,2024,2024-03
+POL-CH002-00157,CH002,Meridian Risk Solutions,2024-03-08,2025-03-08,EL/PL Liability,Wilson and Sons,M6 5DL,2164,348226,2024,2024-03
+POL-CH002-00158,CH002,Meridian Risk Solutions,2024-03-19,2025-03-19,EL/PL Liability,"Austin, Miller and Gordon",E8E 3NJ,4177,598957,2024,2024-03
+POL-CH002-00159,CH002,Meridian Risk Solutions,2024-03-08,2025-03-08,EL/PL Liability,"Nicholls, Taylor and Patterson",M05 2RJ,3680,578543,2024,2024-03
+POL-CH003-00160,CH003,Fortis Professional Risks,2024-03-01,2025-03-01,Professional Indemnity,Brown and Sons,PO7E 5HA,4019,1222741,2024,2024-03
+POL-CH003-00161,CH003,Fortis Professional Risks,2024-03-03,2025-03-03,Professional Indemnity,Evans-Harris,SA7Y 4GW,4382,1492535,2024,2024-03
+POL-CH003-00162,CH003,Fortis Professional Risks,2024-03-23,2025-03-23,Professional Indemnity,Ali-Frost,WA02 8BL,5257,952350,2024,2024-03
+POL-CH003-00163,CH003,Fortis Professional Risks,2024-03-21,2025-03-21,Professional Indemnity,"Rhodes, Yates and Dixon",B87 2TZ,4969,1323879,2024,2024-03
+POL-CH003-00164,CH003,Fortis Professional Risks,2024-03-02,2025-03-02,Professional Indemnity,"Pugh, Williams and Williams",W5 7DH,4569,953333,2024,2024-03
+POL-CH003-00165,CH003,Fortis Professional Risks,2024-03-08,2025-03-08,Professional Indemnity,"Nicholson, Connolly and Reeves",CO3 0NT,5902,1273489,2024,2024-03
+POL-CH003-00166,CH003,Fortis Professional Risks,2024-03-03,2025-03-03,Professional Indemnity,Brooks LLC,SS3 9DE,4663,1058688,2024,2024-03
+POL-CH003-00167,CH003,Fortis Professional Risks,2024-03-02,2025-03-02,Professional Indemnity,Bond-Farrell,IP5 0AZ,5882,765574,2024,2024-03
+POL-CH003-00168,CH003,Fortis Professional Risks,2024-03-28,2025-03-28,Professional Indemnity,Stephens Inc,L5T 8FW,3177,984466,2024,2024-03
+POL-CH004-00169,CH004,Southgate Property Partners,2024-03-11,2025-03-11,Commercial Property,Turner LLC,L2 5HP,1967,547535,2024,2024-03
+POL-CH004-00170,CH004,Southgate Property Partners,2024-03-22,2025-03-22,Commercial Property,"Oliver, Robinson and Rees",CT1 8UF,2263,384006,2024,2024-03
+POL-CH004-00171,CH004,Southgate Property Partners,2024-03-08,2025-03-08,Commercial Property,Ellis LLC,EN1 4JK,1789,299747,2024,2024-03
+POL-CH004-00172,CH004,Southgate Property Partners,2024-03-04,2025-03-04,Commercial Property,James-Roberts,HA1 6CY,1790,371134,2024,2024-03
+POL-CH004-00173,CH004,Southgate Property Partners,2024-03-14,2025-03-14,Commercial Property,King Group,SW1 2QH,1974,317276,2024,2024-03
+POL-CH004-00174,CH004,Southgate Property Partners,2024-03-02,2025-03-02,Commercial Property,"Scott, Jennings and Moore",CM1 2FB,2080,553273,2024,2024-03
+POL-CH004-00175,CH004,Southgate Property Partners,2024-03-08,2025-03-08,Commercial Property,Day Group,IG1 3XC,1741,440171,2024,2024-03
+POL-CH004-00176,CH004,Southgate Property Partners,2024-03-14,2025-03-14,Commercial Property,Simpson-Gregory,KT2 4IQ,2172,359877,2024,2024-03
+POL-CH004-00177,CH004,Southgate Property Partners,2024-03-28,2025-03-28,Commercial Property,Gregory-Morris,IG1 9RP,1921,401259,2024,2024-03
+POL-CH004-00178,CH004,Southgate Property Partners,2024-03-04,2025-03-04,Commercial Property,"Day, Stone and Davies",WN1 1MP,1852,322699,2024,2024-03
+POL-CH004-00179,CH004,Southgate Property Partners,2024-03-03,2025-03-03,Commercial Property,Foster-Smith,SL1 3JM,1813,449799,2024,2024-03
+POL-CH005-00180,CH005,Ironclad Construction Risks,2024-03-14,2025-03-14,EL/PL Liability,Smith-Noble,S37 2YA,3348,922977,2024,2024-03
+POL-CH005-00181,CH005,Ironclad Construction Risks,2024-03-16,2025-03-16,EL/PL Liability,"Cole, Francis and Whitehead",FK5W 5HG,2001,730848,2024,2024-03
+POL-CH005-00182,CH005,Ironclad Construction Risks,2024-03-16,2025-03-16,EL/PL Liability,Hill-Allen,NP21 4SB,2743,928470,2024,2024-03
+POL-CH005-00183,CH005,Ironclad Construction Risks,2024-03-07,2025-03-07,EL/PL Liability,Austin-Riley,W4H 7JY,1969,474041,2024,2024-03
+POL-CH005-00184,CH005,Ironclad Construction Risks,2024-03-28,2025-03-28,EL/PL Liability,Thompson-Barker,B6 8XR,2132,281415,2024,2024-03
+POL-CH005-00185,CH005,Ironclad Construction Risks,2024-03-13,2025-03-13,EL/PL Liability,Powell-Begum,HU3 2ZJ,2189,486130,2024,2024-03
+POL-CH005-00186,CH005,Ironclad Construction Risks,2024-03-02,2025-03-02,EL/PL Liability,"Butler, Davey and Shaw",N0S 6TS,2717,651263,2024,2024-03
+POL-CH005-00187,CH005,Ironclad Construction Risks,2024-03-06,2025-03-06,EL/PL Liability,"Peacock, Taylor and Brown",SL78 4QL,4063,742563,2024,2024-03
+POL-CH005-00188,CH005,Ironclad Construction Risks,2024-03-13,2025-03-13,EL/PL Liability,Smith Inc,W47 1SB,2150,465237,2024,2024-03
+POL-CH005-00189,CH005,Ironclad Construction Risks,2024-03-01,2025-03-01,EL/PL Liability,"Morgan, Wood and Bennett",E3S 6JT,2983,401965,2024,2024-03
+POL-CH001-00190,CH001,Avonbridge Underwriting,2024-04-13,2025-04-13,Commercial Property,"Ward, Robinson and Herbert",NW2 4LS,5686,750300,2024,2024-04
+POL-CH001-00191,CH001,Avonbridge Underwriting,2024-04-09,2025-04-09,Commercial Property,"Chapman, Morgan and Bennett",S6 1RX,2041,1137697,2024,2024-04
+POL-CH001-00192,CH001,Avonbridge Underwriting,2024-04-26,2025-04-26,Commercial Property,Bennett Inc,B75 4JQ,4055,1113035,2024,2024-04
+POL-CH001-00193,CH001,Avonbridge Underwriting,2024-04-26,2025-04-26,Commercial Property,Wallis Ltd,RM5 5WP,2191,722632,2024,2024-04
+POL-CH001-00194,CH001,Avonbridge Underwriting,2024-04-15,2025-04-15,Commercial Property,Hall Ltd,L4 1ED,4206,859983,2024,2024-04
+POL-CH001-00195,CH001,Avonbridge Underwriting,2024-04-10,2025-04-10,Commercial Property,"Gould, O'Neill and Knowles",HG56 6XE,3632,982355,2024,2024-04
+POL-CH001-00196,CH001,Avonbridge Underwriting,2024-04-14,2025-04-14,Commercial Property,"Hudson, Johnston and Matthews",GL3M 6AW,2854,819744,2024,2024-04
+POL-CH001-00197,CH001,Avonbridge Underwriting,2024-04-23,2025-04-23,Commercial Property,"Miles, Thompson and Williams",LN56 3FT,4351,959318,2024,2024-04
+POL-CH001-00198,CH001,Avonbridge Underwriting,2024-04-24,2025-04-24,Commercial Property,Winter Inc,L4B 8UB,5096,611013,2024,2024-04
+POL-CH001-00199,CH001,Avonbridge Underwriting,2024-04-26,2025-04-26,Commercial Property,"Wright, Clark and Lane",B65 1QN,2267,1121506,2024,2024-04
+POL-CH001-00200,CH001,Avonbridge Underwriting,2024-04-18,2025-04-18,Commercial Property,Smith-Summers,DA27 6RF,4618,690946,2024,2024-04
+POL-CH001-00201,CH001,Avonbridge Underwriting,2024-04-22,2025-04-22,Commercial Property,Robinson and Sons,OL5 7SX,6154,874580,2024,2024-04
+POL-CH001-00202,CH001,Avonbridge Underwriting,2024-04-23,2025-04-23,Commercial Property,"Wall, Hayes and Ross",G5 9AJ,5685,864347,2024,2024-04
+POL-CH001-00203,CH001,Avonbridge Underwriting,2024-04-16,2025-04-16,Commercial Property,Harris Ltd,B95 7TL,6796,1223009,2024,2024-04
+POL-CH001-00204,CH001,Avonbridge Underwriting,2024-04-05,2025-04-05,Commercial Property,Riley LLC,BT9 0RP,3886,1056458,2024,2024-04
+POL-CH001-00205,CH001,Avonbridge Underwriting,2024-04-07,2025-04-07,Commercial Property,Stevens-Smith,WS04 3LA,5013,1140834,2024,2024-04
+POL-CH001-00206,CH001,Avonbridge Underwriting,2024-04-10,2025-04-10,Commercial Property,"Wilkinson, Miah and King",DH7R 4YZ,2984,995785,2024,2024-04
+POL-CH001-00207,CH001,Avonbridge Underwriting,2024-04-07,2025-04-07,Commercial Property,Patel Inc,W6J 9DJ,5533,476267,2024,2024-04
+POL-CH001-00208,CH001,Avonbridge Underwriting,2024-04-02,2025-04-02,Commercial Property,"Pearce, Bryant and Evans",L1 9HR,2709,416663,2024,2024-04
+POL-CH001-00209,CH001,Avonbridge Underwriting,2024-04-19,2025-04-19,Commercial Property,"Watson, Smith and Macdonald",SR74 5QT,3860,1002477,2024,2024-04
+POL-CH001-00210,CH001,Avonbridge Underwriting,2024-04-24,2025-04-24,Commercial Property,Lewis Inc,N97 5QY,6092,865745,2024,2024-04
+POL-CH001-00211,CH001,Avonbridge Underwriting,2024-04-18,2025-04-18,Commercial Property,"Taylor, Robinson and Ali",CW87 2SZ,6252,556728,2024,2024-04
+POL-CH002-00212,CH002,Meridian Risk Solutions,2024-04-02,2025-04-02,EL/PL Liability,Fisher LLC,KA6 4EB,3048,548008,2024,2024-04
+POL-CH002-00213,CH002,Meridian Risk Solutions,2024-04-24,2025-04-24,EL/PL Liability,Burke Ltd,RG8 0LS,3069,241569,2024,2024-04
+POL-CH002-00214,CH002,Meridian Risk Solutions,2024-04-11,2025-04-11,EL/PL Liability,Stevens LLC,M1 6YQ,3017,336941,2024,2024-04
+POL-CH002-00215,CH002,Meridian Risk Solutions,2024-04-02,2025-04-02,EL/PL Liability,Smith LLC,B83 8NT,3722,545824,2024,2024-04
+POL-CH002-00216,CH002,Meridian Risk Solutions,2024-04-02,2025-04-02,EL/PL Liability,Graham-Wright,GY0Y 5DY,2225,435766,2024,2024-04
+POL-CH002-00217,CH002,Meridian Risk Solutions,2024-04-19,2025-04-19,EL/PL Liability,"Webb, Smith and Warren",ME0 0WS,2114,492165,2024,2024-04
+POL-CH002-00218,CH002,Meridian Risk Solutions,2024-04-16,2025-04-16,EL/PL Liability,"Wheeler, Bolton and Harris",B2A 5LF,3988,376784,2024,2024-04
+POL-CH002-00219,CH002,Meridian Risk Solutions,2024-04-17,2025-04-17,EL/PL Liability,"White, Collins and Webster",G8J 6FH,3568,433717,2024,2024-04
+POL-CH002-00220,CH002,Meridian Risk Solutions,2024-04-28,2025-04-28,EL/PL Liability,"Ingram, Jones and Francis",L06 1PL,2362,486621,2024,2024-04
+POL-CH002-00221,CH002,Meridian Risk Solutions,2024-04-17,2025-04-17,EL/PL Liability,"Jones, Todd and Mills",B19 5WT,2137,430793,2024,2024-04
+POL-CH003-00222,CH003,Fortis Professional Risks,2024-04-06,2025-04-06,Professional Indemnity,"Powell, Tyler and Middleton",PO13 0SF,8741,1210579,2024,2024-04
+POL-CH003-00223,CH003,Fortis Professional Risks,2024-04-02,2025-04-02,Professional Indemnity,Williams-Ali,SR66 3TR,4345,1264193,2024,2024-04
+POL-CH003-00224,CH003,Fortis Professional Risks,2024-04-17,2025-04-17,Professional Indemnity,Morgan Inc,KW7 6GJ,5314,1133709,2024,2024-04
+POL-CH003-00225,CH003,Fortis Professional Risks,2024-04-03,2025-04-03,Professional Indemnity,Chambers-Harper,IM0 2FS,6513,1427252,2024,2024-04
+POL-CH003-00226,CH003,Fortis Professional Risks,2024-04-28,2025-04-28,Professional Indemnity,"Watkins, Gill and Howe",LD05 1GH,4624,1027254,2024,2024-04
+POL-CH003-00227,CH003,Fortis Professional Risks,2024-04-06,2025-04-06,Professional Indemnity,Armstrong-Jackson,B66 3EH,5046,509423,2024,2024-04
+POL-CH003-00228,CH003,Fortis Professional Risks,2024-04-03,2025-04-03,Professional Indemnity,Hill-Hayward,N4F 1HW,2999,1610062,2024,2024-04
+POL-CH003-00229,CH003,Fortis Professional Risks,2024-04-20,2025-04-20,Professional Indemnity,Tyler-Ahmed,LA2 8EL,8214,1125289,2024,2024-04
+POL-CH004-00230,CH004,Southgate Property Partners,2024-04-03,2025-04-03,Commercial Property,"Clarke, Cook and Ward",SL1 7TY,1968,707888,2024,2024-04
+POL-CH004-00231,CH004,Southgate Property Partners,2024-04-04,2025-04-04,Commercial Property,Elliott-Phillips,SL1 1EG,2404,387208,2024,2024-04
+POL-CH004-00232,CH004,Southgate Property Partners,2024-04-20,2025-04-20,Commercial Property,Lane-Burgess,SG1 5HN,1284,239355,2024,2024-04
+POL-CH004-00233,CH004,Southgate Property Partners,2024-04-07,2025-04-07,Commercial Property,Phillips Ltd,SG1 4EA,1909,324364,2024,2024-04
+POL-CH004-00234,CH004,Southgate Property Partners,2024-04-09,2025-04-09,Commercial Property,Kelly Ltd,AL1 8MF,1031,335342,2024,2024-04
+POL-CH004-00235,CH004,Southgate Property Partners,2024-04-11,2025-04-11,Commercial Property,Alexander-Davies,SW6 1AZ,1215,568714,2024,2024-04
+POL-CH004-00236,CH004,Southgate Property Partners,2024-04-15,2025-04-15,Commercial Property,Patterson-Kaur,EC1 2MY,2276,399202,2024,2024-04
+POL-CH004-00237,CH004,Southgate Property Partners,2024-04-18,2025-04-18,Commercial Property,Jackson-Rice,RG1 3MG,2599,407736,2024,2024-04
+POL-CH004-00238,CH004,Southgate Property Partners,2024-04-12,2025-04-12,Commercial Property,"Collins, Turner and Parker",SL1 6JS,1334,552312,2024,2024-04
+POL-CH004-00239,CH004,Southgate Property Partners,2024-04-10,2025-04-10,Commercial Property,Jordan-Perry,AL1 9XO,2091,296275,2024,2024-04
+POL-CH004-00240,CH004,Southgate Property Partners,2024-04-01,2025-04-01,Commercial Property,Brooks PLC,AL1 2YD,1697,312438,2024,2024-04
+POL-CH004-00241,CH004,Southgate Property Partners,2024-04-05,2025-04-05,Commercial Property,"Johnson, Booth and Chadwick",EC1 9XJ,1053,492617,2024,2024-04
+POL-CH004-00242,CH004,Southgate Property Partners,2024-04-05,2025-04-05,Commercial Property,Johnson-Khan,KT1 6OC,2831,260143,2024,2024-04
+POL-CH005-00243,CH005,Ironclad Construction Risks,2024-04-07,2025-04-07,EL/PL Liability,Moore PLC,W6 9JD,2092,526931,2024,2024-04
+POL-CH005-00244,CH005,Ironclad Construction Risks,2024-04-22,2025-04-22,EL/PL Liability,Preston Group,N9 1AU,2137,470401,2024,2024-04
+POL-CH005-00245,CH005,Ironclad Construction Risks,2024-04-21,2025-04-21,EL/PL Liability,McKenzie and Sons,M57 3GF,2637,475357,2024,2024-04
+POL-CH005-00246,CH005,Ironclad Construction Risks,2024-04-28,2025-04-28,EL/PL Liability,Clarke Ltd,PO8N 4DZ,2810,592464,2024,2024-04
+POL-CH005-00247,CH005,Ironclad Construction Risks,2024-04-09,2025-04-09,EL/PL Liability,Foster-Murphy,TW1W 7YT,2413,463865,2024,2024-04
+POL-CH005-00248,CH005,Ironclad Construction Risks,2024-04-17,2025-04-17,EL/PL Liability,Peacock PLC,WS4 8FD,2150,713308,2024,2024-04
+POL-CH005-00249,CH005,Ironclad Construction Risks,2024-04-16,2025-04-16,EL/PL Liability,Gray-O'Brien,OX6N 0HH,2990,453366,2024,2024-04
+POL-CH005-00250,CH005,Ironclad Construction Risks,2024-04-09,2025-04-09,EL/PL Liability,Lee-Baker,S36 4HD,2677,712708,2024,2024-04
+POL-CH005-00251,CH005,Ironclad Construction Risks,2024-04-28,2025-04-28,EL/PL Liability,"Clements, Watson and Wilkins",BD12 4DY,1297,681504,2024,2024-04
+POL-CH001-00252,CH001,Avonbridge Underwriting,2024-05-02,2025-05-02,Commercial Property,Roberts PLC,WS4 7JB,4918,687807,2024,2024-05
+POL-CH001-00253,CH001,Avonbridge Underwriting,2024-05-03,2025-05-03,Commercial Property,Dixon PLC,W9 6WU,1925,504147,2024,2024-05
+POL-CH001-00254,CH001,Avonbridge Underwriting,2024-05-21,2025-05-21,Commercial Property,Gray-Alexander,SN2 9BG,4260,905191,2024,2024-05
+POL-CH001-00255,CH001,Avonbridge Underwriting,2024-05-14,2025-05-14,Commercial Property,Jones and Sons,N7J 6ZU,3060,985700,2024,2024-05
+POL-CH001-00256,CH001,Avonbridge Underwriting,2024-05-27,2025-05-27,Commercial Property,"Owen, Fraser and Leonard",BD0W 9NU,2106,835958,2024,2024-05
+POL-CH001-00257,CH001,Avonbridge Underwriting,2024-05-09,2025-05-09,Commercial Property,"Baker, Todd and Giles",S02 6PY,2674,711484,2024,2024-05
+POL-CH001-00258,CH001,Avonbridge Underwriting,2024-05-02,2025-05-02,Commercial Property,"Taylor, Lees and Atkins",HS7 0ZY,4259,667162,2024,2024-05
+POL-CH001-00259,CH001,Avonbridge Underwriting,2024-05-01,2025-05-01,Commercial Property,"Hawkins, Byrne and Mitchell",W03 8RP,3715,1063837,2024,2024-05
+POL-CH001-00260,CH001,Avonbridge Underwriting,2024-05-11,2025-05-11,Commercial Property,"Grant, Bradley and Williams",L5W 5ER,3473,1027584,2024,2024-05
+POL-CH001-00261,CH001,Avonbridge Underwriting,2024-05-25,2025-05-25,Commercial Property,Fletcher-Harrison,S0A 8AP,2776,962583,2024,2024-05
+POL-CH001-00262,CH001,Avonbridge Underwriting,2024-05-05,2025-05-05,Commercial Property,Akhtar Inc,RG6 2EF,6016,324775,2024,2024-05
+POL-CH001-00263,CH001,Avonbridge Underwriting,2024-05-21,2025-05-21,Commercial Property,Palmer Ltd,G3T 4QX,3195,972627,2024,2024-05
+POL-CH001-00264,CH001,Avonbridge Underwriting,2024-05-09,2025-05-09,Commercial Property,Giles Inc,S5 8RJ,3944,928868,2024,2024-05
+POL-CH001-00265,CH001,Avonbridge Underwriting,2024-05-06,2025-05-06,Commercial Property,Harris-Slater,PL26 4YB,3438,868400,2024,2024-05
+POL-CH001-00266,CH001,Avonbridge Underwriting,2024-05-24,2025-05-24,Commercial Property,"Wilson, Blackburn and Kelly",B3A 3GP,4003,1098153,2024,2024-05
+POL-CH001-00267,CH001,Avonbridge Underwriting,2024-05-15,2025-05-15,Commercial Property,Walker Inc,M7 9FR,4520,921740,2024,2024-05
+POL-CH002-00268,CH002,Meridian Risk Solutions,2024-05-18,2025-05-18,EL/PL Liability,Howarth Inc,MK6 9GG,2646,445930,2024,2024-05
+POL-CH002-00269,CH002,Meridian Risk Solutions,2024-05-23,2025-05-23,EL/PL Liability,Turner PLC,G4F 6XB,3466,447376,2024,2024-05
+POL-CH002-00270,CH002,Meridian Risk Solutions,2024-05-14,2025-05-14,EL/PL Liability,"Evans, Smith and Kelly",N87 1DG,3369,759425,2024,2024-05
+POL-CH002-00271,CH002,Meridian Risk Solutions,2024-05-18,2025-05-18,EL/PL Liability,Page-Baker,TW92 8AA,3910,459247,2024,2024-05
+POL-CH002-00272,CH002,Meridian Risk Solutions,2024-05-01,2025-05-01,EL/PL Liability,"Clements, Williams and Newman",L4D 2SL,4217,448990,2024,2024-05
+POL-CH002-00273,CH002,Meridian Risk Solutions,2024-05-04,2025-05-04,EL/PL Liability,Parsons-Rogers,E8J 0SJ,1204,373989,2024,2024-05
+POL-CH002-00274,CH002,Meridian Risk Solutions,2024-05-03,2025-05-03,EL/PL Liability,"Chan, Akhtar and Harrison",N96 1ZU,1360,456060,2024,2024-05
+POL-CH002-00275,CH002,Meridian Risk Solutions,2024-05-23,2025-05-23,EL/PL Liability,Jones Inc,G9 3NW,3117,709554,2024,2024-05
+POL-CH002-00276,CH002,Meridian Risk Solutions,2024-05-05,2025-05-05,EL/PL Liability,Reynolds Ltd,ML9 9YP,3404,472612,2024,2024-05
+POL-CH002-00277,CH002,Meridian Risk Solutions,2024-05-18,2025-05-18,EL/PL Liability,Scott-Hawkins,L41 4AY,3871,223608,2024,2024-05
+POL-CH002-00278,CH002,Meridian Risk Solutions,2024-05-02,2025-05-02,EL/PL Liability,"Allen, Harrison and Harvey",TQ3R 3FE,3319,596358,2024,2024-05
+POL-CH002-00279,CH002,Meridian Risk Solutions,2024-05-27,2025-05-27,EL/PL Liability,Moore Group,S8 4BJ,1724,642969,2024,2024-05
+POL-CH002-00280,CH002,Meridian Risk Solutions,2024-05-12,2025-05-12,EL/PL Liability,Wallace Ltd,M0E 0TP,3414,448089,2024,2024-05
+POL-CH003-00281,CH003,Fortis Professional Risks,2024-05-19,2025-05-19,Professional Indemnity,"Chambers, Whittaker and Richards",L1 0QX,9246,1254559,2024,2024-05
+POL-CH003-00282,CH003,Fortis Professional Risks,2024-05-18,2025-05-18,Professional Indemnity,Morrison-Bowen,DE8H 8BU,5909,1062191,2024,2024-05
+POL-CH003-00283,CH003,Fortis Professional Risks,2024-05-05,2025-05-05,Professional Indemnity,"Patel, Jennings and Mitchell",SR11 5LF,4097,1449100,2024,2024-05
+POL-CH003-00284,CH003,Fortis Professional Risks,2024-05-14,2025-05-14,Professional Indemnity,Jenkins-North,L67 3HW,4087,1221469,2024,2024-05
+POL-CH003-00285,CH003,Fortis Professional Risks,2024-05-05,2025-05-05,Professional Indemnity,Daly Inc,NN0Y 9EW,4711,1343693,2024,2024-05
+POL-CH003-00286,CH003,Fortis Professional Risks,2024-05-02,2025-05-02,Professional Indemnity,"Ahmed, McCarthy and Barrett",B89 2XW,6050,1511261,2024,2024-05
+POL-CH003-00287,CH003,Fortis Professional Risks,2024-05-10,2025-05-10,Professional Indemnity,"Taylor, Humphreys and Ali",E86 5XR,4658,1119037,2024,2024-05
+POL-CH003-00288,CH003,Fortis Professional Risks,2024-05-12,2025-05-12,Professional Indemnity,Moore-Andrews,PL5V 4JN,3885,1066712,2024,2024-05
+POL-CH003-00289,CH003,Fortis Professional Risks,2024-05-26,2025-05-26,Professional Indemnity,"Walsh, Watson and Smith",NR73 7YU,6122,1427096,2024,2024-05
+POL-CH003-00290,CH003,Fortis Professional Risks,2024-05-28,2025-05-28,Professional Indemnity,"Stevens, Burgess and Reynolds",M5 8SA,3978,1460881,2024,2024-05
+POL-CH004-00291,CH004,Southgate Property Partners,2024-05-02,2025-05-02,Commercial Property,Kennedy PLC,KT1 4BR,2023,587679,2024,2024-05
+POL-CH004-00292,CH004,Southgate Property Partners,2024-05-22,2025-05-22,Commercial Property,Cooper Inc,EN1 3VO,1382,275534,2024,2024-05
+POL-CH004-00293,CH004,Southgate Property Partners,2024-05-08,2025-05-08,Commercial Property,Hicks-Walsh,RH1 7GP,839,549604,2024,2024-05
+POL-CH004-00294,CH004,Southgate Property Partners,2024-05-01,2025-05-01,Commercial Property,"Holden, King and Robinson",CM1 7GH,2153,394441,2024,2024-05
+POL-CH004-00295,CH004,Southgate Property Partners,2024-05-26,2025-05-26,Commercial Property,Hall Inc,SL1 5PT,1951,287451,2024,2024-05
+POL-CH004-00296,CH004,Southgate Property Partners,2024-05-06,2025-05-06,Commercial Property,Murray-Miles,EC1 7PU,3120,412922,2024,2024-05
+POL-CH004-00297,CH004,Southgate Property Partners,2024-05-28,2025-05-28,Commercial Property,Smith Ltd,OL1 4QB,1859,472576,2024,2024-05
+POL-CH004-00298,CH004,Southgate Property Partners,2024-05-07,2025-05-07,Commercial Property,Gilbert PLC,KT2 6PE,2059,422388,2024,2024-05
+POL-CH004-00299,CH004,Southgate Property Partners,2024-05-10,2025-05-10,Commercial Property,Lucas-Begum,SM1 4YM,1373,447146,2024,2024-05
+POL-CH004-00300,CH004,Southgate Property Partners,2024-05-01,2025-05-01,Commercial Property,Cross-Evans,DA1 6BK,2816,534542,2024,2024-05
+POL-CH004-00301,CH004,Southgate Property Partners,2024-05-09,2025-05-09,Commercial Property,Doherty Inc,OX1 6ZR,2660,348878,2024,2024-05
+POL-CH004-00302,CH004,Southgate Property Partners,2024-05-21,2025-05-21,Commercial Property,Williams-Burke,CM1 1MG,1265,387421,2024,2024-05
+POL-CH004-00303,CH004,Southgate Property Partners,2024-05-04,2025-05-04,Commercial Property,"Quinn, Atkinson and Manning",RG1 3JI,1830,509419,2024,2024-05
+POL-CH004-00304,CH004,Southgate Property Partners,2024-05-19,2025-05-19,Commercial Property,"Humphries, Singh and Nicholls",RG1 1DH,886,552955,2024,2024-05
+POL-CH005-00305,CH005,Ironclad Construction Risks,2024-05-04,2025-05-04,EL/PL Liability,Edwards Ltd,B9T 8HJ,2267,448184,2024,2024-05
+POL-CH005-00306,CH005,Ironclad Construction Risks,2024-05-20,2025-05-20,EL/PL Liability,"Ball, Hawkins and Forster",L26 5NQ,1309,723475,2024,2024-05
+POL-CH005-00307,CH005,Ironclad Construction Risks,2024-05-14,2025-05-14,EL/PL Liability,"Brookes, Miller and Wilkins",KT3 0YS,2657,406505,2024,2024-05
+POL-CH005-00308,CH005,Ironclad Construction Risks,2024-05-12,2025-05-12,EL/PL Liability,Cook Inc,BD5N 6DQ,1589,549632,2024,2024-05
+POL-CH005-00309,CH005,Ironclad Construction Risks,2024-05-24,2025-05-24,EL/PL Liability,"Baker, Hewitt and Hall",B70 9HZ,3901,561061,2024,2024-05
+POL-CH005-00310,CH005,Ironclad Construction Risks,2024-05-26,2025-05-26,EL/PL Liability,Owens and Sons,N2H 1AX,1427,563138,2024,2024-05
+POL-CH005-00311,CH005,Ironclad Construction Risks,2024-05-11,2025-05-11,EL/PL Liability,Sullivan Inc,PO03 1ZR,2387,195467,2024,2024-05
+POL-CH005-00312,CH005,Ironclad Construction Risks,2024-05-14,2025-05-14,EL/PL Liability,Charlton Group,LD1 5LX,2557,565359,2024,2024-05
+POL-CH001-00313,CH001,Avonbridge Underwriting,2024-06-20,2025-06-20,Commercial Property,Holland-Clements,IV05 0GJ,6529,1089395,2024,2024-06
+POL-CH001-00314,CH001,Avonbridge Underwriting,2024-06-17,2025-06-17,Commercial Property,"Farmer, Payne and Thompson",KW0A 2RR,3861,614863,2024,2024-06
+POL-CH001-00315,CH001,Avonbridge Underwriting,2024-06-04,2025-06-04,Commercial Property,Leach-Ross,N53 0JB,7442,862583,2024,2024-06
+POL-CH001-00316,CH001,Avonbridge Underwriting,2024-06-13,2025-06-13,Commercial Property,Jennings PLC,N8 7PS,4217,844873,2024,2024-06
+POL-CH001-00317,CH001,Avonbridge Underwriting,2024-06-19,2025-06-19,Commercial Property,Jones Group,M4F 6EB,4449,819323,2024,2024-06
+POL-CH001-00318,CH001,Avonbridge Underwriting,2024-06-07,2025-06-07,Commercial Property,"Lane, Summers and Preston",CW2N 1JS,3477,733792,2024,2024-06
+POL-CH001-00319,CH001,Avonbridge Underwriting,2024-06-09,2025-06-09,Commercial Property,Lee-Hargreaves,PL9 1QU,4158,734522,2024,2024-06
+POL-CH001-00320,CH001,Avonbridge Underwriting,2024-06-02,2025-06-02,Commercial Property,Arnold and Sons,W82 5FH,3301,872616,2024,2024-06
+POL-CH001-00321,CH001,Avonbridge Underwriting,2024-06-23,2025-06-23,Commercial Property,Taylor Inc,L0G 5YD,3878,1169598,2024,2024-06
+POL-CH001-00322,CH001,Avonbridge Underwriting,2024-06-14,2025-06-14,Commercial Property,"Simmons, Lee and Holland",N2S 9WG,859,1081945,2024,2024-06
+POL-CH001-00323,CH001,Avonbridge Underwriting,2024-06-01,2025-06-01,Commercial Property,Rose and Sons,L8 8ES,5770,409404,2024,2024-06
+POL-CH001-00324,CH001,Avonbridge Underwriting,2024-06-17,2025-06-17,Commercial Property,Price and Sons,L6 9UB,3768,771068,2024,2024-06
+POL-CH001-00325,CH001,Avonbridge Underwriting,2024-06-26,2025-06-26,Commercial Property,Moran Ltd,BD0Y 5LQ,2426,684713,2024,2024-06
+POL-CH001-00326,CH001,Avonbridge Underwriting,2024-06-18,2025-06-18,Commercial Property,Ward and Sons,BR5 1SH,2800,1222357,2024,2024-06
+POL-CH001-00327,CH001,Avonbridge Underwriting,2024-06-22,2025-06-22,Commercial Property,Turner-Clarke,W0 2DT,5378,1120205,2024,2024-06
+POL-CH001-00328,CH001,Avonbridge Underwriting,2024-06-24,2025-06-24,Commercial Property,Robertson-Barker,S5T 8UH,5109,610076,2024,2024-06
+POL-CH001-00329,CH001,Avonbridge Underwriting,2024-06-24,2025-06-24,Commercial Property,Howe Ltd,G75 2TR,3539,953992,2024,2024-06
+POL-CH001-00330,CH001,Avonbridge Underwriting,2024-06-24,2025-06-24,Commercial Property,Burns-Macdonald,N3U 2UJ,2660,1001512,2024,2024-06
+POL-CH001-00331,CH001,Avonbridge Underwriting,2024-06-22,2025-06-22,Commercial Property,Connor-Robertson,E2C 3YS,3897,770350,2024,2024-06
+POL-CH002-00332,CH002,Meridian Risk Solutions,2024-06-07,2025-06-07,EL/PL Liability,Jones LLC,IM5W 9DR,3513,454879,2024,2024-06
+POL-CH002-00333,CH002,Meridian Risk Solutions,2024-06-12,2025-06-12,EL/PL Liability,Davies-Jones,B4 7WU,4178,364867,2024,2024-06
+POL-CH002-00334,CH002,Meridian Risk Solutions,2024-06-14,2025-06-14,EL/PL Liability,"Freeman, Robinson and Murray",LN5 8SZ,3672,574137,2024,2024-06
+POL-CH002-00335,CH002,Meridian Risk Solutions,2024-06-03,2025-06-03,EL/PL Liability,"Walsh, Quinn and Roberts",SG24 2LZ,2812,540766,2024,2024-06
+POL-CH002-00336,CH002,Meridian Risk Solutions,2024-06-22,2025-06-22,EL/PL Liability,Patel LLC,M3K 3EB,1936,615503,2024,2024-06
+POL-CH002-00337,CH002,Meridian Risk Solutions,2024-06-11,2025-06-11,EL/PL Liability,Graham-Atkinson,B7 0NA,2928,434659,2024,2024-06
+POL-CH002-00338,CH002,Meridian Risk Solutions,2024-06-20,2025-06-20,EL/PL Liability,Evans-Farrell,EX0H 4JN,4075,411957,2024,2024-06
+POL-CH002-00339,CH002,Meridian Risk Solutions,2024-06-11,2025-06-11,EL/PL Liability,"Humphreys, Mahmood and Powell",S29 8JG,1790,305421,2024,2024-06
+POL-CH002-00340,CH002,Meridian Risk Solutions,2024-06-22,2025-06-22,EL/PL Liability,Brooks-Singh,G79 2BG,3663,339946,2024,2024-06
+POL-CH002-00341,CH002,Meridian Risk Solutions,2024-06-28,2025-06-28,EL/PL Liability,Nolan Ltd,S7T 6BZ,4731,239758,2024,2024-06
+POL-CH002-00342,CH002,Meridian Risk Solutions,2024-06-04,2025-06-04,EL/PL Liability,Sullivan Group,E27 5DZ,4677,526377,2024,2024-06
+POL-CH002-00343,CH002,Meridian Risk Solutions,2024-06-24,2025-06-24,EL/PL Liability,Tomlinson-Morgan,L5 9EB,3010,431885,2024,2024-06
+POL-CH002-00344,CH002,Meridian Risk Solutions,2024-06-10,2025-06-10,EL/PL Liability,Pearson PLC,DN5M 4DR,3471,495295,2024,2024-06
+POL-CH002-00345,CH002,Meridian Risk Solutions,2024-06-17,2025-06-17,EL/PL Liability,Chambers LLC,B4 0DD,4126,514278,2024,2024-06
+POL-CH002-00346,CH002,Meridian Risk Solutions,2024-06-10,2025-06-10,EL/PL Liability,White and Sons,LL27 2DQ,3239,454548,2024,2024-06
+POL-CH003-00347,CH003,Fortis Professional Risks,2024-06-22,2025-06-22,Professional Indemnity,Chan-White,KW5V 7WB,6007,686949,2024,2024-06
+POL-CH003-00348,CH003,Fortis Professional Risks,2024-06-14,2025-06-14,Professional Indemnity,Wade-Brown,N1 0RQ,3275,1422979,2024,2024-06
+POL-CH003-00349,CH003,Fortis Professional Risks,2024-06-11,2025-06-11,Professional Indemnity,Murphy LLC,IV76 0NZ,5781,1144804,2024,2024-06
+POL-CH003-00350,CH003,Fortis Professional Risks,2024-06-13,2025-06-13,Professional Indemnity,"Smith, Hughes and Frost",AL2V 1FR,5530,1304274,2024,2024-06
+POL-CH003-00351,CH003,Fortis Professional Risks,2024-06-23,2025-06-23,Professional Indemnity,"Williams, Wood and George",PA9 6EY,4609,966508,2024,2024-06
+POL-CH003-00352,CH003,Fortis Professional Risks,2024-06-10,2025-06-10,Professional Indemnity,Dodd-Bartlett,M4A 8LZ,5823,906488,2024,2024-06
+POL-CH003-00353,CH003,Fortis Professional Risks,2024-06-18,2025-06-18,Professional Indemnity,"Tyler, Blake and Russell",G7C 5YD,6173,689224,2024,2024-06
+POL-CH003-00354,CH003,Fortis Professional Risks,2024-06-05,2025-06-05,Professional Indemnity,Pratt Ltd,BS61 5TG,7198,1341779,2024,2024-06
+POL-CH003-00355,CH003,Fortis Professional Risks,2024-06-07,2025-06-07,Professional Indemnity,Simmons LLC,AL4 2HD,5922,1494807,2024,2024-06
+POL-CH004-00356,CH004,Southgate Property Partners,2024-06-14,2025-06-14,Commercial Property,Hill-Davies,CR0 3JZ,2347,215912,2024,2024-06
+POL-CH004-00357,CH004,Southgate Property Partners,2024-06-20,2025-06-20,Commercial Property,Newton Group,DA1 9HG,1109,337518,2024,2024-06
+POL-CH004-00358,CH004,Southgate Property Partners,2024-06-27,2025-06-27,Commercial Property,"Barker, Patel and Mason",S2 4SF,1814,451765,2024,2024-06
+POL-CH004-00359,CH004,Southgate Property Partners,2024-06-14,2025-06-14,Commercial Property,"Robertson, Dunn and Jones",SG1 8SG,1408,418676,2024,2024-06
+POL-CH004-00360,CH004,Southgate Property Partners,2024-06-15,2025-06-15,Commercial Property,Fry-Khan,KT1 9JP,1392,338848,2024,2024-06
+POL-CH004-00361,CH004,Southgate Property Partners,2024-06-16,2025-06-16,Commercial Property,Manning and Sons,TN1 2CU,1040,307676,2024,2024-06
+POL-CH004-00362,CH004,Southgate Property Partners,2024-06-10,2025-06-10,Commercial Property,"Cross, Smith and Rogers",CM1 2TH,1070,302412,2024,2024-06
+POL-CH004-00363,CH004,Southgate Property Partners,2024-06-27,2025-06-27,Commercial Property,"Akhtar, Wilson and Burton",SL1 5KZ,2368,305060,2024,2024-06
+POL-CH004-00364,CH004,Southgate Property Partners,2024-06-08,2025-06-08,Commercial Property,"Cooper, Newton and Walters",ME1 1TO,3221,449331,2024,2024-06
+POL-CH004-00365,CH004,Southgate Property Partners,2024-06-02,2025-06-02,Commercial Property,"Austin, Bennett and White",TW1 2RD,1899,314164,2024,2024-06
+POL-CH004-00366,CH004,Southgate Property Partners,2024-06-15,2025-06-15,Commercial Property,Johnson-Wade,GU1 7ZL,2178,342436,2024,2024-06
+POL-CH004-00367,CH004,Southgate Property Partners,2024-06-16,2025-06-16,Commercial Property,Burgess-Jones,ME1 1PT,1865,656008,2024,2024-06
+POL-CH004-00368,CH004,Southgate Property Partners,2024-06-25,2025-06-25,Commercial Property,Brown-Storey,EC1 7VZ,1748,514927,2024,2024-06
+POL-CH004-00369,CH004,Southgate Property Partners,2024-06-08,2025-06-08,Commercial Property,Atkinson PLC,KT2 1NY,1420,396501,2024,2024-06
+POL-CH005-00370,CH005,Ironclad Construction Risks,2024-06-18,2025-06-18,EL/PL Liability,Jones PLC,S9W 9AJ,2110,871867,2024,2024-06
+POL-CH005-00371,CH005,Ironclad Construction Risks,2024-06-08,2025-06-08,EL/PL Liability,"Dunn, Haynes and Davies",DL7 7FB,3152,515629,2024,2024-06
+POL-CH005-00372,CH005,Ironclad Construction Risks,2024-06-28,2025-06-28,EL/PL Liability,"Adams, Archer and Jarvis",N4 3FJ,3093,745883,2024,2024-06
+POL-CH005-00373,CH005,Ironclad Construction Risks,2024-06-04,2025-06-04,EL/PL Liability,Green-Lewis,SR5 4JJ,3085,364466,2024,2024-06
+POL-CH005-00374,CH005,Ironclad Construction Risks,2024-06-15,2025-06-15,EL/PL Liability,"Day, Morris and Nicholls",PO4H 6AD,2032,562872,2024,2024-06
+POL-CH005-00375,CH005,Ironclad Construction Risks,2024-06-05,2025-06-05,EL/PL Liability,Dunn-Newton,L9 9PR,2541,693100,2024,2024-06
+POL-CH005-00376,CH005,Ironclad Construction Risks,2024-06-26,2025-06-26,EL/PL Liability,Foster-Baker,W93 2AX,2738,399698,2024,2024-06
+POL-CH005-00377,CH005,Ironclad Construction Risks,2024-06-15,2025-06-15,EL/PL Liability,Davis-Booth,S3 2AD,2896,691587,2024,2024-06
+POL-CH005-00378,CH005,Ironclad Construction Risks,2024-06-22,2025-06-22,EL/PL Liability,"Coates, Brown and Watson",WC5X 2WB,3036,762117,2024,2024-06
+POL-CH005-00379,CH005,Ironclad Construction Risks,2024-06-17,2025-06-17,EL/PL Liability,Baker Ltd,DT2V 6NB,3250,668877,2024,2024-06
+POL-CH005-00380,CH005,Ironclad Construction Risks,2024-06-18,2025-06-18,EL/PL Liability,Young-Parker,L53 9BJ,2545,350855,2024,2024-06
+POL-CH001-00381,CH001,Avonbridge Underwriting,2024-07-20,2025-07-20,Commercial Property,"Thompson, Warren and Sykes",E4B 7JB,4461,907710,2024,2024-07
+POL-CH001-00382,CH001,Avonbridge Underwriting,2024-07-11,2025-07-11,Commercial Property,Cooper Group,DN7A 9WN,2591,620275,2024,2024-07
+POL-CH001-00383,CH001,Avonbridge Underwriting,2024-07-25,2025-07-25,Commercial Property,Smith Inc,BN50 2ZJ,5526,841594,2024,2024-07
+POL-CH001-00384,CH001,Avonbridge Underwriting,2024-07-15,2025-07-15,Commercial Property,Morgan Ltd,CV59 4UF,5058,856017,2024,2024-07
+POL-CH001-00385,CH001,Avonbridge Underwriting,2024-07-20,2025-07-20,Commercial Property,"Marshall, Lee and Bates",L7 6AT,4237,1049385,2024,2024-07
+POL-CH001-00386,CH001,Avonbridge Underwriting,2024-07-27,2025-07-27,Commercial Property,"Todd, Brown and West",G39 9TF,3549,870425,2024,2024-07
+POL-CH001-00387,CH001,Avonbridge Underwriting,2024-07-24,2025-07-24,Commercial Property,Anderson-Dixon,W2 3NY,3617,757669,2024,2024-07
+POL-CH001-00388,CH001,Avonbridge Underwriting,2024-07-17,2025-07-17,Commercial Property,Fisher Inc,S9D 7HP,3810,897203,2024,2024-07
+POL-CH001-00389,CH001,Avonbridge Underwriting,2024-07-14,2025-07-14,Commercial Property,"Hayward, Martin and Hussain",HA05 8SQ,3596,1116848,2024,2024-07
+POL-CH001-00390,CH001,Avonbridge Underwriting,2024-07-27,2025-07-27,Commercial Property,"Scott, Bolton and Smith",WN1 7ZD,3072,810289,2024,2024-07
+POL-CH001-00391,CH001,Avonbridge Underwriting,2024-07-18,2025-07-18,Commercial Property,Wright PLC,HA3 3UL,3645,1157482,2024,2024-07
+POL-CH001-00392,CH001,Avonbridge Underwriting,2024-07-15,2025-07-15,Commercial Property,"Jones, O'Sullivan and Booth",G1K 3AE,4447,1069266,2024,2024-07
+POL-CH001-00393,CH001,Avonbridge Underwriting,2024-07-06,2025-07-06,Commercial Property,"Knowles, Dobson and Humphreys",SA1P 3RX,2328,906748,2024,2024-07
+POL-CH001-00394,CH001,Avonbridge Underwriting,2024-07-24,2025-07-24,Commercial Property,Smith-Baker,E90 8EP,5320,867485,2024,2024-07
+POL-CH001-00395,CH001,Avonbridge Underwriting,2024-07-28,2025-07-28,Commercial Property,"White, Begum and Mistry",BN7 4TX,5542,740076,2024,2024-07
+POL-CH001-00396,CH001,Avonbridge Underwriting,2024-07-16,2025-07-16,Commercial Property,Price-Stephens,WD3B 8NQ,5975,1338515,2024,2024-07
+POL-CH001-00397,CH001,Avonbridge Underwriting,2024-07-15,2025-07-15,Commercial Property,Harris LLC,W0 6JJ,3742,755330,2024,2024-07
+POL-CH001-00398,CH001,Avonbridge Underwriting,2024-07-09,2025-07-09,Commercial Property,White Ltd,SW9X 4ER,6031,1185659,2024,2024-07
+POL-CH001-00399,CH001,Avonbridge Underwriting,2024-07-25,2025-07-25,Commercial Property,Tucker Group,B76 7UB,3541,760710,2024,2024-07
+POL-CH002-00400,CH002,Meridian Risk Solutions,2024-07-08,2025-07-08,EL/PL Liability,Wood-Lloyd,L3 1WQ,1849,385168,2024,2024-07
+POL-CH002-00401,CH002,Meridian Risk Solutions,2024-07-27,2025-07-27,EL/PL Liability,Begum Ltd,SP3 2SQ,2166,404025,2024,2024-07
+POL-CH002-00402,CH002,Meridian Risk Solutions,2024-07-21,2025-07-21,EL/PL Liability,Hobbs Inc,WD6 9YW,3067,529276,2024,2024-07
+POL-CH002-00403,CH002,Meridian Risk Solutions,2024-07-09,2025-07-09,EL/PL Liability,"Gallagher, Thompson and Jones",B31 8ZT,4541,375205,2024,2024-07
+POL-CH002-00404,CH002,Meridian Risk Solutions,2024-07-25,2025-07-25,EL/PL Liability,Elliott-Miles,N27 3AQ,4015,473251,2024,2024-07
+POL-CH002-00405,CH002,Meridian Risk Solutions,2024-07-25,2025-07-25,EL/PL Liability,Leach PLC,BL8X 2GL,3053,584352,2024,2024-07
+POL-CH002-00406,CH002,Meridian Risk Solutions,2024-07-17,2025-07-17,EL/PL Liability,Lewis-Ferguson,M43 1QL,2055,547801,2024,2024-07
+POL-CH002-00407,CH002,Meridian Risk Solutions,2024-07-16,2025-07-16,EL/PL Liability,"Smith, Stewart and Brown",RH1W 2QR,3254,561556,2024,2024-07
+POL-CH002-00408,CH002,Meridian Risk Solutions,2024-07-21,2025-07-21,EL/PL Liability,Barker Ltd,M99 7ND,3368,806912,2024,2024-07
+POL-CH002-00409,CH002,Meridian Risk Solutions,2024-07-08,2025-07-08,EL/PL Liability,"Smith, Price and Hartley",N91 6PU,2506,433625,2024,2024-07
+POL-CH002-00410,CH002,Meridian Risk Solutions,2024-07-09,2025-07-09,EL/PL Liability,Craig PLC,KA99 7RR,2520,430565,2024,2024-07
+POL-CH002-00411,CH002,Meridian Risk Solutions,2024-07-15,2025-07-15,EL/PL Liability,"Jones, Taylor and Jennings",CH1W 3PY,2507,648627,2024,2024-07
+POL-CH002-00412,CH002,Meridian Risk Solutions,2024-07-03,2025-07-03,EL/PL Liability,"Patel, Burgess and Evans",LD8 5PE,4421,428656,2024,2024-07
+POL-CH003-00413,CH003,Fortis Professional Risks,2024-07-23,2025-07-23,Professional Indemnity,"Byrne, Hussain and Savage",EN3W 7QU,6277,1034333,2024,2024-07
+POL-CH003-00414,CH003,Fortis Professional Risks,2024-07-10,2025-07-10,Professional Indemnity,Kelly-Howard,HR0A 3QB,6544,1260876,2024,2024-07
+POL-CH003-00415,CH003,Fortis Professional Risks,2024-07-08,2025-07-08,Professional Indemnity,"Shaw, Moran and Lloyd",G85 4NZ,2999,1664251,2024,2024-07
+POL-CH003-00416,CH003,Fortis Professional Risks,2024-07-09,2025-07-09,Professional Indemnity,"White, Evans and Berry",W0H 5RS,8463,1016163,2024,2024-07
+POL-CH003-00417,CH003,Fortis Professional Risks,2024-07-11,2025-07-11,Professional Indemnity,"Hill, Williamson and Allen",LE6 8PE,4860,1285759,2024,2024-07
+POL-CH003-00418,CH003,Fortis Professional Risks,2024-07-11,2025-07-11,Professional Indemnity,"Davies, Lewis and Wilkinson",CW0 9FR,6051,1397563,2024,2024-07
+POL-CH003-00419,CH003,Fortis Professional Risks,2024-07-18,2025-07-18,Professional Indemnity,Shepherd Ltd,W0 7EX,8816,1146915,2024,2024-07
+POL-CH003-00420,CH003,Fortis Professional Risks,2024-07-03,2025-07-03,Professional Indemnity,Reed-Webb,PL4 7BU,4182,786204,2024,2024-07
+POL-CH004-00421,CH004,Southgate Property Partners,2024-07-05,2025-07-05,Commercial Property,"Fitzgerald, Taylor and Davis",CR0 3AV,1782,579455,2024,2024-07
+POL-CH004-00422,CH004,Southgate Property Partners,2024-07-23,2025-07-23,Commercial Property,"Stevens, Jackson and Frost",EN1 7DQ,1520,422378,2024,2024-07
+POL-CH004-00423,CH004,Southgate Property Partners,2024-07-11,2025-07-11,Commercial Property,"Hart, Newman and Lloyd",EN1 1XF,1791,518839,2024,2024-07
+POL-CH004-00424,CH004,Southgate Property Partners,2024-07-07,2025-07-07,Commercial Property,Douglas Inc,CR0 1EF,3164,346913,2024,2024-07
+POL-CH004-00425,CH004,Southgate Property Partners,2024-07-28,2025-07-28,Commercial Property,Grant-Moore,CR0 8MH,1535,504416,2024,2024-07
+POL-CH004-00426,CH004,Southgate Property Partners,2024-07-01,2025-07-01,Commercial Property,Thomson-Evans,AL1 7QF,2168,584670,2024,2024-07
+POL-CH004-00427,CH004,Southgate Property Partners,2024-07-28,2025-07-28,Commercial Property,Thompson LLC,EN1 9RS,2115,364070,2024,2024-07
+POL-CH004-00428,CH004,Southgate Property Partners,2024-07-24,2025-07-24,Commercial Property,"Smith, West and Graham",SM1 8VQ,2118,510870,2024,2024-07
+POL-CH004-00429,CH004,Southgate Property Partners,2024-07-08,2025-07-08,Commercial Property,Dawson and Sons,UB1 1YP,2243,450727,2024,2024-07
+POL-CH004-00430,CH004,Southgate Property Partners,2024-07-13,2025-07-13,Commercial Property,Berry PLC,DA1 3YV,2376,516929,2024,2024-07
+POL-CH005-00431,CH005,Ironclad Construction Risks,2024-07-27,2025-07-27,EL/PL Liability,"Thomas, Ball and Ward",TS9 2TB,3105,574932,2024,2024-07
+POL-CH005-00432,CH005,Ironclad Construction Risks,2024-07-15,2025-07-15,EL/PL Liability,"Moss, Harris and Shepherd",E1K 3AH,2714,780976,2024,2024-07
+POL-CH005-00433,CH005,Ironclad Construction Risks,2024-07-05,2025-07-05,EL/PL Liability,Richardson Inc,ZE32 1AR,1962,655300,2024,2024-07
+POL-CH005-00434,CH005,Ironclad Construction Risks,2024-07-20,2025-07-20,EL/PL Liability,Law-Hewitt,CO20 4UQ,2293,604311,2024,2024-07
+POL-CH005-00435,CH005,Ironclad Construction Risks,2024-07-18,2025-07-18,EL/PL Liability,"Clark, Rose and Matthews",G6 6QN,3597,628664,2024,2024-07
+POL-CH005-00436,CH005,Ironclad Construction Risks,2024-07-01,2025-07-01,EL/PL Liability,Parkinson and Sons,HP8H 6LY,2636,396021,2024,2024-07
+POL-CH005-00437,CH005,Ironclad Construction Risks,2024-07-13,2025-07-13,EL/PL Liability,Perkins Group,S4 3HY,3182,696822,2024,2024-07
+POL-CH005-00438,CH005,Ironclad Construction Risks,2024-07-19,2025-07-19,EL/PL Liability,Atkinson-Jackson,L0A 5RB,4287,553833,2024,2024-07
+POL-CH005-00439,CH005,Ironclad Construction Risks,2024-07-19,2025-07-19,EL/PL Liability,Bishop-Brown,W9K 4HB,2770,637407,2024,2024-07
+POL-CH005-00440,CH005,Ironclad Construction Risks,2024-07-22,2025-07-22,EL/PL Liability,Brown and Sons,S6 2TX,3830,585705,2024,2024-07
+POL-CH001-00441,CH001,Avonbridge Underwriting,2024-08-01,2025-08-01,Commercial Property,Andrews LLC,CW34 7YJ,4965,889654,2024,2024-08
+POL-CH001-00442,CH001,Avonbridge Underwriting,2024-08-03,2025-08-03,Commercial Property,May-Holmes,B9 8ZE,3637,891244,2024,2024-08
+POL-CH001-00443,CH001,Avonbridge Underwriting,2024-08-21,2025-08-21,Commercial Property,Williams PLC,FY3P 0BA,5552,631865,2024,2024-08
+POL-CH001-00444,CH001,Avonbridge Underwriting,2024-08-14,2025-08-14,Commercial Property,Bolton LLC,W4W 4EQ,4367,701224,2024,2024-08
+POL-CH001-00445,CH001,Avonbridge Underwriting,2024-08-05,2025-08-05,Commercial Property,Chandler Inc,BR6 8GR,5705,526322,2024,2024-08
+POL-CH001-00446,CH001,Avonbridge Underwriting,2024-08-28,2025-08-28,Commercial Property,Smith-Pearce,WS8M 0DL,3495,930157,2024,2024-08
+POL-CH001-00447,CH001,Avonbridge Underwriting,2024-08-15,2025-08-15,Commercial Property,Kent-Reynolds,WA6A 8BJ,6172,836028,2024,2024-08
+POL-CH001-00448,CH001,Avonbridge Underwriting,2024-08-06,2025-08-06,Commercial Property,Read Group,E5D 8BP,3500,1249745,2024,2024-08
+POL-CH001-00449,CH001,Avonbridge Underwriting,2024-08-02,2025-08-02,Commercial Property,Cook and Sons,KY6 3DQ,2375,382753,2024,2024-08
+POL-CH001-00450,CH001,Avonbridge Underwriting,2024-08-09,2025-08-09,Commercial Property,Rose-Bryan,FY94 1EL,4754,743313,2024,2024-08
+POL-CH001-00451,CH001,Avonbridge Underwriting,2024-08-13,2025-08-13,Commercial Property,"O'Donnell, O'Sullivan and Grant",GY78 5US,2913,1000525,2024,2024-08
+POL-CH001-00452,CH001,Avonbridge Underwriting,2024-08-11,2025-08-11,Commercial Property,"Oliver, Evans and Evans",KA0 1TJ,4507,730133,2024,2024-08
+POL-CH001-00453,CH001,Avonbridge Underwriting,2024-08-07,2025-08-07,Commercial Property,"Bibi, Williams and Mann",L4E 2ES,2586,1035397,2024,2024-08
+POL-CH001-00454,CH001,Avonbridge Underwriting,2024-08-15,2025-08-15,Commercial Property,"Gregory, Foster and Thomas",GL9 6XT,5019,828925,2024,2024-08
+POL-CH001-00455,CH001,Avonbridge Underwriting,2024-08-11,2025-08-11,Commercial Property,"Wells, Dawson and Chandler",WF8M 3PW,6526,622606,2024,2024-08
+POL-CH001-00456,CH001,Avonbridge Underwriting,2024-08-11,2025-08-11,Commercial Property,"Clark, Higgins and Long",HA58 0WP,2277,702969,2024,2024-08
+POL-CH001-00457,CH001,Avonbridge Underwriting,2024-08-25,2025-08-25,Commercial Property,Gray PLC,HG7P 7PZ,4142,901709,2024,2024-08
+POL-CH001-00458,CH001,Avonbridge Underwriting,2024-08-13,2025-08-13,Commercial Property,Edwards Ltd,G4 3PR,3896,924811,2024,2024-08
+POL-CH002-00459,CH002,Meridian Risk Solutions,2024-08-09,2025-08-09,EL/PL Liability,Price-Page,KW3 9RF,4442,489731,2024,2024-08
+POL-CH002-00460,CH002,Meridian Risk Solutions,2024-08-25,2025-08-25,EL/PL Liability,Johnson-Smith,HR5R 0JS,4139,542840,2024,2024-08
+POL-CH002-00461,CH002,Meridian Risk Solutions,2024-08-27,2025-08-27,EL/PL Liability,Williams Group,ML9 6PJ,3524,571220,2024,2024-08
+POL-CH002-00462,CH002,Meridian Risk Solutions,2024-08-14,2025-08-14,EL/PL Liability,"Lawson, Holloway and Reid",CF99 4GJ,3516,580340,2024,2024-08
+POL-CH002-00463,CH002,Meridian Risk Solutions,2024-08-09,2025-08-09,EL/PL Liability,Davies-Simpson,E0 7LZ,4336,524565,2024,2024-08
+POL-CH002-00464,CH002,Meridian Risk Solutions,2024-08-27,2025-08-27,EL/PL Liability,Brown Inc,BN12 2XR,3759,488783,2024,2024-08
+POL-CH002-00465,CH002,Meridian Risk Solutions,2024-08-03,2025-08-03,EL/PL Liability,Patel Group,CO6V 7PL,4439,415450,2024,2024-08
+POL-CH002-00466,CH002,Meridian Risk Solutions,2024-08-16,2025-08-16,EL/PL Liability,White-Hughes,M3 8DA,4774,494980,2024,2024-08
+POL-CH002-00467,CH002,Meridian Risk Solutions,2024-08-01,2025-08-01,EL/PL Liability,Begum-Young,G0G 4YT,1769,516013,2024,2024-08
+POL-CH002-00468,CH002,Meridian Risk Solutions,2024-08-24,2025-08-24,EL/PL Liability,Murphy and Sons,S3 0YA,2466,605080,2024,2024-08
+POL-CH002-00469,CH002,Meridian Risk Solutions,2024-08-18,2025-08-18,EL/PL Liability,Murray Ltd,W8T 3WW,2493,444227,2024,2024-08
+POL-CH003-00470,CH003,Fortis Professional Risks,2024-08-02,2025-08-02,Professional Indemnity,Grant-Thomas,B6T 5ZD,4753,472836,2024,2024-08
+POL-CH003-00471,CH003,Fortis Professional Risks,2024-08-12,2025-08-12,Professional Indemnity,"Akhtar, Johnson and Parker",AL2 3WX,2886,1428124,2024,2024-08
+POL-CH003-00472,CH003,Fortis Professional Risks,2024-08-08,2025-08-08,Professional Indemnity,Davidson-Bradley,AL0X 1YL,6796,1327637,2024,2024-08
+POL-CH003-00473,CH003,Fortis Professional Risks,2024-08-21,2025-08-21,Professional Indemnity,Jones LLC,DH8A 9GF,3904,1185686,2024,2024-08
+POL-CH003-00474,CH003,Fortis Professional Risks,2024-08-03,2025-08-03,Professional Indemnity,"Brady, Riley and Russell",S2 5PX,5494,852490,2024,2024-08
+POL-CH003-00475,CH003,Fortis Professional Risks,2024-08-25,2025-08-25,Professional Indemnity,Iqbal PLC,ML2 2QZ,7980,1463208,2024,2024-08
+POL-CH003-00476,CH003,Fortis Professional Risks,2024-08-21,2025-08-21,Professional Indemnity,"Reynolds, Carter and Day",S75 6SD,5135,1208065,2024,2024-08
+POL-CH004-00477,CH004,Southgate Property Partners,2024-08-02,2025-08-02,Commercial Property,"Miah, Ward and Blackburn",SL1 4MU,697,375282,2024,2024-08
+POL-CH004-00478,CH004,Southgate Property Partners,2024-08-27,2025-08-27,Commercial Property,"Scott, Collins and Heath",LS1 4ZA,1431,299837,2024,2024-08
+POL-CH004-00479,CH004,Southgate Property Partners,2024-08-05,2025-08-05,Commercial Property,Stevenson-Collins,BN1 4ST,1648,579768,2024,2024-08
+POL-CH004-00480,CH004,Southgate Property Partners,2024-08-15,2025-08-15,Commercial Property,Phillips LLC,BR1 3KI,2146,342882,2024,2024-08
+POL-CH004-00481,CH004,Southgate Property Partners,2024-08-20,2025-08-20,Commercial Property,Walton Group,BN1 3CL,2109,539935,2024,2024-08
+POL-CH004-00482,CH004,Southgate Property Partners,2024-08-10,2025-08-10,Commercial Property,Barton Inc,SE10 5UA,2299,405963,2024,2024-08
+POL-CH004-00483,CH004,Southgate Property Partners,2024-08-19,2025-08-19,Commercial Property,Parry-Barker,CR0 7SQ,1450,469822,2024,2024-08
+POL-CH004-00484,CH004,Southgate Property Partners,2024-08-23,2025-08-23,Commercial Property,Joyce PLC,SL1 2JH,2012,489519,2024,2024-08
+POL-CH004-00485,CH004,Southgate Property Partners,2024-08-23,2025-08-23,Commercial Property,Rogers and Sons,BN1 1CZ,2142,504955,2024,2024-08
+POL-CH004-00486,CH004,Southgate Property Partners,2024-08-12,2025-08-12,Commercial Property,"Stokes, Morgan and Wilson",BR1 2IS,1510,531739,2024,2024-08
+POL-CH004-00487,CH004,Southgate Property Partners,2024-08-17,2025-08-17,Commercial Property,Thomas-Ward,SE1 7NZ,1906,607526,2024,2024-08
+POL-CH004-00488,CH004,Southgate Property Partners,2024-08-27,2025-08-27,Commercial Property,Davies Group,HA1 6JQ,1427,573596,2024,2024-08
+POL-CH005-00489,CH005,Ironclad Construction Risks,2024-08-21,2025-08-21,EL/PL Liability,"Evans, Hunt and Dawson",CB51 8YS,2091,527417,2024,2024-08
+POL-CH005-00490,CH005,Ironclad Construction Risks,2024-08-27,2025-08-27,EL/PL Liability,Parker and Sons,N9K 8BJ,2350,663624,2024,2024-08
+POL-CH005-00491,CH005,Ironclad Construction Risks,2024-08-15,2025-08-15,EL/PL Liability,Heath and Sons,B3 7UP,3007,513944,2024,2024-08
+POL-CH005-00492,CH005,Ironclad Construction Risks,2024-08-23,2025-08-23,EL/PL Liability,"Sutton, Jones and Bennett",CF4B 3ZR,2581,921340,2024,2024-08
+POL-CH005-00493,CH005,Ironclad Construction Risks,2024-08-05,2025-08-05,EL/PL Liability,"Bailey, Robertson and Cole",N5A 7WR,3947,665448,2024,2024-08
+POL-CH005-00494,CH005,Ironclad Construction Risks,2024-08-14,2025-08-14,EL/PL Liability,"West, Williams and Johnson",CF4R 7XW,2629,618004,2024,2024-08
+POL-CH005-00495,CH005,Ironclad Construction Risks,2024-08-06,2025-08-06,EL/PL Liability,Lawrence LLC,G9 5LB,3078,446581,2024,2024-08
+POL-CH005-00496,CH005,Ironclad Construction Risks,2024-08-24,2025-08-24,EL/PL Liability,King-White,PL90 0XD,2399,349712,2024,2024-08
+POL-CH005-00497,CH005,Ironclad Construction Risks,2024-08-17,2025-08-17,EL/PL Liability,Smith Ltd,W0T 7TE,2911,697079,2024,2024-08
+POL-CH001-00498,CH001,Avonbridge Underwriting,2024-09-21,2025-09-21,Commercial Property,"Black, Tyler and Richardson",B50 6GG,6183,589524,2024,2024-09
+POL-CH001-00499,CH001,Avonbridge Underwriting,2024-09-09,2025-09-09,Commercial Property,Webster and Sons,N94 9ZT,2354,897696,2024,2024-09
+POL-CH001-00500,CH001,Avonbridge Underwriting,2024-09-20,2025-09-20,Commercial Property,"Matthews, Wong and Humphries",G80 1HJ,5519,1207834,2024,2024-09
+POL-CH001-00501,CH001,Avonbridge Underwriting,2024-09-26,2025-09-26,Commercial Property,Young-Cox,E7A 3ND,3621,1079219,2024,2024-09
+POL-CH001-00502,CH001,Avonbridge Underwriting,2024-09-18,2025-09-18,Commercial Property,Begum-Burgess,N10 8XT,4151,813316,2024,2024-09
+POL-CH001-00503,CH001,Avonbridge Underwriting,2024-09-25,2025-09-25,Commercial Property,Cook LLC,M1 5RL,5313,988618,2024,2024-09
+POL-CH001-00504,CH001,Avonbridge Underwriting,2024-09-16,2025-09-16,Commercial Property,Buckley-Lowe,ML5 0PZ,2213,1163764,2024,2024-09
+POL-CH001-00505,CH001,Avonbridge Underwriting,2024-09-15,2025-09-15,Commercial Property,Curtis PLC,L1T 3JD,5938,717067,2024,2024-09
+POL-CH001-00506,CH001,Avonbridge Underwriting,2024-09-14,2025-09-14,Commercial Property,Bond Group,L4 8JT,4698,954981,2024,2024-09
+POL-CH001-00507,CH001,Avonbridge Underwriting,2024-09-27,2025-09-27,Commercial Property,May Group,LS5 8RZ,4528,733060,2024,2024-09
+POL-CH001-00508,CH001,Avonbridge Underwriting,2024-09-24,2025-09-24,Commercial Property,"Turner, Andrews and Webster",TA0 3XA,3353,844569,2024,2024-09
+POL-CH001-00509,CH001,Avonbridge Underwriting,2024-09-19,2025-09-19,Commercial Property,"Brennan, Allen and Smith",SK4V 1AQ,5677,965515,2024,2024-09
+POL-CH001-00510,CH001,Avonbridge Underwriting,2024-09-09,2025-09-09,Commercial Property,Johnson-Page,CB38 3XF,3733,1013985,2024,2024-09
+POL-CH001-00511,CH001,Avonbridge Underwriting,2024-09-11,2025-09-11,Commercial Property,"Davidson, Robinson and Jones",BT44 8AE,610,1094112,2024,2024-09
+POL-CH001-00512,CH001,Avonbridge Underwriting,2024-09-28,2025-09-28,Commercial Property,Campbell-James,S1A 7GB,2007,772981,2024,2024-09
+POL-CH001-00513,CH001,Avonbridge Underwriting,2024-09-08,2025-09-08,Commercial Property,"Hurst, Young and Mason",G4J 6JR,2789,574880,2024,2024-09
+POL-CH002-00514,CH002,Meridian Risk Solutions,2024-09-27,2025-09-27,EL/PL Liability,Smart Group,L0D 4QT,2665,543312,2024,2024-09
+POL-CH002-00515,CH002,Meridian Risk Solutions,2024-09-03,2025-09-03,EL/PL Liability,Coles Ltd,SM7 6ZZ,3056,559630,2024,2024-09
+POL-CH002-00516,CH002,Meridian Risk Solutions,2024-09-09,2025-09-09,EL/PL Liability,Scott-Phillips,NN5 3RX,3171,339625,2024,2024-09
+POL-CH002-00517,CH002,Meridian Risk Solutions,2024-09-15,2025-09-15,EL/PL Liability,Atkins Group,PH0 6QY,4026,438280,2024,2024-09
+POL-CH002-00518,CH002,Meridian Risk Solutions,2024-09-08,2025-09-08,EL/PL Liability,O'Neill-Walker,S76 6SZ,1652,446485,2024,2024-09
+POL-CH002-00519,CH002,Meridian Risk Solutions,2024-09-25,2025-09-25,EL/PL Liability,"Akhtar, Harris and Cross",RH5 2DX,4495,606277,2024,2024-09
+POL-CH002-00520,CH002,Meridian Risk Solutions,2024-09-15,2025-09-15,EL/PL Liability,Miller-Stevens,S82 1GD,2775,456342,2024,2024-09
+POL-CH002-00521,CH002,Meridian Risk Solutions,2024-09-19,2025-09-19,EL/PL Liability,Daniels-Watts,W5 7ZR,2800,759593,2024,2024-09
+POL-CH002-00522,CH002,Meridian Risk Solutions,2024-09-20,2025-09-20,EL/PL Liability,Wells-Brown,SE7N 6ZA,3455,553755,2024,2024-09
+POL-CH002-00523,CH002,Meridian Risk Solutions,2024-09-22,2025-09-22,EL/PL Liability,Taylor-Evans,LN5 6XR,4058,529848,2024,2024-09
+POL-CH002-00524,CH002,Meridian Risk Solutions,2024-09-13,2025-09-13,EL/PL Liability,Williams-Ali,E22 0GJ,2859,475456,2024,2024-09
+POL-CH002-00525,CH002,Meridian Risk Solutions,2024-09-11,2025-09-11,EL/PL Liability,Patel-Barber,WD50 4DY,3033,495347,2024,2024-09
+POL-CH002-00526,CH002,Meridian Risk Solutions,2024-09-01,2025-09-01,EL/PL Liability,Brown-Phillips,GY5H 9BN,3776,506493,2024,2024-09
+POL-CH002-00527,CH002,Meridian Risk Solutions,2024-09-16,2025-09-16,EL/PL Liability,"Andrews, Hartley and Wilson",M6W 1RP,3781,489910,2024,2024-09
+POL-CH002-00528,CH002,Meridian Risk Solutions,2024-09-28,2025-09-28,EL/PL Liability,Goodwin-Perkins,BN9 6TS,3173,250224,2024,2024-09
+POL-CH002-00529,CH002,Meridian Risk Solutions,2024-09-11,2025-09-11,EL/PL Liability,Gould Ltd,W48 7AW,3952,543311,2024,2024-09
+POL-CH003-00530,CH003,Fortis Professional Risks,2024-09-06,2025-09-06,Professional Indemnity,Booth-French,S9H 0NL,721,1826512,2024,2024-09
+POL-CH003-00531,CH003,Fortis Professional Risks,2024-09-16,2025-09-16,Professional Indemnity,Singh PLC,WF82 1UL,5269,1532454,2024,2024-09
+POL-CH003-00532,CH003,Fortis Professional Risks,2024-09-07,2025-09-07,Professional Indemnity,Griffiths PLC,G3B 5HX,3784,1383832,2024,2024-09
+POL-CH003-00533,CH003,Fortis Professional Risks,2024-09-12,2025-09-12,Professional Indemnity,"Bates, Cox and Davies",W2U 4JF,3761,1012869,2024,2024-09
+POL-CH003-00534,CH003,Fortis Professional Risks,2024-09-26,2025-09-26,Professional Indemnity,Warner Group,B4 3BE,8658,1142795,2024,2024-09
+POL-CH003-00535,CH003,Fortis Professional Risks,2024-09-09,2025-09-09,Professional Indemnity,"Wong, Russell and Heath",TS3B 9YS,5858,1461020,2024,2024-09
+POL-CH003-00536,CH003,Fortis Professional Risks,2024-09-11,2025-09-11,Professional Indemnity,"Brown, Ali and Edwards",S5 4BQ,6317,1245125,2024,2024-09
+POL-CH003-00537,CH003,Fortis Professional Risks,2024-09-09,2025-09-09,Professional Indemnity,Barker and Sons,S08 1LN,6102,1921024,2024,2024-09
+POL-CH003-00538,CH003,Fortis Professional Risks,2024-09-20,2025-09-20,Professional Indemnity,Davis-Lee,M58 8AA,5404,1260329,2024,2024-09
+POL-CH003-00539,CH003,Fortis Professional Risks,2024-09-23,2025-09-23,Professional Indemnity,Williams-Hussain,L24 2RD,7233,1531657,2024,2024-09
+POL-CH003-00540,CH003,Fortis Professional Risks,2024-09-09,2025-09-09,Professional Indemnity,Craig LLC,LL06 3WQ,7458,1391619,2024,2024-09
+POL-CH004-00541,CH004,Southgate Property Partners,2024-09-18,2025-09-18,Commercial Property,Smith-Farmer,L1 2EL,2682,285365,2024,2024-09
+POL-CH004-00542,CH004,Southgate Property Partners,2024-09-08,2025-09-08,Commercial Property,"Williams, Williamson and Harris",UB1 9NY,1963,324572,2024,2024-09
+POL-CH004-00543,CH004,Southgate Property Partners,2024-09-25,2025-09-25,Commercial Property,"Booth, Moore and Gibson",TW1 8DY,1765,432876,2024,2024-09
+POL-CH004-00544,CH004,Southgate Property Partners,2024-09-15,2025-09-15,Commercial Property,"Burgess, Miller and Smith",E1 5NA,1973,442192,2024,2024-09
+POL-CH004-00545,CH004,Southgate Property Partners,2024-09-08,2025-09-08,Commercial Property,Williams Inc,SL1 5MJ,2671,445353,2024,2024-09
+POL-CH004-00546,CH004,Southgate Property Partners,2024-09-22,2025-09-22,Commercial Property,McCarthy-Gibson,TW1 9QN,1668,496408,2024,2024-09
+POL-CH004-00547,CH004,Southgate Property Partners,2024-09-17,2025-09-17,Commercial Property,Forster-Conway,CM1 6PE,2442,277239,2024,2024-09
+POL-CH004-00548,CH004,Southgate Property Partners,2024-09-23,2025-09-23,Commercial Property,Morris-Carter,AL1 5WK,2122,470117,2024,2024-09
+POL-CH004-00549,CH004,Southgate Property Partners,2024-09-08,2025-09-08,Commercial Property,Williams Group,GU1 6OY,1639,537570,2024,2024-09
+POL-CH005-00550,CH005,Ironclad Construction Risks,2024-09-04,2025-09-04,EL/PL Liability,Brown-Begum,G6G 4BY,2697,574039,2024,2024-09
+POL-CH005-00551,CH005,Ironclad Construction Risks,2024-09-24,2025-09-24,EL/PL Liability,"Abbott, Johnson and Cox",W4 2WR,2612,435558,2024,2024-09
+POL-CH005-00552,CH005,Ironclad Construction Risks,2024-09-18,2025-09-18,EL/PL Liability,Elliott PLC,N71 7FX,1476,839175,2024,2024-09
+POL-CH005-00553,CH005,Ironclad Construction Risks,2024-09-25,2025-09-25,EL/PL Liability,Clarke Inc,WR4P 2LX,1939,451291,2024,2024-09
+POL-CH005-00554,CH005,Ironclad Construction Risks,2024-09-23,2025-09-23,EL/PL Liability,Reeves Ltd,L13 7FR,920,504155,2024,2024-09
+POL-CH005-00555,CH005,Ironclad Construction Risks,2024-09-06,2025-09-06,EL/PL Liability,"Wade, Hughes and Hewitt",BL8Y 1GQ,1567,846302,2024,2024-09
+POL-CH005-00556,CH005,Ironclad Construction Risks,2024-09-07,2025-09-07,EL/PL Liability,Jones-Baker,G7C 3SX,3387,496777,2024,2024-09
+POL-CH005-00557,CH005,Ironclad Construction Risks,2024-09-07,2025-09-07,EL/PL Liability,"Turnbull, Gallagher and Mitchell",SM9 0UL,4356,747264,2024,2024-09
+POL-CH001-00558,CH001,Avonbridge Underwriting,2024-10-24,2025-10-24,Commercial Property,Lamb-Thomas,W5 4JN,1050,1336825,2024,2024-10
+POL-CH001-00559,CH001,Avonbridge Underwriting,2024-10-16,2025-10-16,Commercial Property,Abbott and Sons,TD01 4GY,2449,500352,2024,2024-10
+POL-CH001-00560,CH001,Avonbridge Underwriting,2024-10-09,2025-10-09,Commercial Property,"Coleman, Law and Hughes",DL4 8FQ,5488,1368447,2024,2024-10
+POL-CH001-00561,CH001,Avonbridge Underwriting,2024-10-24,2025-10-24,Commercial Property,"Hall, Gray and Tomlinson",S4U 7LA,5944,969830,2024,2024-10
+POL-CH001-00562,CH001,Avonbridge Underwriting,2024-10-19,2025-10-19,Commercial Property,"Holmes, McLean and Lewis",E85 8QU,4949,1031350,2024,2024-10
+POL-CH001-00563,CH001,Avonbridge Underwriting,2024-10-25,2025-10-25,Commercial Property,Robinson PLC,DA6M 8TQ,5156,909753,2024,2024-10
+POL-CH001-00564,CH001,Avonbridge Underwriting,2024-10-17,2025-10-17,Commercial Property,Thornton-Robinson,OL0N 4DW,4331,836698,2024,2024-10
+POL-CH001-00565,CH001,Avonbridge Underwriting,2024-10-20,2025-10-20,Commercial Property,Gill and Sons,W0T 2NB,3250,790356,2024,2024-10
+POL-CH001-00566,CH001,Avonbridge Underwriting,2024-10-10,2025-10-10,Commercial Property,"Williams, Hurst and Wilkinson",L6J 6XH,2066,829102,2024,2024-10
+POL-CH001-00567,CH001,Avonbridge Underwriting,2024-10-04,2025-10-04,Commercial Property,"Russell, Begum and Smith",E05 8GB,2954,615487,2024,2024-10
+POL-CH001-00568,CH001,Avonbridge Underwriting,2024-10-27,2025-10-27,Commercial Property,"Hill, Wells and Bradshaw",G2 8NQ,4426,1145800,2024,2024-10
+POL-CH001-00569,CH001,Avonbridge Underwriting,2024-10-07,2025-10-07,Commercial Property,White-Young,CM0B 1GT,5357,516268,2024,2024-10
+POL-CH001-00570,CH001,Avonbridge Underwriting,2024-10-10,2025-10-10,Commercial Property,Adams-Baker,M1U 1ZD,2953,1049913,2024,2024-10
+POL-CH001-00571,CH001,Avonbridge Underwriting,2024-10-08,2025-10-08,Commercial Property,Jones LLC,B6K 0FW,2962,802265,2024,2024-10
+POL-CH001-00572,CH001,Avonbridge Underwriting,2024-10-12,2025-10-12,Commercial Property,Jones LLC,N6G 5UY,4893,644226,2024,2024-10
+POL-CH001-00573,CH001,Avonbridge Underwriting,2024-10-06,2025-10-06,Commercial Property,Shaw Ltd,DG3 9XD,4332,566519,2024,2024-10
+POL-CH001-00574,CH001,Avonbridge Underwriting,2024-10-10,2025-10-10,Commercial Property,"Kelly, Davis and Hyde",M9K 3WW,3442,917953,2024,2024-10
+POL-CH002-00575,CH002,Meridian Risk Solutions,2024-10-01,2025-10-01,EL/PL Liability,Patel Ltd,S60 1XH,3509,497545,2024,2024-10
+POL-CH002-00576,CH002,Meridian Risk Solutions,2024-10-23,2025-10-23,EL/PL Liability,"Ahmed, Mitchell and Palmer",N56 3ZY,3613,527989,2024,2024-10
+POL-CH002-00577,CH002,Meridian Risk Solutions,2024-10-18,2025-10-18,EL/PL Liability,Phillips-Thomas,SG13 7BR,4368,515653,2024,2024-10
+POL-CH002-00578,CH002,Meridian Risk Solutions,2024-10-05,2025-10-05,EL/PL Liability,"Clark, Davies and Hutchinson",HX2P 5FT,2700,515287,2024,2024-10
+POL-CH002-00579,CH002,Meridian Risk Solutions,2024-10-09,2025-10-09,EL/PL Liability,Thomas-Kirby,HG87 9BH,3605,506107,2024,2024-10
+POL-CH002-00580,CH002,Meridian Risk Solutions,2024-10-02,2025-10-02,EL/PL Liability,Coles-Burton,CO05 9RN,3137,412251,2024,2024-10
+POL-CH002-00581,CH002,Meridian Risk Solutions,2024-10-02,2025-10-02,EL/PL Liability,"Martin, Stephens and Newman",OL73 5AP,2483,324674,2024,2024-10
+POL-CH002-00582,CH002,Meridian Risk Solutions,2024-10-18,2025-10-18,EL/PL Liability,Lee-Griffin,B6 9DU,4727,344517,2024,2024-10
+POL-CH002-00583,CH002,Meridian Risk Solutions,2024-10-10,2025-10-10,EL/PL Liability,"Edwards, Taylor and Brown",N0S 4AR,2455,410199,2024,2024-10
+POL-CH002-00584,CH002,Meridian Risk Solutions,2024-10-23,2025-10-23,EL/PL Liability,Talbot Inc,BA4 5JJ,3932,463131,2024,2024-10
+POL-CH003-00585,CH003,Fortis Professional Risks,2024-10-05,2025-10-05,Professional Indemnity,"Saunders, Gray and Price",FK86 0WD,4388,1283698,2024,2024-10
+POL-CH003-00586,CH003,Fortis Professional Risks,2024-10-21,2025-10-21,Professional Indemnity,"Williams, Hooper and Hall",NG9 1BF,4121,1843544,2024,2024-10
+POL-CH003-00587,CH003,Fortis Professional Risks,2024-10-28,2025-10-28,Professional Indemnity,Rhodes-Gibson,N7B 0UA,3540,1292946,2024,2024-10
+POL-CH003-00588,CH003,Fortis Professional Risks,2024-10-25,2025-10-25,Professional Indemnity,Hall LLC,W3E 5HY,6545,1324139,2024,2024-10
+POL-CH003-00589,CH003,Fortis Professional Risks,2024-10-16,2025-10-16,Professional Indemnity,"Harrison, McDonald and Ingram",TS0V 0XN,5194,1161053,2024,2024-10
+POL-CH003-00590,CH003,Fortis Professional Risks,2024-10-04,2025-10-04,Professional Indemnity,Jarvis Group,DY55 1PL,5572,1155899,2024,2024-10
+POL-CH003-00591,CH003,Fortis Professional Risks,2024-10-28,2025-10-28,Professional Indemnity,Parkinson Inc,M0G 5AU,7090,1863156,2024,2024-10
+POL-CH003-00592,CH003,Fortis Professional Risks,2024-10-01,2025-10-01,Professional Indemnity,Baker PLC,B9 0ZN,4580,789059,2024,2024-10
+POL-CH003-00593,CH003,Fortis Professional Risks,2024-10-19,2025-10-19,Professional Indemnity,"Hill, Wilson and Lee",E4J 0EP,5354,1973912,2024,2024-10
+POL-CH003-00594,CH003,Fortis Professional Risks,2024-10-10,2025-10-10,Professional Indemnity,Williams-King,PE5 4BA,4173,1691735,2024,2024-10
+POL-CH003-00595,CH003,Fortis Professional Risks,2024-10-16,2025-10-16,Professional Indemnity,"Lewis, Clark and Green",M5 4DE,8268,1033923,2024,2024-10
+POL-CH004-00596,CH004,Southgate Property Partners,2024-10-16,2025-10-16,Commercial Property,"Whitehouse, Clark and Hall",RH1 1ZI,2679,362087,2024,2024-10
+POL-CH004-00597,CH004,Southgate Property Partners,2024-10-09,2025-10-09,Commercial Property,"Gregory, Moss and Gibson",TW1 2QV,1690,341831,2024,2024-10
+POL-CH004-00598,CH004,Southgate Property Partners,2024-10-27,2025-10-27,Commercial Property,"Brown, Bates and Roberts",OL1 2KD,1252,335072,2024,2024-10
+POL-CH004-00599,CH004,Southgate Property Partners,2024-10-19,2025-10-19,Commercial Property,"Murphy, Adams and Little",SW1 3KC,1139,403408,2024,2024-10
+POL-CH004-00600,CH004,Southgate Property Partners,2024-10-05,2025-10-05,Commercial Property,"Pope, Carroll and Douglas",AL1 2AQ,1384,423378,2024,2024-10
+POL-CH004-00601,CH004,Southgate Property Partners,2024-10-08,2025-10-08,Commercial Property,Smith Group,EN1 4ED,959,433088,2024,2024-10
+POL-CH004-00602,CH004,Southgate Property Partners,2024-10-25,2025-10-25,Commercial Property,Preston-Hughes,IG1 8JL,2250,200626,2024,2024-10
+POL-CH004-00603,CH004,Southgate Property Partners,2024-10-10,2025-10-10,Commercial Property,Green PLC,HA1 5HZ,2001,522766,2024,2024-10
+POL-CH004-00604,CH004,Southgate Property Partners,2024-10-19,2025-10-19,Commercial Property,"Baker, Lane and Jones",EC1 4JJ,1146,567257,2024,2024-10
+POL-CH004-00605,CH004,Southgate Property Partners,2024-10-21,2025-10-21,Commercial Property,Roberts Ltd,E1 3DN,2026,329498,2024,2024-10
+POL-CH004-00606,CH004,Southgate Property Partners,2024-10-08,2025-10-08,Commercial Property,"Burke, Hobbs and Carter",SW6 3EB,1769,455832,2024,2024-10
+POL-CH004-00607,CH004,Southgate Property Partners,2024-10-01,2025-10-01,Commercial Property,"Berry, Hunter and Pearce",TW1 5QM,1841,453875,2024,2024-10
+POL-CH004-00608,CH004,Southgate Property Partners,2024-10-02,2025-10-02,Commercial Property,"Taylor, Fisher and Mitchell",HP1 8OA,1302,416936,2024,2024-10
+POL-CH005-00609,CH005,Ironclad Construction Risks,2024-10-03,2025-10-03,EL/PL Liability,"Cole, Gray and Whitehead",WR3B 0TF,2513,464413,2024,2024-10
+POL-CH005-00610,CH005,Ironclad Construction Risks,2024-10-22,2025-10-22,EL/PL Liability,Thomas Group,W1 4ZR,2026,785413,2024,2024-10
+POL-CH005-00611,CH005,Ironclad Construction Risks,2024-10-08,2025-10-08,EL/PL Liability,Lamb-Howard,N7K 3LT,3451,691370,2024,2024-10
+POL-CH005-00612,CH005,Ironclad Construction Risks,2024-10-09,2025-10-09,EL/PL Liability,Evans Group,N14 2DG,1747,552538,2024,2024-10
+POL-CH005-00613,CH005,Ironclad Construction Risks,2024-10-26,2025-10-26,EL/PL Liability,"Green, Wyatt and Wright",G53 1BZ,3546,621257,2024,2024-10
+POL-CH005-00614,CH005,Ironclad Construction Risks,2024-10-26,2025-10-26,EL/PL Liability,Murray LLC,BL7N 8WJ,4409,658997,2024,2024-10
+POL-CH005-00615,CH005,Ironclad Construction Risks,2024-10-21,2025-10-21,EL/PL Liability,"Allen, Holland and Hayes",B50 3BL,2749,553632,2024,2024-10
+POL-CH001-00616,CH001,Avonbridge Underwriting,2024-11-19,2025-11-19,Commercial Property,Hunter Inc,M7 6FA,4007,1000473,2024,2024-11
+POL-CH001-00617,CH001,Avonbridge Underwriting,2024-11-22,2025-11-22,Commercial Property,Baldwin-Evans,DT66 0PA,5405,682977,2024,2024-11
+POL-CH001-00618,CH001,Avonbridge Underwriting,2024-11-26,2025-11-26,Commercial Property,Wheeler-Coleman,W5 0JG,2522,459806,2024,2024-11
+POL-CH001-00619,CH001,Avonbridge Underwriting,2024-11-07,2025-11-07,Commercial Property,"Johnson, Morgan and Sanderson",B8 9GH,4840,615534,2024,2024-11
+POL-CH001-00620,CH001,Avonbridge Underwriting,2024-11-14,2025-11-14,Commercial Property,"Evans, Khan and Phillips",JE8N 7QS,1487,932572,2024,2024-11
+POL-CH001-00621,CH001,Avonbridge Underwriting,2024-11-04,2025-11-04,Commercial Property,"Kerr, Richards and Webb",GU38 8RR,7341,848709,2024,2024-11
+POL-CH001-00622,CH001,Avonbridge Underwriting,2024-11-18,2025-11-18,Commercial Property,White-Thompson,UB2 9WY,5256,867388,2024,2024-11
+POL-CH001-00623,CH001,Avonbridge Underwriting,2024-11-08,2025-11-08,Commercial Property,O'Sullivan LLC,OL78 5WZ,4075,1045303,2024,2024-11
+POL-CH001-00624,CH001,Avonbridge Underwriting,2024-11-21,2025-11-21,Commercial Property,Singh LLC,N53 5AT,3834,906820,2024,2024-11
+POL-CH001-00625,CH001,Avonbridge Underwriting,2024-11-05,2025-11-05,Commercial Property,"Knight, Barton and Roberts",W3C 4GU,4605,708030,2024,2024-11
+POL-CH001-00626,CH001,Avonbridge Underwriting,2024-11-09,2025-11-09,Commercial Property,Bray and Sons,W72 1BZ,5449,812821,2024,2024-11
+POL-CH001-00627,CH001,Avonbridge Underwriting,2024-11-27,2025-11-27,Commercial Property,Hussain-Harris,LL2 2EQ,3247,964008,2024,2024-11
+POL-CH001-00628,CH001,Avonbridge Underwriting,2024-11-05,2025-11-05,Commercial Property,"Manning, Campbell and Thomson",TW8 4FH,3067,855988,2024,2024-11
+POL-CH001-00629,CH001,Avonbridge Underwriting,2024-11-03,2025-11-03,Commercial Property,Hodgson-Johnson,M3F 2UF,4188,1080752,2024,2024-11
+POL-CH001-00630,CH001,Avonbridge Underwriting,2024-11-02,2025-11-02,Commercial Property,Harris-Martin,W04 5WN,4798,844681,2024,2024-11
+POL-CH001-00631,CH001,Avonbridge Underwriting,2024-11-06,2025-11-06,Commercial Property,Baker Inc,ST5 9ST,5230,1145419,2024,2024-11
+POL-CH001-00632,CH001,Avonbridge Underwriting,2024-11-26,2025-11-26,Commercial Property,"Cooke, Oliver and Page",N23 0GH,4902,852199,2024,2024-11
+POL-CH001-00633,CH001,Avonbridge Underwriting,2024-11-10,2025-11-10,Commercial Property,Hughes-Begum,LN8 6ZT,2547,623663,2024,2024-11
+POL-CH002-00634,CH002,Meridian Risk Solutions,2024-11-20,2025-11-20,EL/PL Liability,"Pearce, Shaw and Vincent",G6 9SH,2533,476628,2024,2024-11
+POL-CH002-00635,CH002,Meridian Risk Solutions,2024-11-24,2025-11-24,EL/PL Liability,Scott-Singh,B8 3ZN,3152,566211,2024,2024-11
+POL-CH002-00636,CH002,Meridian Risk Solutions,2024-11-27,2025-11-27,EL/PL Liability,Field Ltd,L3 7BH,3034,560812,2024,2024-11
+POL-CH002-00637,CH002,Meridian Risk Solutions,2024-11-19,2025-11-19,EL/PL Liability,"Turner, Phillips and Davis",M04 5ED,3159,253066,2024,2024-11
+POL-CH002-00638,CH002,Meridian Risk Solutions,2024-11-10,2025-11-10,EL/PL Liability,Berry PLC,L4 2JG,2226,481989,2024,2024-11
+POL-CH002-00639,CH002,Meridian Risk Solutions,2024-11-15,2025-11-15,EL/PL Liability,"Jones, Roberts and Alexander",WC67 7XP,1974,574991,2024,2024-11
+POL-CH002-00640,CH002,Meridian Risk Solutions,2024-11-04,2025-11-04,EL/PL Liability,Hill Group,W7 0PZ,4523,652345,2024,2024-11
+POL-CH002-00641,CH002,Meridian Risk Solutions,2024-11-15,2025-11-15,EL/PL Liability,Williams and Sons,TF67 2GZ,2901,686340,2024,2024-11
+POL-CH002-00642,CH002,Meridian Risk Solutions,2024-11-23,2025-11-23,EL/PL Liability,"Blackburn, Parsons and Thomas",TR6 6SB,3238,457864,2024,2024-11
+POL-CH002-00643,CH002,Meridian Risk Solutions,2024-11-10,2025-11-10,EL/PL Liability,Giles LLC,CV9Y 4YN,2529,462191,2024,2024-11
+POL-CH002-00644,CH002,Meridian Risk Solutions,2024-11-23,2025-11-23,EL/PL Liability,Saunders-Mason,W88 3TQ,2738,521302,2024,2024-11
+POL-CH002-00645,CH002,Meridian Risk Solutions,2024-11-13,2025-11-13,EL/PL Liability,"Cox, Hancock and Roberts",M6D 9AP,3249,500380,2024,2024-11
+POL-CH002-00646,CH002,Meridian Risk Solutions,2024-11-09,2025-11-09,EL/PL Liability,"Morgan, Gardner and Adams",E5 6FQ,3506,648830,2024,2024-11
+POL-CH003-00647,CH003,Fortis Professional Risks,2024-11-17,2025-11-17,Professional Indemnity,"Hicks, Mitchell and Cooper",MK1X 0EP,3049,433823,2024,2024-11
+POL-CH003-00648,CH003,Fortis Professional Risks,2024-11-18,2025-11-18,Professional Indemnity,"Miller, Richardson and Johnson",W8 4DS,7041,789936,2024,2024-11
+POL-CH003-00649,CH003,Fortis Professional Risks,2024-11-16,2025-11-16,Professional Indemnity,"Butler, Dixon and Pearson",UB07 0EY,5129,848966,2024,2024-11
+POL-CH003-00650,CH003,Fortis Professional Risks,2024-11-15,2025-11-15,Professional Indemnity,"Barrett, Bruce and Matthews",B69 7FF,2526,1362438,2024,2024-11
+POL-CH003-00651,CH003,Fortis Professional Risks,2024-11-03,2025-11-03,Professional Indemnity,Gray Inc,W79 7RX,6752,1027046,2024,2024-11
+POL-CH003-00652,CH003,Fortis Professional Risks,2024-11-20,2025-11-20,Professional Indemnity,Williams-Taylor,PR0 5ZP,1224,1036126,2024,2024-11
+POL-CH003-00653,CH003,Fortis Professional Risks,2024-11-02,2025-11-02,Professional Indemnity,Bryant Group,S3U 6PF,6146,756326,2024,2024-11
+POL-CH003-00654,CH003,Fortis Professional Risks,2024-11-14,2025-11-14,Professional Indemnity,Stone PLC,M5U 8UZ,5802,1195407,2024,2024-11
+POL-CH003-00655,CH003,Fortis Professional Risks,2024-11-24,2025-11-24,Professional Indemnity,Ward-Thomas,N4T 7WT,6455,1235874,2024,2024-11
+POL-CH003-00656,CH003,Fortis Professional Risks,2024-11-11,2025-11-11,Professional Indemnity,"Bond, Middleton and Dodd",N2H 6ZB,3894,1558971,2024,2024-11
+POL-CH003-00657,CH003,Fortis Professional Risks,2024-11-20,2025-11-20,Professional Indemnity,"Edwards, Fox and Dixon",HR0 5SY,5238,1191808,2024,2024-11
+POL-CH004-00658,CH004,Southgate Property Partners,2024-11-09,2025-11-09,Commercial Property,"Reynolds, Hardy and Higgins",L2 1SY,1560,311519,2024,2024-11
+POL-CH004-00659,CH004,Southgate Property Partners,2024-11-25,2025-11-25,Commercial Property,Holt-Parker,OX1 1OM,1706,571170,2024,2024-11
+POL-CH004-00660,CH004,Southgate Property Partners,2024-11-25,2025-11-25,Commercial Property,"James, Taylor and Khan",TW1 9PE,1059,238643,2024,2024-11
+POL-CH004-00661,CH004,Southgate Property Partners,2024-11-21,2025-11-21,Commercial Property,"Garner, Gill and Johnson",OX1 3CE,2594,379067,2024,2024-11
+POL-CH004-00662,CH004,Southgate Property Partners,2024-11-19,2025-11-19,Commercial Property,Dale and Sons,UB1 2RO,1438,503990,2024,2024-11
+POL-CH004-00663,CH004,Southgate Property Partners,2024-11-16,2025-11-16,Commercial Property,Anderson-Talbot,CM1 6PW,1472,582600,2024,2024-11
+POL-CH004-00664,CH004,Southgate Property Partners,2024-11-22,2025-11-22,Commercial Property,Bailey LLC,TN1 6PK,2166,351208,2024,2024-11
+POL-CH004-00665,CH004,Southgate Property Partners,2024-11-14,2025-11-14,Commercial Property,Sheppard-King,HP1 7XY,2964,339428,2024,2024-11
+POL-CH004-00666,CH004,Southgate Property Partners,2024-11-27,2025-11-27,Commercial Property,"Peacock, Fuller and Lee",SE15 8VT,2200,429929,2024,2024-11
+POL-CH004-00667,CH004,Southgate Property Partners,2024-11-03,2025-11-03,Commercial Property,Barton-O'Connor,SG1 2EF,2502,556151,2024,2024-11
+POL-CH005-00668,CH005,Ironclad Construction Risks,2024-11-25,2025-11-25,EL/PL Liability,Begum Group,WR5N 1WR,2012,668995,2024,2024-11
+POL-CH005-00669,CH005,Ironclad Construction Risks,2024-11-13,2025-11-13,EL/PL Liability,Hill-Berry,TF84 9UD,2071,902008,2024,2024-11
+POL-CH005-00670,CH005,Ironclad Construction Risks,2024-11-28,2025-11-28,EL/PL Liability,Bruce-Fuller,B6D 0HS,2706,545201,2024,2024-11
+POL-CH005-00671,CH005,Ironclad Construction Risks,2024-11-17,2025-11-17,EL/PL Liability,Hunt-Jennings,B6S 5EQ,2744,397931,2024,2024-11
+POL-CH005-00672,CH005,Ironclad Construction Risks,2024-11-27,2025-11-27,EL/PL Liability,Brown Inc,IP7B 7BX,1842,780062,2024,2024-11
+POL-CH005-00673,CH005,Ironclad Construction Risks,2024-11-01,2025-11-01,EL/PL Liability,"Richardson, Lamb and Yates",WD82 4FJ,2087,442963,2024,2024-11
+POL-CH005-00674,CH005,Ironclad Construction Risks,2024-11-22,2025-11-22,EL/PL Liability,Bell LLC,DL2B 8LG,3018,777855,2024,2024-11
+POL-CH005-00675,CH005,Ironclad Construction Risks,2024-11-28,2025-11-28,EL/PL Liability,"Singh, Lewis and Graham",E0 1BT,3160,749407,2024,2024-11
+POL-CH005-00676,CH005,Ironclad Construction Risks,2024-11-18,2025-11-18,EL/PL Liability,"Black, Rose and Sinclair",E58 5QZ,2009,386728,2024,2024-11
+POL-CH001-00677,CH001,Avonbridge Underwriting,2024-12-15,2025-12-15,Commercial Property,"Thomas, Morris and Price",ML79 3GZ,3793,796697,2024,2024-12
+POL-CH001-00678,CH001,Avonbridge Underwriting,2024-12-14,2025-12-14,Commercial Property,Hughes-Kirby,B1B 0RJ,5873,968198,2024,2024-12
+POL-CH001-00679,CH001,Avonbridge Underwriting,2024-12-02,2025-12-02,Commercial Property,Wright-Myers,N6G 7UZ,4774,1310062,2024,2024-12
+POL-CH001-00680,CH001,Avonbridge Underwriting,2024-12-07,2025-12-07,Commercial Property,"Cox, Brown and Ingram",W59 7AJ,3389,1047166,2024,2024-12
+POL-CH001-00681,CH001,Avonbridge Underwriting,2024-12-17,2025-12-17,Commercial Property,Burgess-Todd,TF0 2TT,4271,907075,2024,2024-12
+POL-CH001-00682,CH001,Avonbridge Underwriting,2024-12-12,2025-12-12,Commercial Property,Woodward-Stewart,SE1 2YP,6125,957915,2024,2024-12
+POL-CH001-00683,CH001,Avonbridge Underwriting,2024-12-20,2025-12-20,Commercial Property,Hudson PLC,SM4 7PZ,4878,1077907,2024,2024-12
+POL-CH001-00684,CH001,Avonbridge Underwriting,2024-12-25,2025-12-25,Commercial Property,Ahmed LLC,TW61 7NB,3740,671667,2024,2024-12
+POL-CH001-00685,CH001,Avonbridge Underwriting,2024-12-16,2025-12-16,Commercial Property,"Singh, Stone and Matthews",L5T 9XS,2883,432149,2024,2024-12
+POL-CH001-00686,CH001,Avonbridge Underwriting,2024-12-21,2025-12-21,Commercial Property,"Stewart, Smith and White",G73 4EL,6790,615568,2024,2024-12
+POL-CH001-00687,CH001,Avonbridge Underwriting,2024-12-15,2025-12-15,Commercial Property,Joyce-Johnson,WV26 5BN,3921,791177,2024,2024-12
+POL-CH001-00688,CH001,Avonbridge Underwriting,2024-12-25,2025-12-25,Commercial Property,West-Martin,OX99 8GD,4587,1023344,2024,2024-12
+POL-CH001-00689,CH001,Avonbridge Underwriting,2024-12-02,2025-12-02,Commercial Property,Gallagher Inc,L71 7YA,5284,726096,2024,2024-12
+POL-CH001-00690,CH001,Avonbridge Underwriting,2024-12-07,2025-12-07,Commercial Property,Joyce-Berry,N3K 1WF,3989,910048,2024,2024-12
+POL-CH001-00691,CH001,Avonbridge Underwriting,2024-12-09,2025-12-09,Commercial Property,West LLC,OL58 9JA,3886,1191560,2024,2024-12
+POL-CH001-00692,CH001,Avonbridge Underwriting,2024-12-18,2025-12-18,Commercial Property,"Roberts, Clarke and Morgan",WN52 0WW,4818,1006161,2024,2024-12
+POL-CH001-00693,CH001,Avonbridge Underwriting,2024-12-05,2025-12-05,Commercial Property,"Smith, Parker and Powell",M9 3BW,5035,1099363,2024,2024-12
+POL-CH001-00694,CH001,Avonbridge Underwriting,2024-12-10,2025-12-10,Commercial Property,Clarke-Edwards,DT77 7PU,4428,574423,2024,2024-12
+POL-CH001-00695,CH001,Avonbridge Underwriting,2024-12-15,2025-12-15,Commercial Property,Shah Group,BT95 0BQ,4703,711586,2024,2024-12
+POL-CH001-00696,CH001,Avonbridge Underwriting,2024-12-23,2025-12-23,Commercial Property,"Singh, Johnston and Foster",LE4 9RX,3533,974602,2024,2024-12
+POL-CH001-00697,CH001,Avonbridge Underwriting,2024-12-16,2025-12-16,Commercial Property,Lewis-Thomas,W57 8UT,5760,854520,2024,2024-12
+POL-CH001-00698,CH001,Avonbridge Underwriting,2024-12-04,2025-12-04,Commercial Property,Hilton PLC,TA6R 3SH,4589,1211720,2024,2024-12
+POL-CH002-00699,CH002,Meridian Risk Solutions,2024-12-01,2025-12-01,EL/PL Liability,Singh LLC,GL4A 5NU,5519,570688,2024,2024-12
+POL-CH002-00700,CH002,Meridian Risk Solutions,2024-12-21,2025-12-21,EL/PL Liability,"Davidson, Short and Miller",M03 0HJ,1462,594167,2024,2024-12
+POL-CH002-00701,CH002,Meridian Risk Solutions,2024-12-20,2025-12-20,EL/PL Liability,Walker-Chambers,BT72 9RU,3454,661219,2024,2024-12
+POL-CH002-00702,CH002,Meridian Risk Solutions,2024-12-26,2025-12-26,EL/PL Liability,Boyle-Edwards,M8F 3NJ,3726,482693,2024,2024-12
+POL-CH002-00703,CH002,Meridian Risk Solutions,2024-12-08,2025-12-08,EL/PL Liability,Jackson PLC,N1W 9BU,1961,473872,2024,2024-12
+POL-CH002-00704,CH002,Meridian Risk Solutions,2024-12-23,2025-12-23,EL/PL Liability,"Hodgson, Wilson and Davies",E6D 9PG,2309,427434,2024,2024-12
+POL-CH002-00705,CH002,Meridian Risk Solutions,2024-12-06,2025-12-06,EL/PL Liability,Anderson-Walters,L61 0YP,3647,708738,2024,2024-12
+POL-CH002-00706,CH002,Meridian Risk Solutions,2024-12-10,2025-12-10,EL/PL Liability,"Jones, Carroll and Phillips",M7B 2FT,3467,350514,2024,2024-12
+POL-CH002-00707,CH002,Meridian Risk Solutions,2024-12-18,2025-12-18,EL/PL Liability,Ali-Anderson,S2 3QB,3513,649578,2024,2024-12
+POL-CH002-00708,CH002,Meridian Risk Solutions,2024-12-01,2025-12-01,EL/PL Liability,"Watson, Leonard and Davidson",W7T 7SP,2532,483247,2024,2024-12
+POL-CH002-00709,CH002,Meridian Risk Solutions,2024-12-18,2025-12-18,EL/PL Liability,Johnson-Brown,E9J 1UF,3113,401887,2024,2024-12
+POL-CH002-00710,CH002,Meridian Risk Solutions,2024-12-14,2025-12-14,EL/PL Liability,Davies-Walton,LS9 6WZ,3702,484881,2024,2024-12
+POL-CH002-00711,CH002,Meridian Risk Solutions,2024-12-03,2025-12-03,EL/PL Liability,"Simmons, Bailey and Clarke",G7K 2ED,3490,389063,2024,2024-12
+POL-CH002-00712,CH002,Meridian Risk Solutions,2024-12-08,2025-12-08,EL/PL Liability,Walker-Owen,G0 8ZW,2693,590297,2024,2024-12
+POL-CH003-00713,CH003,Fortis Professional Risks,2024-12-27,2025-12-27,Professional Indemnity,"Bishop, Richards and Thomas",G8D 8DJ,8349,1080109,2024,2024-12
+POL-CH003-00714,CH003,Fortis Professional Risks,2024-12-04,2025-12-04,Professional Indemnity,"Waters, Clark and Stewart",E79 1DL,5870,1479777,2024,2024-12
+POL-CH003-00715,CH003,Fortis Professional Risks,2024-12-15,2025-12-15,Professional Indemnity,Lewis-Ward,S61 6SJ,3159,671757,2024,2024-12
+POL-CH003-00716,CH003,Fortis Professional Risks,2024-12-04,2025-12-04,Professional Indemnity,Wood-Yates,L95 3EL,2982,1578775,2024,2024-12
+POL-CH003-00717,CH003,Fortis Professional Risks,2024-12-21,2025-12-21,Professional Indemnity,"Fuller, Reed and Mistry",KW3B 9FJ,4589,1967459,2024,2024-12
+POL-CH003-00718,CH003,Fortis Professional Risks,2024-12-27,2025-12-27,Professional Indemnity,"Hardy, Wright and Stewart",HG3W 0RZ,4568,1255365,2024,2024-12
+POL-CH003-00719,CH003,Fortis Professional Risks,2024-12-05,2025-12-05,Professional Indemnity,Powell-Simmons,N4B 6EL,8044,1801827,2024,2024-12
+POL-CH003-00720,CH003,Fortis Professional Risks,2024-12-16,2025-12-16,Professional Indemnity,Shepherd Group,W8 7XS,8901,1562509,2024,2024-12
+POL-CH003-00721,CH003,Fortis Professional Risks,2024-12-23,2025-12-23,Professional Indemnity,Richards and Sons,M9 6HB,7189,1377758,2024,2024-12
+POL-CH004-00722,CH004,Southgate Property Partners,2024-12-10,2025-12-10,Commercial Property,Jones-Barlow,OX1 7VI,1502,318180,2024,2024-12
+POL-CH004-00723,CH004,Southgate Property Partners,2024-12-27,2025-12-27,Commercial Property,Kemp Ltd,TW1 4CO,1798,382981,2024,2024-12
+POL-CH004-00724,CH004,Southgate Property Partners,2024-12-15,2025-12-15,Commercial Property,"Kennedy, Morgan and Williams",CR0 4GP,1555,469638,2024,2024-12
+POL-CH004-00725,CH004,Southgate Property Partners,2024-12-20,2025-12-20,Commercial Property,Murphy-Butcher,CT1 2IR,2315,408840,2024,2024-12
+POL-CH004-00726,CH004,Southgate Property Partners,2024-12-09,2025-12-09,Commercial Property,"Young, Turner and Marsden",EN1 6ZP,2597,285831,2024,2024-12
+POL-CH004-00727,CH004,Southgate Property Partners,2024-12-26,2025-12-26,Commercial Property,"Joyce, Bolton and Sutton",SE1 5BG,1695,328317,2024,2024-12
+POL-CH004-00728,CH004,Southgate Property Partners,2024-12-24,2025-12-24,Commercial Property,"Lawrence, Lloyd and Jones",UB1 3SR,792,391731,2024,2024-12
+POL-CH004-00729,CH004,Southgate Property Partners,2024-12-15,2025-12-15,Commercial Property,Mahmood Group,SS1 6EI,1734,551344,2024,2024-12
+POL-CH004-00730,CH004,Southgate Property Partners,2024-12-18,2025-12-18,Commercial Property,Farrell-Fletcher,CR0 8JG,2140,297581,2024,2024-12
+POL-CH004-00731,CH004,Southgate Property Partners,2024-12-11,2025-12-11,Commercial Property,Gibson-Marsden,SL1 7XT,2801,522103,2024,2024-12
+POL-CH004-00732,CH004,Southgate Property Partners,2024-12-08,2025-12-08,Commercial Property,"White, Stewart and Pearce",EN1 1LL,2114,377351,2024,2024-12
+POL-CH004-00733,CH004,Southgate Property Partners,2024-12-11,2025-12-11,Commercial Property,"Craig, Lord and Johnson",CR0 7WP,1281,362779,2024,2024-12
+POL-CH004-00734,CH004,Southgate Property Partners,2024-12-22,2025-12-22,Commercial Property,Slater-Saunders,ME1 8IV,2387,588458,2024,2024-12
+POL-CH005-00735,CH005,Ironclad Construction Risks,2024-12-02,2025-12-02,EL/PL Liability,Mitchell Ltd,G65 7RS,2218,432057,2024,2024-12
+POL-CH005-00736,CH005,Ironclad Construction Risks,2024-12-05,2025-12-05,EL/PL Liability,"Holt, Wilson and Watson",HD3A 8AN,2709,334734,2024,2024-12
+POL-CH005-00737,CH005,Ironclad Construction Risks,2024-12-17,2025-12-17,EL/PL Liability,Wright and Sons,W9 3WW,2852,577859,2024,2024-12
+POL-CH005-00738,CH005,Ironclad Construction Risks,2024-12-19,2025-12-19,EL/PL Liability,"King, Summers and King",HP3Y 2SE,2236,360794,2024,2024-12
+POL-CH005-00739,CH005,Ironclad Construction Risks,2024-12-11,2025-12-11,EL/PL Liability,Grant Ltd,M1U 0JN,3000,520094,2024,2024-12
+POL-CH005-00740,CH005,Ironclad Construction Risks,2024-12-28,2025-12-28,EL/PL Liability,Gibson Group,TA48 1YL,1687,169160,2024,2024-12
+POL-CH005-00741,CH005,Ironclad Construction Risks,2024-12-04,2025-12-04,EL/PL Liability,Frost PLC,DY5 6AA,2578,865837,2024,2024-12
+POL-CH005-00742,CH005,Ironclad Construction Risks,2024-12-28,2025-12-28,EL/PL Liability,Rhodes Group,IG4 2ZJ,3895,531435,2024,2024-12
+POL-CH005-00743,CH005,Ironclad Construction Risks,2024-12-28,2025-12-28,EL/PL Liability,Wright Group,M7 4WA,2130,670316,2024,2024-12
+POL-CH005-00744,CH005,Ironclad Construction Risks,2024-12-15,2025-12-15,EL/PL Liability,"Cox, Harrison and Walters",B34 6TB,1821,645268,2024,2024-12
+POL-CH005-00745,CH005,Ironclad Construction Risks,2024-12-04,2025-12-04,EL/PL Liability,"Winter, Thomas and Johnson",WN7 6RX,3197,784039,2024,2024-12
+POL-CH001-00746,CH001,Avonbridge Underwriting,2025-01-17,2026-01-17,Commercial Property,"Shepherd, Atkins and Griffiths",M29 4LZ,3943,663428,2025,2025-01
+POL-CH001-00747,CH001,Avonbridge Underwriting,2025-01-15,2026-01-15,Commercial Property,Fraser Inc,UB3P 0BR,3158,801873,2025,2025-01
+POL-CH001-00748,CH001,Avonbridge Underwriting,2025-01-01,2026-01-01,Commercial Property,Jenkins-Scott,TD43 5TW,4662,1044136,2025,2025-01
+POL-CH001-00749,CH001,Avonbridge Underwriting,2025-01-24,2026-01-24,Commercial Property,"Carr, Gibson and Kirby",WF3 5JR,3187,1167196,2025,2025-01
+POL-CH001-00750,CH001,Avonbridge Underwriting,2025-01-05,2026-01-05,Commercial Property,"Butler, Williams and Griffiths",OL36 8JZ,3858,845459,2025,2025-01
+POL-CH001-00751,CH001,Avonbridge Underwriting,2025-01-14,2026-01-14,Commercial Property,"Sinclair, Baker and Richards",N07 1XR,3258,334848,2025,2025-01
+POL-CH001-00752,CH001,Avonbridge Underwriting,2025-01-28,2026-01-28,Commercial Property,Johnson-Taylor,E0 7BW,5313,1006579,2025,2025-01
+POL-CH001-00753,CH001,Avonbridge Underwriting,2025-01-21,2026-01-21,Commercial Property,Thomas-Vincent,HR8W 3QP,3845,864235,2025,2025-01
+POL-CH001-00754,CH001,Avonbridge Underwriting,2025-01-05,2026-01-05,Commercial Property,Patel Inc,YO8 4YL,4850,517959,2025,2025-01
+POL-CH001-00755,CH001,Avonbridge Underwriting,2025-01-03,2026-01-03,Commercial Property,"Gray, Holmes and Clark",L15 0XF,3533,1018781,2025,2025-01
+POL-CH001-00756,CH001,Avonbridge Underwriting,2025-01-16,2026-01-16,Commercial Property,Kemp LLC,N0J 5YN,2619,912381,2025,2025-01
+POL-CH001-00757,CH001,Avonbridge Underwriting,2025-01-26,2026-01-26,Commercial Property,"Evans, Holt and George",G71 5HF,2490,949116,2025,2025-01
+POL-CH001-00758,CH001,Avonbridge Underwriting,2025-01-09,2026-01-09,Commercial Property,Bates-Reynolds,M5 3XY,4155,506784,2025,2025-01
+POL-CH001-00759,CH001,Avonbridge Underwriting,2025-01-11,2026-01-11,Commercial Property,Robinson Ltd,B34 6EN,5667,693899,2025,2025-01
+POL-CH001-00760,CH001,Avonbridge Underwriting,2025-01-20,2026-01-20,Commercial Property,Harris-Singh,G4 3TY,3179,892620,2025,2025-01
+POL-CH001-00761,CH001,Avonbridge Underwriting,2025-01-23,2026-01-23,Commercial Property,Dodd-Carter,SM92 5BE,5647,634137,2025,2025-01
+POL-CH001-00762,CH001,Avonbridge Underwriting,2025-01-13,2026-01-13,Commercial Property,Blackburn PLC,PO18 1TZ,4277,941123,2025,2025-01
+POL-CH002-00763,CH002,Meridian Risk Solutions,2025-01-21,2026-01-21,EL/PL Liability,Palmer LLC,LL10 6RQ,3264,454121,2025,2025-01
+POL-CH002-00764,CH002,Meridian Risk Solutions,2025-01-03,2026-01-03,EL/PL Liability,"Smith, Donnelly and Hart",DT60 2FQ,2330,510767,2025,2025-01
+POL-CH002-00765,CH002,Meridian Risk Solutions,2025-01-28,2026-01-28,EL/PL Liability,Nelson-McKenzie,S2 5UD,2102,134831,2025,2025-01
+POL-CH002-00766,CH002,Meridian Risk Solutions,2025-01-11,2026-01-11,EL/PL Liability,Watson-Williams,B9H 2NX,3506,612991,2025,2025-01
+POL-CH002-00767,CH002,Meridian Risk Solutions,2025-01-28,2026-01-28,EL/PL Liability,Doyle and Sons,N5H 1SD,902,373783,2025,2025-01
+POL-CH002-00768,CH002,Meridian Risk Solutions,2025-01-22,2026-01-22,EL/PL Liability,"Robinson, Wallis and Fox",BH36 8UG,3675,757186,2025,2025-01
+POL-CH002-00769,CH002,Meridian Risk Solutions,2025-01-28,2026-01-28,EL/PL Liability,"Hope, Day and Richardson",G2 5EL,3119,408999,2025,2025-01
+POL-CH002-00770,CH002,Meridian Risk Solutions,2025-01-18,2026-01-18,EL/PL Liability,Turner-Walton,M95 9SX,2929,671859,2025,2025-01
+POL-CH002-00771,CH002,Meridian Risk Solutions,2025-01-13,2026-01-13,EL/PL Liability,"Warren, Ball and Flynn",L34 4SP,2499,400100,2025,2025-01
+POL-CH002-00772,CH002,Meridian Risk Solutions,2025-01-11,2026-01-11,EL/PL Liability,Parkin PLC,PL4P 3LW,2651,380833,2025,2025-01
+POL-CH002-00773,CH002,Meridian Risk Solutions,2025-01-21,2026-01-21,EL/PL Liability,Robertson Ltd,PR3N 3UD,3214,703084,2025,2025-01
+POL-CH002-00774,CH002,Meridian Risk Solutions,2025-01-23,2026-01-23,EL/PL Liability,"Richardson, Watts and Lewis",EN75 0HQ,3400,468455,2025,2025-01
+POL-CH002-00775,CH002,Meridian Risk Solutions,2025-01-25,2026-01-25,EL/PL Liability,"Hill, Hutchinson and King",L7 9AN,2828,304601,2025,2025-01
+POL-CH002-00776,CH002,Meridian Risk Solutions,2025-01-16,2026-01-16,EL/PL Liability,"Howard, Powell and James",PH1B 8ZE,3921,490270,2025,2025-01
+POL-CH002-00777,CH002,Meridian Risk Solutions,2025-01-28,2026-01-28,EL/PL Liability,Steele-Harris,W9G 5XQ,2932,899138,2025,2025-01
+POL-CH002-00778,CH002,Meridian Risk Solutions,2025-01-18,2026-01-18,EL/PL Liability,Wood-Potter,B89 7SE,3377,406026,2025,2025-01
+POL-CH002-00779,CH002,Meridian Risk Solutions,2025-01-02,2026-01-02,EL/PL Liability,"Thomas, Richards and Chapman",G6 1PU,2703,643555,2025,2025-01
+POL-CH002-00780,CH002,Meridian Risk Solutions,2025-01-20,2026-01-20,EL/PL Liability,Taylor PLC,LL8E 7RA,3205,320215,2025,2025-01
+POL-CH002-00781,CH002,Meridian Risk Solutions,2025-01-03,2026-01-03,EL/PL Liability,Joyce and Sons,CH75 8QP,3954,416481,2025,2025-01
+POL-CH002-00782,CH002,Meridian Risk Solutions,2025-01-08,2026-01-08,EL/PL Liability,Cross-Akhtar,IP9 4UW,4842,635006,2025,2025-01
+POL-CH002-00783,CH002,Meridian Risk Solutions,2025-01-21,2026-01-21,EL/PL Liability,Wilkins-Dixon,N9W 9SQ,2683,660127,2025,2025-01
+POL-CH002-00784,CH002,Meridian Risk Solutions,2025-01-22,2026-01-22,EL/PL Liability,"Farrell, Winter and Roberts",FK7P 4WU,3163,606596,2025,2025-01
+POL-CH002-00785,CH002,Meridian Risk Solutions,2025-01-10,2026-01-10,EL/PL Liability,Rogers LLC,DA24 0DU,3550,394205,2025,2025-01
+POL-CH003-00786,CH003,Fortis Professional Risks,2025-01-08,2026-01-08,Professional Indemnity,"Bennett, Moore and Watts",S96 9JZ,7199,1099567,2025,2025-01
+POL-CH003-00787,CH003,Fortis Professional Risks,2025-01-24,2026-01-24,Professional Indemnity,Briggs-Price,W50 4NW,4833,913463,2025,2025-01
+POL-CH003-00788,CH003,Fortis Professional Risks,2025-01-03,2026-01-03,Professional Indemnity,Ali-McKenzie,NG0V 7ZL,6198,1818757,2025,2025-01
+POL-CH003-00789,CH003,Fortis Professional Risks,2025-01-14,2026-01-14,Professional Indemnity,Matthews LLC,W96 3UY,3738,1207265,2025,2025-01
+POL-CH003-00790,CH003,Fortis Professional Risks,2025-01-04,2026-01-04,Professional Indemnity,Bradley PLC,YO4 2PS,7830,1176107,2025,2025-01
+POL-CH003-00791,CH003,Fortis Professional Risks,2025-01-25,2026-01-25,Professional Indemnity,"Singh, Skinner and Harvey",B1 6DG,6246,881281,2025,2025-01
+POL-CH003-00792,CH003,Fortis Professional Risks,2025-01-21,2026-01-21,Professional Indemnity,Daly-Kennedy,CW3E 8HA,6206,1143856,2025,2025-01
+POL-CH003-00793,CH003,Fortis Professional Risks,2025-01-23,2026-01-23,Professional Indemnity,"Burgess, Iqbal and Ryan",W52 1AP,7126,1556215,2025,2025-01
+POL-CH003-00794,CH003,Fortis Professional Risks,2025-01-28,2026-01-28,Professional Indemnity,Harvey-Wilson,N1H 2BH,9772,1373889,2025,2025-01
+POL-CH004-00795,CH004,Southgate Property Partners,2025-01-04,2026-01-04,Commercial Property,"Wood, Charlton and Carpenter",AL1 1BB,1904,364683,2025,2025-01
+POL-CH004-00796,CH004,Southgate Property Partners,2025-01-02,2026-01-02,Commercial Property,Turnbull and Sons,SW1 5WC,1982,370459,2025,2025-01
+POL-CH004-00797,CH004,Southgate Property Partners,2025-01-12,2026-01-12,Commercial Property,Gilbert Group,ME1 4ZF,1890,531759,2025,2025-01
+POL-CH004-00798,CH004,Southgate Property Partners,2025-01-17,2026-01-17,Commercial Property,"Gregory, Winter and Hawkins",RH1 3IM,1256,513987,2025,2025-01
+POL-CH004-00799,CH004,Southgate Property Partners,2025-01-06,2026-01-06,Commercial Property,"Green, Smart and Evans",BS1 4FT,2511,388193,2025,2025-01
+POL-CH004-00800,CH004,Southgate Property Partners,2025-01-16,2026-01-16,Commercial Property,"Potter, White and Dunn",ME1 4OV,654,339217,2025,2025-01
+POL-CH004-00801,CH004,Southgate Property Partners,2025-01-15,2026-01-15,Commercial Property,Hughes Ltd,KT2 5PQ,2500,397713,2025,2025-01
+POL-CH004-00802,CH004,Southgate Property Partners,2025-01-22,2026-01-22,Commercial Property,"Davies, Houghton and Ellis",CB1 5FB,1260,349522,2025,2025-01
+POL-CH004-00803,CH004,Southgate Property Partners,2025-01-22,2026-01-22,Commercial Property,Harris and Sons,SW6 8PF,2253,454673,2025,2025-01
+POL-CH004-00804,CH004,Southgate Property Partners,2025-01-12,2026-01-12,Commercial Property,"Lee, Short and Jackson",AL1 7YX,1670,363317,2025,2025-01
+POL-CH004-00805,CH004,Southgate Property Partners,2025-01-23,2026-01-23,Commercial Property,"Hutchinson, Murphy and Richards",AL1 4BS,1588,307758,2025,2025-01
+POL-CH004-00806,CH004,Southgate Property Partners,2025-01-13,2026-01-13,Commercial Property,"Randall, Davies and Clark",EC1 4FG,2672,367767,2025,2025-01
+POL-CH005-00807,CH005,Ironclad Construction Risks,2025-01-13,2026-01-13,EL/PL Liability,Lee-Evans,WF3R 8WR,3786,749746,2025,2025-01
+POL-CH005-00808,CH005,Ironclad Construction Risks,2025-01-19,2026-01-19,EL/PL Liability,Donnelly-Burton,W01 2XJ,2263,660559,2025,2025-01
+POL-CH005-00809,CH005,Ironclad Construction Risks,2025-01-12,2026-01-12,EL/PL Liability,Brown-Spencer,N06 0RB,2581,464444,2025,2025-01
+POL-CH005-00810,CH005,Ironclad Construction Risks,2025-01-19,2026-01-19,EL/PL Liability,"Edwards, Bishop and Bruce",DE1N 1FB,2853,423144,2025,2025-01
+POL-CH005-00811,CH005,Ironclad Construction Risks,2025-01-10,2026-01-10,EL/PL Liability,"Owen, Jones and Holland",M6 7NH,3526,530307,2025,2025-01
+POL-CH005-00812,CH005,Ironclad Construction Risks,2025-01-23,2026-01-23,EL/PL Liability,"Griffiths, White and Jones",S9S 1HU,2756,642493,2025,2025-01
+POL-CH005-00813,CH005,Ironclad Construction Risks,2025-01-10,2026-01-10,EL/PL Liability,Walker Ltd,M0 6TT,2398,688004,2025,2025-01
+POL-CH005-00814,CH005,Ironclad Construction Risks,2025-01-01,2026-01-01,EL/PL Liability,Baxter-Robertson,N54 4UJ,2229,730694,2025,2025-01
+POL-CH005-00815,CH005,Ironclad Construction Risks,2025-01-27,2026-01-27,EL/PL Liability,"Ward, Holt and Reid",CH05 3EQ,1550,618956,2025,2025-01
+POL-CH005-00816,CH005,Ironclad Construction Risks,2025-01-22,2026-01-22,EL/PL Liability,Rowe-Marshall,S15 7GR,4112,449950,2025,2025-01
+POL-CH001-00817,CH001,Avonbridge Underwriting,2025-02-13,2026-02-13,Commercial Property,Wood-Reid,LA25 0BZ,4847,888161,2025,2025-02
+POL-CH001-00818,CH001,Avonbridge Underwriting,2025-02-09,2026-02-09,Commercial Property,Williams-Baker,DA8 2FS,4641,953952,2025,2025-02
+POL-CH001-00819,CH001,Avonbridge Underwriting,2025-02-01,2026-02-01,Commercial Property,Day Group,W61 5DE,4999,1085811,2025,2025-02
+POL-CH001-00820,CH001,Avonbridge Underwriting,2025-02-19,2026-02-19,Commercial Property,"Powell, Ball and Anderson",M3S 9WH,4716,798732,2025,2025-02
+POL-CH001-00821,CH001,Avonbridge Underwriting,2025-02-28,2026-02-28,Commercial Property,"Rhodes, Elliott and Jones",SP45 6HN,5047,1253724,2025,2025-02
+POL-CH001-00822,CH001,Avonbridge Underwriting,2025-02-22,2026-02-22,Commercial Property,"Hardy, Gordon and Morley",B4B 9LS,4032,642912,2025,2025-02
+POL-CH001-00823,CH001,Avonbridge Underwriting,2025-02-25,2026-02-25,Commercial Property,"Hall, Evans and Francis",SK8E 7XA,5594,824419,2025,2025-02
+POL-CH001-00824,CH001,Avonbridge Underwriting,2025-02-24,2026-02-24,Commercial Property,Collins-Watson,N8 7YZ,1462,1030077,2025,2025-02
+POL-CH001-00825,CH001,Avonbridge Underwriting,2025-02-02,2026-02-02,Commercial Property,Henderson and Sons,CA9 1YY,3525,830761,2025,2025-02
+POL-CH001-00826,CH001,Avonbridge Underwriting,2025-02-20,2026-02-20,Commercial Property,"Wood, Miller and Thompson",B50 9DL,4618,890481,2025,2025-02
+POL-CH001-00827,CH001,Avonbridge Underwriting,2025-02-24,2026-02-24,Commercial Property,Lee Inc,FK84 9JL,5093,757459,2025,2025-02
+POL-CH001-00828,CH001,Avonbridge Underwriting,2025-02-16,2026-02-16,Commercial Property,Baker-Walker,GY3R 9WA,4846,794846,2025,2025-02
+POL-CH001-00829,CH001,Avonbridge Underwriting,2025-02-27,2026-02-27,Commercial Property,"Roberts, King and Bell",M1 9UW,5130,980765,2025,2025-02
+POL-CH001-00830,CH001,Avonbridge Underwriting,2025-02-10,2026-02-10,Commercial Property,Pope Group,L90 7FD,3021,1080771,2025,2025-02
+POL-CH001-00831,CH001,Avonbridge Underwriting,2025-02-25,2026-02-25,Commercial Property,"Bradley, Nixon and Thomas",L4 1UZ,3524,1021712,2025,2025-02
+POL-CH001-00832,CH001,Avonbridge Underwriting,2025-02-26,2026-02-26,Commercial Property,"Fox, Burrows and Hodgson",KT1 1XS,4662,1240614,2025,2025-02
+POL-CH002-00833,CH002,Meridian Risk Solutions,2025-02-08,2026-02-08,EL/PL Liability,Long-Jones,B33 0SQ,2775,497572,2025,2025-02
+POL-CH002-00834,CH002,Meridian Risk Solutions,2025-02-20,2026-02-20,EL/PL Liability,"Dale, Carroll and Taylor",PR03 2GH,2818,599992,2025,2025-02
+POL-CH002-00835,CH002,Meridian Risk Solutions,2025-02-26,2026-02-26,EL/PL Liability,Edwards Ltd,E26 0WZ,1596,368289,2025,2025-02
+POL-CH002-00836,CH002,Meridian Risk Solutions,2025-02-12,2026-02-12,EL/PL Liability,Lewis PLC,B75 9LZ,2106,618788,2025,2025-02
+POL-CH002-00837,CH002,Meridian Risk Solutions,2025-02-08,2026-02-08,EL/PL Liability,Brown and Sons,L8H 6GR,4690,486943,2025,2025-02
+POL-CH002-00838,CH002,Meridian Risk Solutions,2025-02-21,2026-02-21,EL/PL Liability,Sanderson-Griffiths,S3 9PL,2942,508756,2025,2025-02
+POL-CH002-00839,CH002,Meridian Risk Solutions,2025-02-07,2026-02-07,EL/PL Liability,Burke and Sons,M7E 8PS,4180,384080,2025,2025-02
+POL-CH002-00840,CH002,Meridian Risk Solutions,2025-02-20,2026-02-20,EL/PL Liability,Smith Group,B3C 6WZ,3321,621899,2025,2025-02
+POL-CH002-00841,CH002,Meridian Risk Solutions,2025-02-09,2026-02-09,EL/PL Liability,Smith LLC,B9D 7BG,3566,523697,2025,2025-02
+POL-CH002-00842,CH002,Meridian Risk Solutions,2025-02-22,2026-02-22,EL/PL Liability,Hicks-Richardson,IP5B 3HN,4030,162095,2025,2025-02
+POL-CH002-00843,CH002,Meridian Risk Solutions,2025-02-25,2026-02-25,EL/PL Liability,Sutton and Sons,TW1X 6BY,3730,418240,2025,2025-02
+POL-CH002-00844,CH002,Meridian Risk Solutions,2025-02-24,2026-02-24,EL/PL Liability,"Rees, Hughes and Osborne",NP2 7ZB,1397,563900,2025,2025-02
+POL-CH002-00845,CH002,Meridian Risk Solutions,2025-02-25,2026-02-25,EL/PL Liability,Griffiths-Jones,PL4E 3QX,4377,482818,2025,2025-02
+POL-CH002-00846,CH002,Meridian Risk Solutions,2025-02-22,2026-02-22,EL/PL Liability,Rowe Group,RM1 6SJ,3986,701534,2025,2025-02
+POL-CH002-00847,CH002,Meridian Risk Solutions,2025-02-22,2026-02-22,EL/PL Liability,Moore and Sons,HG21 0FQ,4322,704995,2025,2025-02
+POL-CH002-00848,CH002,Meridian Risk Solutions,2025-02-27,2026-02-27,EL/PL Liability,Kelly-Morris,G50 3FR,3790,509429,2025,2025-02
+POL-CH002-00849,CH002,Meridian Risk Solutions,2025-02-05,2026-02-05,EL/PL Liability,Williams Ltd,PR93 4RH,1610,469242,2025,2025-02
+POL-CH002-00850,CH002,Meridian Risk Solutions,2025-02-21,2026-02-21,EL/PL Liability,"Stevenson, Hayward and Barton",N07 1EN,2315,771367,2025,2025-02
+POL-CH002-00851,CH002,Meridian Risk Solutions,2025-02-04,2026-02-04,EL/PL Liability,"Poole, Short and Hart",DE3 1HL,2936,515400,2025,2025-02
+POL-CH002-00852,CH002,Meridian Risk Solutions,2025-02-21,2026-02-21,EL/PL Liability,Bird LLC,E08 8UQ,3612,505450,2025,2025-02
+POL-CH003-00853,CH003,Fortis Professional Risks,2025-02-21,2026-02-21,Professional Indemnity,Edwards-Morgan,DY12 5RA,4472,1258382,2025,2025-02
+POL-CH003-00854,CH003,Fortis Professional Risks,2025-02-02,2026-02-02,Professional Indemnity,Lewis PLC,G70 0BN,4274,803993,2025,2025-02
+POL-CH003-00855,CH003,Fortis Professional Risks,2025-02-10,2026-02-10,Professional Indemnity,Brown Group,HG7 3HR,4490,1188888,2025,2025-02
+POL-CH003-00856,CH003,Fortis Professional Risks,2025-02-26,2026-02-26,Professional Indemnity,Turner-Harrison,W02 2LP,4791,992273,2025,2025-02
+POL-CH003-00857,CH003,Fortis Professional Risks,2025-02-15,2026-02-15,Professional Indemnity,Grant Group,G4 0JH,3179,1175068,2025,2025-02
+POL-CH003-00858,CH003,Fortis Professional Risks,2025-02-02,2026-02-02,Professional Indemnity,"Field, Taylor and Metcalfe",TQ0 9UB,3017,1428016,2025,2025-02
+POL-CH003-00859,CH003,Fortis Professional Risks,2025-02-19,2026-02-19,Professional Indemnity,James-Fitzgerald,SP4 4XY,5636,762734,2025,2025-02
+POL-CH003-00860,CH003,Fortis Professional Risks,2025-02-12,2026-02-12,Professional Indemnity,"Griffin, Green and Moss",OL3 1JH,4989,974353,2025,2025-02
+POL-CH003-00861,CH003,Fortis Professional Risks,2025-02-24,2026-02-24,Professional Indemnity,Harris-Wilson,W8 9FE,6026,1602135,2025,2025-02
+POL-CH003-00862,CH003,Fortis Professional Risks,2025-02-05,2026-02-05,Professional Indemnity,Davies-Walsh,IG73 6YP,2405,1234507,2025,2025-02
+POL-CH003-00863,CH003,Fortis Professional Risks,2025-02-03,2026-02-03,Professional Indemnity,Holland-Willis,S74 2FZ,5235,1401402,2025,2025-02
+POL-CH003-00864,CH003,Fortis Professional Risks,2025-02-10,2026-02-10,Professional Indemnity,Owens-Roberts,L53 2AJ,5851,974409,2025,2025-02
+POL-CH004-00865,CH004,Southgate Property Partners,2025-02-11,2026-02-11,Commercial Property,"Allen, Smith and Benson",RH1 4PI,1370,507600,2025,2025-02
+POL-CH004-00866,CH004,Southgate Property Partners,2025-02-05,2026-02-05,Commercial Property,"Cook, Collins and Martin",BR1 9YB,1811,590119,2025,2025-02
+POL-CH004-00867,CH004,Southgate Property Partners,2025-02-17,2026-02-17,Commercial Property,"Patterson, White and Daly",TN1 5KL,1767,329159,2025,2025-02
+POL-CH004-00868,CH004,Southgate Property Partners,2025-02-27,2026-02-27,Commercial Property,George-Glover,HP1 6RI,982,219686,2025,2025-02
+POL-CH004-00869,CH004,Southgate Property Partners,2025-02-26,2026-02-26,Commercial Property,"Bryan, Edwards and Pearson",SW6 3QX,944,426712,2025,2025-02
+POL-CH004-00870,CH004,Southgate Property Partners,2025-02-25,2026-02-25,Commercial Property,Shaw-Woods,DA1 9WA,2074,241880,2025,2025-02
+POL-CH004-00871,CH004,Southgate Property Partners,2025-02-12,2026-02-12,Commercial Property,"Cross, Thompson and King",DA1 1NJ,2283,351693,2025,2025-02
+POL-CH004-00872,CH004,Southgate Property Partners,2025-02-09,2026-02-09,Commercial Property,Lawrence LLC,KT2 6GF,1879,561222,2025,2025-02
+POL-CH004-00873,CH004,Southgate Property Partners,2025-02-22,2026-02-22,Commercial Property,Walters-Cook,RG1 7UW,2284,373146,2025,2025-02
+POL-CH004-00874,CH004,Southgate Property Partners,2025-02-27,2026-02-27,Commercial Property,Bishop PLC,BR1 2ZY,1318,184818,2025,2025-02
+POL-CH004-00875,CH004,Southgate Property Partners,2025-02-22,2026-02-22,Commercial Property,Henry Group,SE10 9JL,1411,378886,2025,2025-02
+POL-CH005-00876,CH005,Ironclad Construction Risks,2025-02-11,2026-02-11,EL/PL Liability,Price and Sons,WC3X 5WB,2497,611527,2025,2025-02
+POL-CH005-00877,CH005,Ironclad Construction Risks,2025-02-20,2026-02-20,EL/PL Liability,Campbell LLC,W3A 0YQ,2424,502499,2025,2025-02
+POL-CH005-00878,CH005,Ironclad Construction Risks,2025-02-08,2026-02-08,EL/PL Liability,"Harvey, Thorpe and Chapman",S97 4QS,2731,666291,2025,2025-02
+POL-CH005-00879,CH005,Ironclad Construction Risks,2025-02-21,2026-02-21,EL/PL Liability,Pearson-Young,PO0 5GE,1749,811639,2025,2025-02
+POL-CH005-00880,CH005,Ironclad Construction Risks,2025-02-03,2026-02-03,EL/PL Liability,"Miller, Thompson and Watson",S1 1FZ,2523,602827,2025,2025-02
+POL-CH005-00881,CH005,Ironclad Construction Risks,2025-02-21,2026-02-21,EL/PL Liability,Berry-Bradshaw,W8B 1GA,3152,634982,2025,2025-02
+POL-CH005-00882,CH005,Ironclad Construction Risks,2025-02-27,2026-02-27,EL/PL Liability,West Inc,G4W 0RP,3343,643068,2025,2025-02
+POL-CH001-00883,CH001,Avonbridge Underwriting,2025-03-15,2026-03-15,Commercial Property,"Walters, Smith and Baker",B6 9XB,4655,606958,2025,2025-03
+POL-CH001-00884,CH001,Avonbridge Underwriting,2025-03-23,2026-03-23,Commercial Property,Evans-Hardy,G1 4XJ,4336,842938,2025,2025-03
+POL-CH001-00885,CH001,Avonbridge Underwriting,2025-03-10,2026-03-10,Commercial Property,Hale-Howe,DH4 3GJ,3937,822685,2025,2025-03
+POL-CH001-00886,CH001,Avonbridge Underwriting,2025-03-21,2026-03-21,Commercial Property,Baker and Sons,SY71 7GL,1828,733395,2025,2025-03
+POL-CH001-00887,CH001,Avonbridge Underwriting,2025-03-14,2026-03-14,Commercial Property,Watts-Phillips,SP36 7WE,4316,883969,2025,2025-03
+POL-CH001-00888,CH001,Avonbridge Underwriting,2025-03-04,2026-03-04,Commercial Property,Francis Inc,B15 1AW,2905,1118962,2025,2025-03
+POL-CH001-00889,CH001,Avonbridge Underwriting,2025-03-05,2026-03-05,Commercial Property,Hodgson Group,G2 8EE,3108,1056009,2025,2025-03
+POL-CH001-00890,CH001,Avonbridge Underwriting,2025-03-02,2026-03-02,Commercial Property,Rogers Inc,EX5 9HJ,4738,712676,2025,2025-03
+POL-CH001-00891,CH001,Avonbridge Underwriting,2025-03-02,2026-03-02,Commercial Property,"Wong, Mitchell and King",S3 4NS,6436,596352,2025,2025-03
+POL-CH001-00892,CH001,Avonbridge Underwriting,2025-03-10,2026-03-10,Commercial Property,"Williams, Singh and Williams",S2U 7AY,5358,1062623,2025,2025-03
+POL-CH001-00893,CH001,Avonbridge Underwriting,2025-03-16,2026-03-16,Commercial Property,Parsons-Flynn,G88 3AY,3355,1145898,2025,2025-03
+POL-CH001-00894,CH001,Avonbridge Underwriting,2025-03-04,2026-03-04,Commercial Property,White and Sons,LE9B 1WS,3884,911347,2025,2025-03
+POL-CH001-00895,CH001,Avonbridge Underwriting,2025-03-04,2026-03-04,Commercial Property,"Webster, Smith and Hutchinson",CA1 5FN,4528,821459,2025,2025-03
+POL-CH001-00896,CH001,Avonbridge Underwriting,2025-03-08,2026-03-08,Commercial Property,Smith PLC,DD6B 1SG,5221,1018616,2025,2025-03
+POL-CH001-00897,CH001,Avonbridge Underwriting,2025-03-18,2026-03-18,Commercial Property,"Phillips, Smart and Jones",WC5R 6XN,1996,1127172,2025,2025-03
+POL-CH001-00898,CH001,Avonbridge Underwriting,2025-03-05,2026-03-05,Commercial Property,Glover PLC,B03 4FW,2105,1069416,2025,2025-03
+POL-CH002-00899,CH002,Meridian Risk Solutions,2025-03-13,2026-03-13,EL/PL Liability,"Cooper, Jordan and Rogers",E5 0NL,2085,448648,2025,2025-03
+POL-CH002-00900,CH002,Meridian Risk Solutions,2025-03-15,2026-03-15,EL/PL Liability,King and Sons,PL29 3BF,2071,473134,2025,2025-03
+POL-CH002-00901,CH002,Meridian Risk Solutions,2025-03-12,2026-03-12,EL/PL Liability,"Smith, Evans and Holt",W6J 3TX,2813,597457,2025,2025-03
+POL-CH002-00902,CH002,Meridian Risk Solutions,2025-03-22,2026-03-22,EL/PL Liability,Willis-Lamb,G3T 5ZH,4318,674460,2025,2025-03
+POL-CH002-00903,CH002,Meridian Risk Solutions,2025-03-24,2026-03-24,EL/PL Liability,Barton-Lloyd,PA59 8AX,2577,473847,2025,2025-03
+POL-CH002-00904,CH002,Meridian Risk Solutions,2025-03-23,2026-03-23,EL/PL Liability,"Kennedy, Riley and Smith",B10 7ES,1534,399266,2025,2025-03
+POL-CH002-00905,CH002,Meridian Risk Solutions,2025-03-18,2026-03-18,EL/PL Liability,Clark LLC,BA7P 4WF,3997,701947,2025,2025-03
+POL-CH002-00906,CH002,Meridian Risk Solutions,2025-03-14,2026-03-14,EL/PL Liability,Reed LLC,M9 8QR,1952,425941,2025,2025-03
+POL-CH002-00907,CH002,Meridian Risk Solutions,2025-03-19,2026-03-19,EL/PL Liability,Heath Ltd,TR56 2RB,3075,535020,2025,2025-03
+POL-CH002-00908,CH002,Meridian Risk Solutions,2025-03-24,2026-03-24,EL/PL Liability,"Shaw, Stephens and Daniels",IP5 0JH,2347,553007,2025,2025-03
+POL-CH002-00909,CH002,Meridian Risk Solutions,2025-03-24,2026-03-24,EL/PL Liability,Rose PLC,FY36 6UG,2659,498193,2025,2025-03
+POL-CH002-00910,CH002,Meridian Risk Solutions,2025-03-05,2026-03-05,EL/PL Liability,"Wyatt, Whitehead and Wilson",FY7 0XS,3608,500802,2025,2025-03
+POL-CH002-00911,CH002,Meridian Risk Solutions,2025-03-14,2026-03-14,EL/PL Liability,"Kaur, Webster and Hall",L4D 1BN,2694,486298,2025,2025-03
+POL-CH002-00912,CH002,Meridian Risk Solutions,2025-03-21,2026-03-21,EL/PL Liability,"Wilson, Wheeler and Hayes",WC2 4RT,3017,453748,2025,2025-03
+POL-CH002-00913,CH002,Meridian Risk Solutions,2025-03-04,2026-03-04,EL/PL Liability,Stevenson-Bond,M9F 1YA,2859,699830,2025,2025-03
+POL-CH002-00914,CH002,Meridian Risk Solutions,2025-03-27,2026-03-27,EL/PL Liability,"Grant, Short and Wilson",DY9R 0XP,3621,463064,2025,2025-03
+POL-CH002-00915,CH002,Meridian Risk Solutions,2025-03-16,2026-03-16,EL/PL Liability,"Norman, King and Smith",IV1 5BJ,3748,458272,2025,2025-03
+POL-CH002-00916,CH002,Meridian Risk Solutions,2025-03-20,2026-03-20,EL/PL Liability,"Johnson, Cunningham and Williams",S3 1FZ,4191,546205,2025,2025-03
+POL-CH002-00917,CH002,Meridian Risk Solutions,2025-03-14,2026-03-14,EL/PL Liability,O'Neill-Davies,BN0 7HY,3000,555964,2025,2025-03
+POL-CH002-00918,CH002,Meridian Risk Solutions,2025-03-09,2026-03-09,EL/PL Liability,Walker-Bell,M3 8FS,1639,359154,2025,2025-03
+POL-CH002-00919,CH002,Meridian Risk Solutions,2025-03-02,2026-03-02,EL/PL Liability,Lewis-White,GU8B 6AY,1989,517867,2025,2025-03
+POL-CH002-00920,CH002,Meridian Risk Solutions,2025-03-23,2026-03-23,EL/PL Liability,Craig-Miller,PE7A 3BY,4711,778912,2025,2025-03
+POL-CH002-00921,CH002,Meridian Risk Solutions,2025-03-12,2026-03-12,EL/PL Liability,"Powell, Burton and Robinson",N29 2PL,3693,562605,2025,2025-03
+POL-CH002-00922,CH002,Meridian Risk Solutions,2025-03-07,2026-03-07,EL/PL Liability,Smith and Sons,S1 5UR,1425,432165,2025,2025-03
+POL-CH003-00923,CH003,Fortis Professional Risks,2025-03-15,2026-03-15,Professional Indemnity,Lawson Inc,WA8A 7QF,4475,1149556,2025,2025-03
+POL-CH003-00924,CH003,Fortis Professional Risks,2025-03-15,2026-03-15,Professional Indemnity,"Reynolds, Nicholls and Phillips",HS2 6UN,4721,606210,2025,2025-03
+POL-CH003-00925,CH003,Fortis Professional Risks,2025-03-08,2026-03-08,Professional Indemnity,"McDonald, McCarthy and Robinson",L2F 8YN,6734,878177,2025,2025-03
+POL-CH003-00926,CH003,Fortis Professional Risks,2025-03-28,2026-03-28,Professional Indemnity,Begum Inc,L98 2YH,5894,1822224,2025,2025-03
+POL-CH003-00927,CH003,Fortis Professional Risks,2025-03-12,2026-03-12,Professional Indemnity,Taylor Inc,FY32 6YX,3983,440913,2025,2025-03
+POL-CH003-00928,CH003,Fortis Professional Risks,2025-03-04,2026-03-04,Professional Indemnity,Shah LLC,BS50 7SL,5028,1530287,2025,2025-03
+POL-CH003-00929,CH003,Fortis Professional Risks,2025-03-22,2026-03-22,Professional Indemnity,"Wright, Patterson and Hall",TD0 1LU,8731,831135,2025,2025-03
+POL-CH003-00930,CH003,Fortis Professional Risks,2025-03-12,2026-03-12,Professional Indemnity,George-Bailey,CT6 9DF,6319,1060406,2025,2025-03
+POL-CH004-00931,CH004,Southgate Property Partners,2025-03-18,2026-03-18,Commercial Property,Mitchell-Collins,SS1 1XU,3227,249702,2025,2025-03
+POL-CH004-00932,CH004,Southgate Property Partners,2025-03-13,2026-03-13,Commercial Property,Begum-Turner,BN1 8RY,1937,446769,2025,2025-03
+POL-CH004-00933,CH004,Southgate Property Partners,2025-03-03,2026-03-03,Commercial Property,Holmes-Jones,SE10 1KP,2386,409798,2025,2025-03
+POL-CH004-00934,CH004,Southgate Property Partners,2025-03-26,2026-03-26,Commercial Property,"Patel, Parry and Simpson",CT1 4JE,1966,360835,2025,2025-03
+POL-CH004-00935,CH004,Southgate Property Partners,2025-03-03,2026-03-03,Commercial Property,"Harris, Cooke and Barry",KT1 4FO,1945,365680,2025,2025-03
+POL-CH004-00936,CH004,Southgate Property Partners,2025-03-27,2026-03-27,Commercial Property,Dawson LLC,CM1 3CD,2135,363038,2025,2025-03
+POL-CH004-00937,CH004,Southgate Property Partners,2025-03-26,2026-03-26,Commercial Property,"Jones, Smith and Hawkins",SE1 5ZZ,2003,397073,2025,2025-03
+POL-CH004-00938,CH004,Southgate Property Partners,2025-03-28,2026-03-28,Commercial Property,Bradley-Thomas,CT1 9UD,2408,394860,2025,2025-03
+POL-CH004-00939,CH004,Southgate Property Partners,2025-03-09,2026-03-09,Commercial Property,"Jones, Page and Black",BN1 1NN,842,526192,2025,2025-03
+POL-CH004-00940,CH004,Southgate Property Partners,2025-03-05,2026-03-05,Commercial Property,Long-Jones,L2 6SQ,1310,334623,2025,2025-03
+POL-CH004-00941,CH004,Southgate Property Partners,2025-03-01,2026-03-01,Commercial Property,"Marsh, Page and Morris",SW1 3FP,1478,537443,2025,2025-03
+POL-CH005-00942,CH005,Ironclad Construction Risks,2025-03-24,2026-03-24,EL/PL Liability,Mason-Bennett,W5 1PP,5047,758408,2025,2025-03
+POL-CH005-00943,CH005,Ironclad Construction Risks,2025-03-14,2026-03-14,EL/PL Liability,James-May,S53 2EP,2774,591765,2025,2025-03
+POL-CH005-00944,CH005,Ironclad Construction Risks,2025-03-17,2026-03-17,EL/PL Liability,"Jarvis, Wilson and Norman",SO9 9AR,2822,678168,2025,2025-03
+POL-CH005-00945,CH005,Ironclad Construction Risks,2025-03-04,2026-03-04,EL/PL Liability,"Curtis, Black and Gibson",S9 5FY,3103,683340,2025,2025-03
+POL-CH005-00946,CH005,Ironclad Construction Risks,2025-03-24,2026-03-24,EL/PL Liability,Jones-Austin,PL5Y 8EY,2669,570399,2025,2025-03
+POL-CH005-00947,CH005,Ironclad Construction Risks,2025-03-03,2026-03-03,EL/PL Liability,"Lewis, Hart and Mills",TD0Y 4FS,2482,570763,2025,2025-03
+POL-CH001-00948,CH001,Avonbridge Underwriting,2025-04-16,2026-04-16,Commercial Property,"Wright, Bird and Martin",M85 4WU,4947,225167,2025,2025-04
+POL-CH001-00949,CH001,Avonbridge Underwriting,2025-04-15,2026-04-15,Commercial Property,"Page, Harvey and Jones",ST1H 1ET,5026,891381,2025,2025-04
+POL-CH001-00950,CH001,Avonbridge Underwriting,2025-04-25,2026-04-25,Commercial Property,Davies Ltd,DH8 5PT,4176,767439,2025,2025-04
+POL-CH001-00951,CH001,Avonbridge Underwriting,2025-04-12,2026-04-12,Commercial Property,"Forster, Dale and Mellor",S9 6NS,5616,1051349,2025,2025-04
+POL-CH001-00952,CH001,Avonbridge Underwriting,2025-04-17,2026-04-17,Commercial Property,Patel-Rogers,N8 7LT,3226,936498,2025,2025-04
+POL-CH001-00953,CH001,Avonbridge Underwriting,2025-04-19,2026-04-19,Commercial Property,Jones LLC,L89 4UT,2975,556831,2025,2025-04
+POL-CH001-00954,CH001,Avonbridge Underwriting,2025-04-04,2026-04-04,Commercial Property,"Townsend, Williams and Read",W38 0EY,3410,1033258,2025,2025-04
+POL-CH001-00955,CH001,Avonbridge Underwriting,2025-04-15,2026-04-15,Commercial Property,Parry Inc,AB3 0EA,5400,959030,2025,2025-04
+POL-CH001-00956,CH001,Avonbridge Underwriting,2025-04-17,2026-04-17,Commercial Property,Walters-Hamilton,L88 0TX,5113,959687,2025,2025-04
+POL-CH001-00957,CH001,Avonbridge Underwriting,2025-04-08,2026-04-08,Commercial Property,Matthews-Saunders,G5D 5GJ,3391,941783,2025,2025-04
+POL-CH001-00958,CH001,Avonbridge Underwriting,2025-04-20,2026-04-20,Commercial Property,"Chapman, Sutton and Khan",B4 1RJ,5208,1010286,2025,2025-04
+POL-CH001-00959,CH001,Avonbridge Underwriting,2025-04-02,2026-04-02,Commercial Property,Kirby and Sons,G6D 2EZ,5698,1000514,2025,2025-04
+POL-CH001-00960,CH001,Avonbridge Underwriting,2025-04-24,2026-04-24,Commercial Property,"Wood, Reynolds and Smith",G41 2EX,4642,1077406,2025,2025-04
+POL-CH001-00961,CH001,Avonbridge Underwriting,2025-04-26,2026-04-26,Commercial Property,Williams and Sons,B5U 0YQ,4166,662601,2025,2025-04
+POL-CH001-00962,CH001,Avonbridge Underwriting,2025-04-28,2026-04-28,Commercial Property,Harrison Inc,L6 0AQ,3994,691708,2025,2025-04
+POL-CH001-00963,CH001,Avonbridge Underwriting,2025-04-22,2026-04-22,Commercial Property,"Gill, Howard and Robinson",JE4 2AF,3349,819289,2025,2025-04
+POL-CH001-00964,CH001,Avonbridge Underwriting,2025-04-17,2026-04-17,Commercial Property,"Quinn, Hall and Harrison",BL9 3DQ,3201,784558,2025,2025-04
+POL-CH001-00965,CH001,Avonbridge Underwriting,2025-04-10,2026-04-10,Commercial Property,"Thompson, Cox and Jones",GY4 4JS,1814,895324,2025,2025-04
+POL-CH001-00966,CH001,Avonbridge Underwriting,2025-04-15,2026-04-15,Commercial Property,Wyatt LLC,LN8 6YH,4201,676368,2025,2025-04
+POL-CH001-00967,CH001,Avonbridge Underwriting,2025-04-21,2026-04-21,Commercial Property,"Price, Ball and Smith",WC9 3GP,5030,1049233,2025,2025-04
+POL-CH001-00968,CH001,Avonbridge Underwriting,2025-04-01,2026-04-01,Commercial Property,Roberts Ltd,M4D 2XH,2174,687920,2025,2025-04
+POL-CH002-00969,CH002,Meridian Risk Solutions,2025-04-02,2026-04-02,EL/PL Liability,"Taylor, Smith and Bull",WD6 8XU,2225,603684,2025,2025-04
+POL-CH002-00970,CH002,Meridian Risk Solutions,2025-04-16,2026-04-16,EL/PL Liability,Burton Group,GL0 4GJ,2919,466935,2025,2025-04
+POL-CH002-00971,CH002,Meridian Risk Solutions,2025-04-28,2026-04-28,EL/PL Liability,Thomson and Sons,B28 3RJ,1236,579427,2025,2025-04
+POL-CH002-00972,CH002,Meridian Risk Solutions,2025-04-13,2026-04-13,EL/PL Liability,"Gray, Finch and Jones",DL0 7NN,1947,507491,2025,2025-04
+POL-CH002-00973,CH002,Meridian Risk Solutions,2025-04-14,2026-04-14,EL/PL Liability,Lewis-Evans,BL2 9YZ,3357,670082,2025,2025-04
+POL-CH002-00974,CH002,Meridian Risk Solutions,2025-04-22,2026-04-22,EL/PL Liability,"Campbell, Andrews and Rees",W4 1XJ,1882,122560,2025,2025-04
+POL-CH002-00975,CH002,Meridian Risk Solutions,2025-04-04,2026-04-04,EL/PL Liability,Wall and Sons,L4C 3AZ,3270,725063,2025,2025-04
+POL-CH002-00976,CH002,Meridian Risk Solutions,2025-04-16,2026-04-16,EL/PL Liability,Price-Haynes,S2 2AD,4252,526207,2025,2025-04
+POL-CH002-00977,CH002,Meridian Risk Solutions,2025-04-23,2026-04-23,EL/PL Liability,"Howarth, Douglas and Smith",G82 0PB,2642,600890,2025,2025-04
+POL-CH002-00978,CH002,Meridian Risk Solutions,2025-04-15,2026-04-15,EL/PL Liability,Brooks Ltd,M4 5NF,2194,559544,2025,2025-04
+POL-CH002-00979,CH002,Meridian Risk Solutions,2025-04-03,2026-04-03,EL/PL Liability,Wong Ltd,HS4 7ER,3570,632526,2025,2025-04
+POL-CH002-00980,CH002,Meridian Risk Solutions,2025-04-03,2026-04-03,EL/PL Liability,Giles Group,HS79 3UZ,5666,549051,2025,2025-04
+POL-CH002-00981,CH002,Meridian Risk Solutions,2025-04-11,2026-04-11,EL/PL Liability,Roberts LLC,CW2 6BG,2626,496803,2025,2025-04
+POL-CH002-00982,CH002,Meridian Risk Solutions,2025-04-20,2026-04-20,EL/PL Liability,Jones Ltd,M3 1LU,1454,413160,2025,2025-04
+POL-CH002-00983,CH002,Meridian Risk Solutions,2025-04-05,2026-04-05,EL/PL Liability,"Hilton, Owens and Foster",KA4H 7LJ,2719,434488,2025,2025-04
+POL-CH002-00984,CH002,Meridian Risk Solutions,2025-04-03,2026-04-03,EL/PL Liability,"Clarke, Webb and Turner",L9T 9JR,3241,397197,2025,2025-04
+POL-CH002-00985,CH002,Meridian Risk Solutions,2025-04-05,2026-04-05,EL/PL Liability,Carpenter-Holland,M6A 0ZJ,4142,500025,2025,2025-04
+POL-CH002-00986,CH002,Meridian Risk Solutions,2025-04-09,2026-04-09,EL/PL Liability,"Knowles, Kelly and Crawford",LN0R 3FW,3091,459013,2025,2025-04
+POL-CH003-00987,CH003,Fortis Professional Risks,2025-04-20,2026-04-20,Professional Indemnity,Charlton and Sons,IM4A 9UA,6861,939860,2025,2025-04
+POL-CH003-00988,CH003,Fortis Professional Risks,2025-04-21,2026-04-21,Professional Indemnity,Cook-Smith,DE8H 8LY,4414,1108882,2025,2025-04
+POL-CH003-00989,CH003,Fortis Professional Risks,2025-04-19,2026-04-19,Professional Indemnity,Fitzgerald Group,TS2N 6TB,3279,954222,2025,2025-04
+POL-CH003-00990,CH003,Fortis Professional Risks,2025-04-18,2026-04-18,Professional Indemnity,"Barlow, Brown and Page",HP8X 1ND,4714,1462316,2025,2025-04
+POL-CH003-00991,CH003,Fortis Professional Risks,2025-04-23,2026-04-23,Professional Indemnity,"Smart, Thomas and Price",AL9 2DN,5933,1258076,2025,2025-04
+POL-CH003-00992,CH003,Fortis Professional Risks,2025-04-11,2026-04-11,Professional Indemnity,"Mason, Chan and James",B9S 0PY,6903,1158788,2025,2025-04
+POL-CH003-00993,CH003,Fortis Professional Risks,2025-04-13,2026-04-13,Professional Indemnity,"Bradley, Thomas and Chan",NG4 0LY,6144,1169033,2025,2025-04
+POL-CH003-00994,CH003,Fortis Professional Risks,2025-04-20,2026-04-20,Professional Indemnity,Rogers Ltd,L5G 1JY,5937,1025172,2025,2025-04
+POL-CH003-00995,CH003,Fortis Professional Risks,2025-04-17,2026-04-17,Professional Indemnity,Smith and Sons,M79 5YE,1475,1159716,2025,2025-04
+POL-CH003-00996,CH003,Fortis Professional Risks,2025-04-10,2026-04-10,Professional Indemnity,Dickinson PLC,B5W 0GW,7847,1477864,2025,2025-04
+POL-CH004-00997,CH004,Southgate Property Partners,2025-04-15,2026-04-15,Commercial Property,Rose-Harvey,HA1 2BJ,2467,408865,2025,2025-04
+POL-CH004-00998,CH004,Southgate Property Partners,2025-04-26,2026-04-26,Commercial Property,Holland PLC,KT1 7SO,1906,338234,2025,2025-04
+POL-CH004-00999,CH004,Southgate Property Partners,2025-04-15,2026-04-15,Commercial Property,Sykes-Miah,EN1 6XK,1629,461577,2025,2025-04
+POL-CH004-01000,CH004,Southgate Property Partners,2025-04-27,2026-04-27,Commercial Property,Brown Ltd,EN1 2FQ,2450,386055,2025,2025-04
+POL-CH004-01001,CH004,Southgate Property Partners,2025-04-11,2026-04-11,Commercial Property,White-Smith,RG1 6TR,1556,400052,2025,2025-04
+POL-CH004-01002,CH004,Southgate Property Partners,2025-04-05,2026-04-05,Commercial Property,Bell-Green,TW1 2EG,2124,255614,2025,2025-04
+POL-CH004-01003,CH004,Southgate Property Partners,2025-04-03,2026-04-03,Commercial Property,Wheeler Inc,E1 7WC,560,344946,2025,2025-04
+POL-CH004-01004,CH004,Southgate Property Partners,2025-04-04,2026-04-04,Commercial Property,Davison and Sons,BR1 3CL,1140,349185,2025,2025-04
+POL-CH004-01005,CH004,Southgate Property Partners,2025-04-18,2026-04-18,Commercial Property,Ahmed Inc,WN1 9EV,1720,354675,2025,2025-04
+POL-CH004-01006,CH004,Southgate Property Partners,2025-04-11,2026-04-11,Commercial Property,"Watts, Evans and Doherty",EN1 6OI,2584,432674,2025,2025-04
+POL-CH004-01007,CH004,Southgate Property Partners,2025-04-28,2026-04-28,Commercial Property,"Wilkinson, Cooper and Johnston",HA1 1AG,1962,462220,2025,2025-04
+POL-CH004-01008,CH004,Southgate Property Partners,2025-04-10,2026-04-10,Commercial Property,"Bartlett, Collins and Smith",SS1 2MO,1185,503911,2025,2025-04
+POL-CH004-01009,CH004,Southgate Property Partners,2025-04-19,2026-04-19,Commercial Property,Lucas and Sons,ME1 8WI,1759,467048,2025,2025-04
+POL-CH005-01010,CH005,Ironclad Construction Risks,2025-04-08,2026-04-08,EL/PL Liability,Smith-Walker,W4E 6DT,1388,722683,2025,2025-04
+POL-CH005-01011,CH005,Ironclad Construction Risks,2025-04-28,2026-04-28,EL/PL Liability,"Lambert, Faulkner and Martin",TF56 7QP,2893,464692,2025,2025-04
+POL-CH005-01012,CH005,Ironclad Construction Risks,2025-04-04,2026-04-04,EL/PL Liability,Hussain LLC,N5 1GA,1921,768815,2025,2025-04
+POL-CH005-01013,CH005,Ironclad Construction Risks,2025-04-12,2026-04-12,EL/PL Liability,Black Inc,LD7 0GR,1672,846400,2025,2025-04
+POL-CH005-01014,CH005,Ironclad Construction Risks,2025-04-28,2026-04-28,EL/PL Liability,"Thompson, Davies and Phillips",HA1Y 1YG,1897,695758,2025,2025-04
+POL-CH005-01015,CH005,Ironclad Construction Risks,2025-04-18,2026-04-18,EL/PL Liability,"Brooks, Clarke and Cartwright",N17 3DZ,2343,690478,2025,2025-04
+POL-CH005-01016,CH005,Ironclad Construction Risks,2025-04-12,2026-04-12,EL/PL Liability,Taylor-Thompson,FY4R 1WN,2175,575581,2025,2025-04
+POL-CH001-01017,CH001,Avonbridge Underwriting,2025-05-04,2026-05-04,Commercial Property,"Smith, Jones and Lewis",CB6 9QN,2937,1007425,2025,2025-05
+POL-CH001-01018,CH001,Avonbridge Underwriting,2025-05-25,2026-05-25,Commercial Property,Johnson-Edwards,SY3 6FA,3553,801422,2025,2025-05
+POL-CH001-01019,CH001,Avonbridge Underwriting,2025-05-09,2026-05-09,Commercial Property,Brown-Goodwin,G50 2WU,2947,305504,2025,2025-05
+POL-CH001-01020,CH001,Avonbridge Underwriting,2025-05-19,2026-05-19,Commercial Property,"Khan, Warren and Rose",B6S 3US,3959,1362680,2025,2025-05
+POL-CH001-01021,CH001,Avonbridge Underwriting,2025-05-08,2026-05-08,Commercial Property,Evans and Sons,M64 5HZ,5188,845907,2025,2025-05
+POL-CH001-01022,CH001,Avonbridge Underwriting,2025-05-26,2026-05-26,Commercial Property,Scott-Wong,GL6 7HS,3868,854774,2025,2025-05
+POL-CH001-01023,CH001,Avonbridge Underwriting,2025-05-14,2026-05-14,Commercial Property,"Hopkins, Smith and Wright",CT7 5PN,4889,599077,2025,2025-05
+POL-CH001-01024,CH001,Avonbridge Underwriting,2025-05-28,2026-05-28,Commercial Property,Turner-Clarke,S03 4AG,5604,1002018,2025,2025-05
+POL-CH001-01025,CH001,Avonbridge Underwriting,2025-05-18,2026-05-18,Commercial Property,"Hamilton, Smith and Ali",SE58 3BN,5104,943176,2025,2025-05
+POL-CH001-01026,CH001,Avonbridge Underwriting,2025-05-25,2026-05-25,Commercial Property,Stone-Dyer,W04 8YD,4224,992983,2025,2025-05
+POL-CH001-01027,CH001,Avonbridge Underwriting,2025-05-27,2026-05-27,Commercial Property,Jones Ltd,BR89 5DS,4945,774766,2025,2025-05
+POL-CH001-01028,CH001,Avonbridge Underwriting,2025-05-20,2026-05-20,Commercial Property,Mason Ltd,FY1P 4BL,3477,871644,2025,2025-05
+POL-CH001-01029,CH001,Avonbridge Underwriting,2025-05-20,2026-05-20,Commercial Property,Shaw PLC,W2G 7PP,6151,586689,2025,2025-05
+POL-CH001-01030,CH001,Avonbridge Underwriting,2025-05-22,2026-05-22,Commercial Property,"Naylor, Brown and Smith",HP94 2DG,2350,885011,2025,2025-05
+POL-CH001-01031,CH001,Avonbridge Underwriting,2025-05-21,2026-05-21,Commercial Property,"Pearson, Robinson and Stevenson",KT23 3HG,4264,886835,2025,2025-05
+POL-CH001-01032,CH001,Avonbridge Underwriting,2025-05-18,2026-05-18,Commercial Property,"Thomas, Alexander and Archer",DH4P 8QA,4507,802569,2025,2025-05
+POL-CH001-01033,CH001,Avonbridge Underwriting,2025-05-01,2026-05-01,Commercial Property,Wilkinson-Holland,L6E 2TX,6077,509807,2025,2025-05
+POL-CH001-01034,CH001,Avonbridge Underwriting,2025-05-20,2026-05-20,Commercial Property,"Dunn, Wood and Hutchinson",SY98 7LJ,3156,828058,2025,2025-05
+POL-CH002-01035,CH002,Meridian Risk Solutions,2025-05-22,2026-05-22,EL/PL Liability,"Alexander, Holmes and Davis",L8 3HT,2936,707683,2025,2025-05
+POL-CH002-01036,CH002,Meridian Risk Solutions,2025-05-27,2026-05-27,EL/PL Liability,"Morris, West and Taylor",SE1Y 3JQ,3119,528837,2025,2025-05
+POL-CH002-01037,CH002,Meridian Risk Solutions,2025-05-23,2026-05-23,EL/PL Liability,"Taylor, Roberts and Miah",CT2 7AL,1928,422954,2025,2025-05
+POL-CH002-01038,CH002,Meridian Risk Solutions,2025-05-09,2026-05-09,EL/PL Liability,"Morris, James and Johnson",S5G 3QY,2751,460285,2025,2025-05
+POL-CH002-01039,CH002,Meridian Risk Solutions,2025-05-01,2026-05-01,EL/PL Liability,Morris PLC,M6 7FF,4291,569711,2025,2025-05
+POL-CH002-01040,CH002,Meridian Risk Solutions,2025-05-06,2026-05-06,EL/PL Liability,Ferguson Inc,G9 1EN,2066,530813,2025,2025-05
+POL-CH002-01041,CH002,Meridian Risk Solutions,2025-05-09,2026-05-09,EL/PL Liability,"Brooks, Griffiths and Davies",G17 2YQ,3563,642518,2025,2025-05
+POL-CH002-01042,CH002,Meridian Risk Solutions,2025-05-23,2026-05-23,EL/PL Liability,"Knowles, Allen and Martin",DG52 5PQ,4569,373113,2025,2025-05
+POL-CH002-01043,CH002,Meridian Risk Solutions,2025-05-25,2026-05-25,EL/PL Liability,"Richards, Newton and Patel",KT78 9WL,2345,342802,2025,2025-05
+POL-CH002-01044,CH002,Meridian Risk Solutions,2025-05-10,2026-05-10,EL/PL Liability,Edwards and Sons,DN17 9JY,2882,558294,2025,2025-05
+POL-CH002-01045,CH002,Meridian Risk Solutions,2025-05-11,2026-05-11,EL/PL Liability,"Dixon, Jackson and Atkinson",IP9M 9DR,4018,490506,2025,2025-05
+POL-CH002-01046,CH002,Meridian Risk Solutions,2025-05-12,2026-05-12,EL/PL Liability,Murray-Turner,HR6A 5HW,2802,518969,2025,2025-05
+POL-CH002-01047,CH002,Meridian Risk Solutions,2025-05-01,2026-05-01,EL/PL Liability,Stewart-White,PL78 7SF,2323,761192,2025,2025-05
+POL-CH002-01048,CH002,Meridian Risk Solutions,2025-05-06,2026-05-06,EL/PL Liability,"Fitzgerald, Noble and Davies",WD28 9WA,1604,523092,2025,2025-05
+POL-CH002-01049,CH002,Meridian Risk Solutions,2025-05-28,2026-05-28,EL/PL Liability,Wilson-Miller,KW6A 2RA,4981,500849,2025,2025-05
+POL-CH003-01050,CH003,Fortis Professional Risks,2025-05-05,2026-05-05,Professional Indemnity,Harris-Bailey,W2 1QH,4910,1145882,2025,2025-05
+POL-CH003-01051,CH003,Fortis Professional Risks,2025-05-19,2026-05-19,Professional Indemnity,Wall-Kaur,E6G 2AJ,7765,536441,2025,2025-05
+POL-CH003-01052,CH003,Fortis Professional Risks,2025-05-22,2026-05-22,Professional Indemnity,Berry Inc,OX46 8GF,8030,772812,2025,2025-05
+POL-CH003-01053,CH003,Fortis Professional Risks,2025-05-13,2026-05-13,Professional Indemnity,Morris Inc,BS0W 9WR,5060,1071226,2025,2025-05
+POL-CH003-01054,CH003,Fortis Professional Risks,2025-05-03,2026-05-03,Professional Indemnity,"Fisher, Wright and Turner",SW4B 5XU,6471,720562,2025,2025-05
+POL-CH003-01055,CH003,Fortis Professional Risks,2025-05-05,2026-05-05,Professional Indemnity,Norman Inc,E6 4RX,6262,1807292,2025,2025-05
+POL-CH003-01056,CH003,Fortis Professional Risks,2025-05-24,2026-05-24,Professional Indemnity,Ferguson Inc,MK32 2AN,3250,1256911,2025,2025-05
+POL-CH003-01057,CH003,Fortis Professional Risks,2025-05-21,2026-05-21,Professional Indemnity,Parker-Hargreaves,PE5 7JS,4407,1327766,2025,2025-05
+POL-CH003-01058,CH003,Fortis Professional Risks,2025-05-01,2026-05-01,Professional Indemnity,Singh-Bull,TN9V 4GW,5531,1007553,2025,2025-05
+POL-CH004-01059,CH004,Southgate Property Partners,2025-05-03,2026-05-03,Commercial Property,Chadwick Inc,KT1 7HC,2774,380909,2025,2025-05
+POL-CH004-01060,CH004,Southgate Property Partners,2025-05-14,2026-05-14,Commercial Property,"Bradshaw, Evans and Chamberlain",TN1 6NH,2188,270672,2025,2025-05
+POL-CH004-01061,CH004,Southgate Property Partners,2025-05-10,2026-05-10,Commercial Property,"Cox, Collins and Green",E1 1GU,1283,447240,2025,2025-05
+POL-CH004-01062,CH004,Southgate Property Partners,2025-05-05,2026-05-05,Commercial Property,Morris LLC,SW1 2SE,2601,435561,2025,2025-05
+POL-CH004-01063,CH004,Southgate Property Partners,2025-05-09,2026-05-09,Commercial Property,Harrison and Sons,HA1 8JS,1630,399929,2025,2025-05
+POL-CH004-01064,CH004,Southgate Property Partners,2025-05-20,2026-05-20,Commercial Property,"Turner, Smith and Gough",OX1 4WA,1124,460451,2025,2025-05
+POL-CH004-01065,CH004,Southgate Property Partners,2025-05-25,2026-05-25,Commercial Property,Kennedy Group,SS1 7NS,2276,354790,2025,2025-05
+POL-CH004-01066,CH004,Southgate Property Partners,2025-05-04,2026-05-04,Commercial Property,Khan-Woodward,UB1 9HQ,1546,426587,2025,2025-05
+POL-CH004-01067,CH004,Southgate Property Partners,2025-05-22,2026-05-22,Commercial Property,Turner-Dobson,SM1 7MB,1564,393386,2025,2025-05
+POL-CH004-01068,CH004,Southgate Property Partners,2025-05-20,2026-05-20,Commercial Property,Bennett-Martin,L1 5IA,2933,375297,2025,2025-05
+POL-CH004-01069,CH004,Southgate Property Partners,2025-05-07,2026-05-07,Commercial Property,"Ward, Bennett and Miller",RG1 5UK,1606,335245,2025,2025-05
+POL-CH004-01070,CH004,Southgate Property Partners,2025-05-11,2026-05-11,Commercial Property,Norton-Jones,UB1 7JL,2201,381877,2025,2025-05
+POL-CH005-01071,CH005,Ironclad Construction Risks,2025-05-06,2026-05-06,EL/PL Liability,"Walters, Bailey and Ellis",WF6 5NX,3630,812940,2025,2025-05
+POL-CH005-01072,CH005,Ironclad Construction Risks,2025-05-05,2026-05-05,EL/PL Liability,Mitchell and Sons,IP23 5NE,2131,320019,2025,2025-05
+POL-CH005-01073,CH005,Ironclad Construction Risks,2025-05-13,2026-05-13,EL/PL Liability,Taylor and Sons,W7B 8LZ,3385,497305,2025,2025-05
+POL-CH005-01074,CH005,Ironclad Construction Risks,2025-05-18,2026-05-18,EL/PL Liability,Shah-Campbell,SN98 8SQ,3216,304484,2025,2025-05
+POL-CH005-01075,CH005,Ironclad Construction Risks,2025-05-23,2026-05-23,EL/PL Liability,Lawrence-Ross,B5 5DJ,3296,418324,2025,2025-05
+POL-CH005-01076,CH005,Ironclad Construction Risks,2025-05-08,2026-05-08,EL/PL Liability,Cartwright-Brookes,E6E 8SN,3169,602140,2025,2025-05
+POL-CH005-01077,CH005,Ironclad Construction Risks,2025-05-17,2026-05-17,EL/PL Liability,Brown Group,S8U 7BW,1855,538944,2025,2025-05
+POL-CH005-01078,CH005,Ironclad Construction Risks,2025-05-18,2026-05-18,EL/PL Liability,"Reynolds, Williams and Thompson",NR8 7NL,3135,615884,2025,2025-05
+POL-CH001-01079,CH001,Avonbridge Underwriting,2025-06-27,2026-06-27,Commercial Property,"Lawrence, Rahman and Matthews",BR9R 8TD,6690,517598,2025,2025-06
+POL-CH001-01080,CH001,Avonbridge Underwriting,2025-06-22,2026-06-22,Commercial Property,"Morton, Gardner and Smart",NN36 4HH,6237,872175,2025,2025-06
+POL-CH001-01081,CH001,Avonbridge Underwriting,2025-06-26,2026-06-26,Commercial Property,Cameron Ltd,B7 2WS,3067,567308,2025,2025-06
+POL-CH001-01082,CH001,Avonbridge Underwriting,2025-06-12,2026-06-12,Commercial Property,Roberts-Hudson,B8F 4LL,3961,1045850,2025,2025-06
+POL-CH001-01083,CH001,Avonbridge Underwriting,2025-06-03,2026-06-03,Commercial Property,Knight-Duncan,E7G 7PB,4039,1171120,2025,2025-06
+POL-CH001-01084,CH001,Avonbridge Underwriting,2025-06-13,2026-06-13,Commercial Property,Potts and Sons,UB8Y 8BU,2371,847431,2025,2025-06
+POL-CH001-01085,CH001,Avonbridge Underwriting,2025-06-28,2026-06-28,Commercial Property,"Fleming, Baker and Ellis",G7 0AU,2621,927271,2025,2025-06
+POL-CH001-01086,CH001,Avonbridge Underwriting,2025-06-24,2026-06-24,Commercial Property,"Clarke, Burns and Simpson",DL5 0AZ,5317,760588,2025,2025-06
+POL-CH001-01087,CH001,Avonbridge Underwriting,2025-06-02,2026-06-02,Commercial Property,Cameron LLC,S5E 7BE,918,892276,2025,2025-06
+POL-CH001-01088,CH001,Avonbridge Underwriting,2025-06-14,2026-06-14,Commercial Property,Nelson-Hopkins,PH0X 5FN,4750,935912,2025,2025-06
+POL-CH001-01089,CH001,Avonbridge Underwriting,2025-06-01,2026-06-01,Commercial Property,Welch-Sharpe,SO7 2WY,5757,622401,2025,2025-06
+POL-CH001-01090,CH001,Avonbridge Underwriting,2025-06-15,2026-06-15,Commercial Property,Webster-Todd,SK5A 0TW,5057,1103407,2025,2025-06
+POL-CH001-01091,CH001,Avonbridge Underwriting,2025-06-03,2026-06-03,Commercial Property,"Davies, Hardy and Cunningham",SO87 0UD,1958,917926,2025,2025-06
+POL-CH001-01092,CH001,Avonbridge Underwriting,2025-06-28,2026-06-28,Commercial Property,Bradshaw-Clark,NW8N 2UB,3564,832676,2025,2025-06
+POL-CH001-01093,CH001,Avonbridge Underwriting,2025-06-11,2026-06-11,Commercial Property,"Thornton, Hayward and Bishop",G9 7TD,4638,746463,2025,2025-06
+POL-CH001-01094,CH001,Avonbridge Underwriting,2025-06-19,2026-06-19,Commercial Property,"Law, Smith and Cooper",G58 7YD,3348,857257,2025,2025-06
+POL-CH001-01095,CH001,Avonbridge Underwriting,2025-06-14,2026-06-14,Commercial Property,"Hawkins, Foster and Smith",M1 2LB,2830,619262,2025,2025-06
+POL-CH001-01096,CH001,Avonbridge Underwriting,2025-06-19,2026-06-19,Commercial Property,"Gregory, Steele and Jones",SR98 4WJ,5056,605881,2025,2025-06
+POL-CH001-01097,CH001,Avonbridge Underwriting,2025-06-13,2026-06-13,Commercial Property,Woods and Sons,N2W 2XR,5039,948300,2025,2025-06
+POL-CH002-01098,CH002,Meridian Risk Solutions,2025-06-23,2026-06-23,EL/PL Liability,Jenkins-Johnston,L61 1SW,2469,649263,2025,2025-06
+POL-CH002-01099,CH002,Meridian Risk Solutions,2025-06-21,2026-06-21,EL/PL Liability,Barton-Jones,W0 1AR,2187,441949,2025,2025-06
+POL-CH002-01100,CH002,Meridian Risk Solutions,2025-06-14,2026-06-14,EL/PL Liability,Abbott Ltd,N43 0ZB,3529,597923,2025,2025-06
+POL-CH002-01101,CH002,Meridian Risk Solutions,2025-06-10,2026-06-10,EL/PL Liability,Cox-Hill,SY7B 9UQ,2866,425311,2025,2025-06
+POL-CH002-01102,CH002,Meridian Risk Solutions,2025-06-04,2026-06-04,EL/PL Liability,"Whitehead, Khan and Booth",N97 8FA,4422,717362,2025,2025-06
+POL-CH002-01103,CH002,Meridian Risk Solutions,2025-06-13,2026-06-13,EL/PL Liability,Hall-Richards,E8B 1ZU,4010,510664,2025,2025-06
+POL-CH002-01104,CH002,Meridian Risk Solutions,2025-06-01,2026-06-01,EL/PL Liability,"Coleman, Knight and Williams",EN3 4GT,2348,396194,2025,2025-06
+POL-CH002-01105,CH002,Meridian Risk Solutions,2025-06-11,2026-06-11,EL/PL Liability,"Chapman, White and Warren",GY7Y 0SL,3585,552299,2025,2025-06
+POL-CH002-01106,CH002,Meridian Risk Solutions,2025-06-06,2026-06-06,EL/PL Liability,Mann Inc,SA4 7AL,4403,581306,2025,2025-06
+POL-CH002-01107,CH002,Meridian Risk Solutions,2025-06-26,2026-06-26,EL/PL Liability,Heath-Smith,W5E 1XA,1702,631493,2025,2025-06
+POL-CH002-01108,CH002,Meridian Risk Solutions,2025-06-20,2026-06-20,EL/PL Liability,"Moore, Walker and Carey",RM86 9YD,2171,452003,2025,2025-06
+POL-CH002-01109,CH002,Meridian Risk Solutions,2025-06-15,2026-06-15,EL/PL Liability,"Wong, Buckley and Bradley",L01 4UX,3332,749458,2025,2025-06
+POL-CH002-01110,CH002,Meridian Risk Solutions,2025-06-27,2026-06-27,EL/PL Liability,Porter and Sons,S9 7EW,5992,575840,2025,2025-06
+POL-CH002-01111,CH002,Meridian Risk Solutions,2025-06-23,2026-06-23,EL/PL Liability,Murray-Parker,OX8 8RQ,2929,566813,2025,2025-06
+POL-CH002-01112,CH002,Meridian Risk Solutions,2025-06-12,2026-06-12,EL/PL Liability,Thompson-Ward,OL1W 8QU,3925,459916,2025,2025-06
+POL-CH003-01113,CH003,Fortis Professional Risks,2025-06-03,2026-06-03,Professional Indemnity,Gray Inc,LE6Y 5QL,5879,1349322,2025,2025-06
+POL-CH003-01114,CH003,Fortis Professional Risks,2025-06-14,2026-06-14,Professional Indemnity,Stanley-Kent,SR44 3YQ,6598,1326475,2025,2025-06
+POL-CH003-01115,CH003,Fortis Professional Risks,2025-06-28,2026-06-28,Professional Indemnity,"Warren, Jackson and Holden",W2 5BF,6884,1014824,2025,2025-06
+POL-CH003-01116,CH003,Fortis Professional Risks,2025-06-04,2026-06-04,Professional Indemnity,Bryan-Williams,L15 6GQ,4578,869953,2025,2025-06
+POL-CH003-01117,CH003,Fortis Professional Risks,2025-06-08,2026-06-08,Professional Indemnity,Evans-Watson,W2H 1SS,6225,1433680,2025,2025-06
+POL-CH003-01118,CH003,Fortis Professional Risks,2025-06-14,2026-06-14,Professional Indemnity,"Johnson, Roberts and Jackson",BS6 9PQ,6255,1702347,2025,2025-06
+POL-CH003-01119,CH003,Fortis Professional Risks,2025-06-19,2026-06-19,Professional Indemnity,"Davies, Edwards and Brown",W0 1TL,5490,1400622,2025,2025-06
+POL-CH003-01120,CH003,Fortis Professional Risks,2025-06-13,2026-06-13,Professional Indemnity,Evans LLC,G0J 6FW,3698,1083870,2025,2025-06
+POL-CH003-01121,CH003,Fortis Professional Risks,2025-06-17,2026-06-17,Professional Indemnity,Harrison-Walton,N0T 8DQ,6647,1454730,2025,2025-06
+POL-CH003-01122,CH003,Fortis Professional Risks,2025-06-03,2026-06-03,Professional Indemnity,"Simmons, Jackson and Fitzgerald",PE9V 6SL,5014,1178520,2025,2025-06
+POL-CH003-01123,CH003,Fortis Professional Risks,2025-06-13,2026-06-13,Professional Indemnity,Harding-Briggs,EN5R 8ZG,2995,1092891,2025,2025-06
+POL-CH003-01124,CH003,Fortis Professional Risks,2025-06-28,2026-06-28,Professional Indemnity,Dixon-Butler,LS6 1TU,6969,1372561,2025,2025-06
+POL-CH004-01125,CH004,Southgate Property Partners,2025-06-10,2026-06-10,Commercial Property,Murphy and Sons,SM1 6BQ,1826,400706,2025,2025-06
+POL-CH004-01126,CH004,Southgate Property Partners,2025-06-25,2026-06-25,Commercial Property,Lewis-Woodward,BN1 9UO,1443,469882,2025,2025-06
+POL-CH004-01127,CH004,Southgate Property Partners,2025-06-17,2026-06-17,Commercial Property,Davey-Hall,SS1 6QQ,2027,449201,2025,2025-06
+POL-CH004-01128,CH004,Southgate Property Partners,2025-06-24,2026-06-24,Commercial Property,"Norris, Wright and Smith",ME1 4JO,1515,184665,2025,2025-06
+POL-CH004-01129,CH004,Southgate Property Partners,2025-06-04,2026-06-04,Commercial Property,Pugh-Reed,GU1 3GI,2392,352116,2025,2025-06
+POL-CH004-01130,CH004,Southgate Property Partners,2025-06-20,2026-06-20,Commercial Property,"Brown, Wallace and Green",SW6 3BO,1334,469347,2025,2025-06
+POL-CH004-01131,CH004,Southgate Property Partners,2025-06-25,2026-06-25,Commercial Property,Briggs LLC,KT2 8OB,1588,505993,2025,2025-06
+POL-CH004-01132,CH004,Southgate Property Partners,2025-06-22,2026-06-22,Commercial Property,"Robinson, Nash and Barton",SG1 6RN,2133,468356,2025,2025-06
+POL-CH004-01133,CH004,Southgate Property Partners,2025-06-05,2026-06-05,Commercial Property,Saunders LLC,TW1 8WZ,1062,521194,2025,2025-06
+POL-CH004-01134,CH004,Southgate Property Partners,2025-06-21,2026-06-21,Commercial Property,Yates-Bradley,OX1 1EN,1941,363072,2025,2025-06
+POL-CH004-01135,CH004,Southgate Property Partners,2025-06-12,2026-06-12,Commercial Property,Richards PLC,AL1 8WY,1877,222376,2025,2025-06
+POL-CH004-01136,CH004,Southgate Property Partners,2025-06-15,2026-06-15,Commercial Property,Bartlett PLC,NE2 5BP,2020,297062,2025,2025-06
+POL-CH005-01137,CH005,Ironclad Construction Risks,2025-06-03,2026-06-03,EL/PL Liability,"Harris, Reynolds and Lewis",W06 2QE,1412,766903,2025,2025-06
+POL-CH005-01138,CH005,Ironclad Construction Risks,2025-06-21,2026-06-21,EL/PL Liability,Stephens Ltd,N0 8JB,2109,830059,2025,2025-06
+POL-CH005-01139,CH005,Ironclad Construction Risks,2025-06-28,2026-06-28,EL/PL Liability,"Begum, Bradley and Moore",M97 9JT,2182,343896,2025,2025-06
+POL-CH005-01140,CH005,Ironclad Construction Risks,2025-06-28,2026-06-28,EL/PL Liability,"Dean, Briggs and Smith",W9G 1HR,1729,785371,2025,2025-06
+POL-CH005-01141,CH005,Ironclad Construction Risks,2025-06-03,2026-06-03,EL/PL Liability,Phillips and Sons,DA2E 6WH,2478,517756,2025,2025-06
+POL-CH005-01142,CH005,Ironclad Construction Risks,2025-06-20,2026-06-20,EL/PL Liability,Freeman LLC,LU6Y 8ET,2724,675267,2025,2025-06
+POL-CH005-01143,CH005,Ironclad Construction Risks,2025-06-20,2026-06-20,EL/PL Liability,McCarthy and Sons,HG17 7NB,3471,817274,2025,2025-06

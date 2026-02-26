@@ -1,0 +1,91 @@
+coverholder_id,coverholder_name,report_month,month_end_date,submission_date,days_from_month_end,on_time,timeliness_status,total_late_submissions
+CH001,Avonbridge Underwriting,2024-01,2024-01-31,2024-02-08,8,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-02,2024-02-29,2024-03-12,12,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-03,2024-03-31,2024-04-11,11,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-04,2024-04-30,2024-05-06,6,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-05,2024-05-31,2024-06-12,12,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-06,2024-06-30,2024-07-04,4,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-07,2024-07-31,2024-08-13,13,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-08,2024-08-31,2024-09-10,10,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-09,2024-09-30,2024-10-14,14,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-10,2024-10-31,2024-11-05,5,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-11,2024-11-30,2024-12-07,7,t,ON TIME,0
+CH001,Avonbridge Underwriting,2024-12,2024-12-31,2025-01-11,11,t,ON TIME,0
+CH001,Avonbridge Underwriting,2025-01,2025-01-31,2025-02-07,7,t,ON TIME,0
+CH001,Avonbridge Underwriting,2025-02,2025-02-28,2025-03-10,10,t,ON TIME,0
+CH001,Avonbridge Underwriting,2025-03,2025-03-31,2025-04-11,11,t,ON TIME,0
+CH001,Avonbridge Underwriting,2025-04,2025-04-30,2025-05-07,7,t,ON TIME,0
+CH001,Avonbridge Underwriting,2025-05,2025-05-31,2025-06-07,7,t,ON TIME,0
+CH001,Avonbridge Underwriting,2025-06,2025-06-30,2025-07-09,9,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-01,2024-01-31,2024-02-05,5,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-02,2024-02-29,2024-03-08,8,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-03,2024-03-31,2024-04-06,6,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-04,2024-04-30,2024-05-11,11,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-05,2024-05-31,2024-06-11,11,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-06,2024-06-30,2024-07-10,10,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-07,2024-07-31,2024-08-06,6,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-08,2024-08-31,2024-09-10,10,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-09,2024-09-30,2024-10-09,9,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-10,2024-10-31,2024-11-10,10,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-11,2024-11-30,2024-12-07,7,t,ON TIME,0
+CH002,Meridian Risk Solutions,2024-12,2024-12-31,2025-01-09,9,t,ON TIME,0
+CH002,Meridian Risk Solutions,2025-01,2025-01-31,2025-02-09,9,t,ON TIME,0
+CH002,Meridian Risk Solutions,2025-02,2025-02-28,2025-03-09,9,t,ON TIME,0
+CH002,Meridian Risk Solutions,2025-03,2025-03-31,2025-04-09,9,t,ON TIME,0
+CH002,Meridian Risk Solutions,2025-04,2025-04-30,2025-05-08,8,t,ON TIME,0
+CH002,Meridian Risk Solutions,2025-05,2025-05-31,2025-06-13,13,t,ON TIME,0
+CH002,Meridian Risk Solutions,2025-06,2025-06-30,2025-07-08,8,t,ON TIME,0
+CH003,Fortis Professional Risks,2024-01,2024-01-31,2024-02-14,14,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-02,2024-02-29,2024-03-10,10,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-03,2024-03-31,2024-04-09,9,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-04,2024-04-30,2024-05-11,11,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-05,2024-05-31,2024-06-09,9,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-06,2024-06-30,2024-07-08,8,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-07,2024-07-31,2024-08-11,11,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-08,2024-08-31,2024-09-06,6,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-09,2024-09-30,2024-10-17,17,f,LATE,1
+CH003,Fortis Professional Risks,2024-10,2024-10-31,2024-11-08,8,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-11,2024-11-30,2024-12-15,15,t,ON TIME,1
+CH003,Fortis Professional Risks,2024-12,2024-12-31,2025-01-10,10,t,ON TIME,1
+CH003,Fortis Professional Risks,2025-01,2025-01-31,2025-02-08,8,t,ON TIME,1
+CH003,Fortis Professional Risks,2025-02,2025-02-28,2025-03-09,9,t,ON TIME,1
+CH003,Fortis Professional Risks,2025-03,2025-03-31,2025-04-05,5,t,ON TIME,1
+CH003,Fortis Professional Risks,2025-04,2025-04-30,2025-05-14,14,t,ON TIME,1
+CH003,Fortis Professional Risks,2025-05,2025-05-31,2025-06-09,9,t,ON TIME,1
+CH003,Fortis Professional Risks,2025-06,2025-06-30,2025-07-15,15,t,ON TIME,1
+CH004,Southgate Property Partners,2024-01,2024-01-31,2024-02-13,13,t,ON TIME,0
+CH004,Southgate Property Partners,2024-02,2024-02-29,2024-03-09,9,t,ON TIME,0
+CH004,Southgate Property Partners,2024-03,2024-03-31,2024-04-10,10,t,ON TIME,0
+CH004,Southgate Property Partners,2024-04,2024-04-30,2024-05-04,4,t,ON TIME,0
+CH004,Southgate Property Partners,2024-05,2024-05-31,2024-06-10,10,t,ON TIME,0
+CH004,Southgate Property Partners,2024-06,2024-06-30,2024-07-07,7,t,ON TIME,0
+CH004,Southgate Property Partners,2024-07,2024-07-31,2024-08-14,14,t,ON TIME,0
+CH004,Southgate Property Partners,2024-08,2024-08-31,2024-09-11,11,t,ON TIME,0
+CH004,Southgate Property Partners,2024-09,2024-09-30,2024-10-03,3,t,ON TIME,0
+CH004,Southgate Property Partners,2024-10,2024-10-31,2024-11-11,11,t,ON TIME,0
+CH004,Southgate Property Partners,2024-11,2024-11-30,2024-12-11,11,t,ON TIME,0
+CH004,Southgate Property Partners,2024-12,2024-12-31,2025-01-12,12,t,ON TIME,0
+CH004,Southgate Property Partners,2025-01,2025-01-31,2025-02-11,11,t,ON TIME,0
+CH004,Southgate Property Partners,2025-02,2025-02-28,2025-03-15,15,t,ON TIME,0
+CH004,Southgate Property Partners,2025-03,2025-03-31,2025-04-07,7,t,ON TIME,0
+CH004,Southgate Property Partners,2025-04,2025-04-30,2025-05-10,10,t,ON TIME,0
+CH004,Southgate Property Partners,2025-05,2025-05-31,2025-06-08,8,t,ON TIME,0
+CH004,Southgate Property Partners,2025-06,2025-06-30,2025-07-15,15,t,ON TIME,0
+CH005,Ironclad Construction Risks,2024-01,2024-01-31,2024-02-21,21,f,LATE,14
+CH005,Ironclad Construction Risks,2024-02,2024-02-29,2024-03-20,20,f,LATE,14
+CH005,Ironclad Construction Risks,2024-03,2024-03-31,2024-05-01,31,f,LATE,14
+CH005,Ironclad Construction Risks,2024-04,2024-04-30,2024-05-24,24,f,LATE,14
+CH005,Ironclad Construction Risks,2024-05,2024-05-31,2024-06-22,22,f,LATE,14
+CH005,Ironclad Construction Risks,2024-06,2024-06-30,2024-08-03,34,f,LATE,14
+CH005,Ironclad Construction Risks,2024-07,2024-07-31,2024-08-14,14,t,ON TIME,14
+CH005,Ironclad Construction Risks,2024-08,2024-08-31,2024-09-27,27,f,LATE,14
+CH005,Ironclad Construction Risks,2024-09,2024-09-30,2024-10-23,23,f,LATE,14
+CH005,Ironclad Construction Risks,2024-10,2024-10-31,2024-11-21,21,f,LATE,14
+CH005,Ironclad Construction Risks,2024-11,2024-11-30,2024-12-13,13,t,ON TIME,14
+CH005,Ironclad Construction Risks,2024-12,2024-12-31,2025-01-27,27,f,LATE,14
+CH005,Ironclad Construction Risks,2025-01,2025-01-31,2025-02-20,20,f,LATE,14
+CH005,Ironclad Construction Risks,2025-02,2025-02-28,2025-04-02,33,f,LATE,14
+CH005,Ironclad Construction Risks,2025-03,2025-03-31,2025-04-21,21,f,LATE,14
+CH005,Ironclad Construction Risks,2025-04,2025-04-30,2025-05-22,22,f,LATE,14
+CH005,Ironclad Construction Risks,2025-05,2025-05-31,2025-06-14,14,t,ON TIME,14
+CH005,Ironclad Construction Risks,2025-06,2025-06-30,2025-07-15,15,t,ON TIME,14

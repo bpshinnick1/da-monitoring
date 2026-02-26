@@ -1,0 +1,91 @@
+coverholder_id,coverholder_name,bound_month,earned_premium,incurred_claims,loss_ratio_pct,rolling_3m_loss_ratio
+CH001,Avonbridge Underwriting,2024-01,72959.00,23640.00,32.4,32.4
+CH001,Avonbridge Underwriting,2024-02,73978.00,23409.00,31.6,32.0
+CH001,Avonbridge Underwriting,2024-03,77978.00,44848.00,57.5,40.5
+CH001,Avonbridge Underwriting,2024-04,95961.00,42777.00,44.6,44.6
+CH001,Avonbridge Underwriting,2024-05,58282.00,13753.00,23.6,41.9
+CH001,Avonbridge Underwriting,2024-06,77518.00,11306.00,14.6,27.6
+CH001,Avonbridge Underwriting,2024-07,80088.00,50941.00,63.6,33.9
+CH001,Avonbridge Underwriting,2024-08,76388.00,41959.00,54.9,44.4
+CH001,Avonbridge Underwriting,2024-09,62687.00,16746.00,26.7,48.4
+CH001,Avonbridge Underwriting,2024-10,66002.00,9110.00,13.8,31.8
+CH001,Avonbridge Underwriting,2024-11,76800.00,41037.00,53.4,31.3
+CH001,Avonbridge Underwriting,2024-12,101049.00,43182.00,42.7,36.7
+CH001,Avonbridge Underwriting,2025-01,67641.00,13198.00,19.5,38.6
+CH001,Avonbridge Underwriting,2025-02,69757.00,26587.00,38.1,33.5
+CH001,Avonbridge Underwriting,2025-03,62706.00,19302.00,30.8,29.5
+CH001,Avonbridge Underwriting,2025-04,86757.00,25396.00,29.3,32.7
+CH001,Avonbridge Underwriting,2025-05,77200.00,40745.00,52.8,37.6
+CH001,Avonbridge Underwriting,2025-06,77218.00,39177.00,50.7,44.3
+CH002,Meridian Risk Solutions,2024-01,41861.00,22892.00,54.7,54.7
+CH002,Meridian Risk Solutions,2024-02,42280.00,19809.00,46.9,50.8
+CH002,Meridian Risk Solutions,2024-03,50862.00,19358.00,38.1,46.5
+CH002,Meridian Risk Solutions,2024-04,29250.00,14868.00,50.8,45.2
+CH002,Meridian Risk Solutions,2024-05,39021.00,16713.00,42.8,43.9
+CH002,Meridian Risk Solutions,2024-06,51821.00,25528.00,49.3,47.6
+CH002,Meridian Risk Solutions,2024-07,39322.00,9892.00,25.2,39.1
+CH002,Meridian Risk Solutions,2024-08,39657.00,21194.00,53.4,42.6
+CH002,Meridian Risk Solutions,2024-09,52727.00,28548.00,54.1,44.2
+CH002,Meridian Risk Solutions,2024-10,34529.00,21022.00,60.9,56.2
+CH002,Meridian Risk Solutions,2024-11,38762.00,11373.00,29.3,48.1
+CH002,Meridian Risk Solutions,2024-12,44588.00,13598.00,30.5,40.2
+CH002,Meridian Risk Solutions,2025-01,70749.00,24598.00,34.8,31.5
+CH002,Meridian Risk Solutions,2025-02,64099.00,37607.00,58.7,41.3
+CH002,Meridian Risk Solutions,2025-03,69623.00,38764.00,55.7,49.7
+CH002,Meridian Risk Solutions,2025-04,52433.00,11646.00,22.2,45.5
+CH002,Meridian Risk Solutions,2025-05,46178.00,23780.00,51.5,43.1
+CH002,Meridian Risk Solutions,2025-06,49870.00,25066.00,50.3,41.3
+CH003,Fortis Professional Risks,2024-01,56082.00,24996.00,44.6,44.6
+CH003,Fortis Professional Risks,2024-02,57432.00,15771.00,27.5,36.0
+CH003,Fortis Professional Risks,2024-03,42820.00,10255.00,23.9,32.0
+CH003,Fortis Professional Risks,2024-04,45796.00,19873.00,43.4,31.6
+CH003,Fortis Professional Risks,2024-05,52743.00,18514.00,35.1,34.1
+CH003,Fortis Professional Risks,2024-06,50318.00,18307.00,36.4,38.3
+CH003,Fortis Professional Risks,2024-07,48192.00,13152.00,27.3,32.9
+CH003,Fortis Professional Risks,2024-08,36948.00,7829.00,21.2,28.3
+CH003,Fortis Professional Risks,2024-09,60565.00,23535.00,38.9,29.1
+CH003,Fortis Professional Risks,2024-10,58825.00,22831.00,38.8,33.0
+CH003,Fortis Professional Risks,2024-11,53256.00,25080.00,47.1,41.6
+CH003,Fortis Professional Risks,2024-12,53651.00,25731.00,48.0,44.6
+CH003,Fortis Professional Risks,2025-01,59148.00,19607.00,33.1,42.7
+CH003,Fortis Professional Risks,2025-02,54365.00,13940.00,25.6,35.6
+CH003,Fortis Professional Risks,2025-03,45885.00,39292.00,85.6,48.1
+CH003,Fortis Professional Risks,2025-04,53507.00,46253.00,86.4,65.9
+CH003,Fortis Professional Risks,2025-05,51686.00,18799.00,36.4,69.5
+CH003,Fortis Professional Risks,2025-06,67232.00,42152.00,62.7,61.8
+CH004,Southgate Property Partners,2024-01,20334.00,8734.00,43.0,43.0
+CH004,Southgate Property Partners,2024-02,16514.00,5352.00,32.4,37.7
+CH004,Southgate Property Partners,2024-03,21362.00,4170.00,19.5,31.6
+CH004,Southgate Property Partners,2024-04,23692.00,6032.00,25.5,25.8
+CH004,Southgate Property Partners,2024-05,26216.00,6565.00,25.0,23.3
+CH004,Southgate Property Partners,2024-06,24879.00,10005.00,40.2,30.2
+CH004,Southgate Property Partners,2024-07,20812.00,3604.00,17.3,27.5
+CH004,Southgate Property Partners,2024-08,20777.00,8008.00,38.5,32.0
+CH004,Southgate Property Partners,2024-09,18925.00,3139.00,16.6,24.1
+CH004,Southgate Property Partners,2024-10,21438.00,3597.00,16.8,24.0
+CH004,Southgate Property Partners,2024-11,19661.00,7707.00,39.2,24.2
+CH004,Southgate Property Partners,2024-12,24711.00,10815.00,43.8,33.2
+CH004,Southgate Property Partners,2025-01,22140.00,7056.00,31.9,38.3
+CH004,Southgate Property Partners,2025-02,18123.00,2865.00,15.8,30.5
+CH004,Southgate Property Partners,2025-03,21637.00,11907.00,55.0,34.2
+CH004,Southgate Property Partners,2025-04,23042.00,7852.00,34.1,35.0
+CH004,Southgate Property Partners,2025-05,23726.00,10032.00,42.3,43.8
+CH004,Southgate Property Partners,2025-06,21158.00,4608.00,21.8,32.7
+CH005,Ironclad Construction Risks,2024-01,19778.00,7799.00,39.4,39.4
+CH005,Ironclad Construction Risks,2024-02,22211.00,10300.00,46.4,42.9
+CH005,Ironclad Construction Risks,2024-03,26295.00,17709.00,67.3,51.1
+CH005,Ironclad Construction Risks,2024-04,21203.00,3746.00,17.7,43.8
+CH005,Ironclad Construction Risks,2024-05,18094.00,7746.00,42.8,42.6
+CH005,Ironclad Construction Risks,2024-06,30478.00,16601.00,54.5,38.3
+CH005,Ironclad Construction Risks,2024-07,30376.00,8274.00,27.2,41.5
+CH005,Ironclad Construction Risks,2024-08,24993.00,685.00,2.7,28.1
+CH005,Ironclad Construction Risks,2024-09,18954.00,5181.00,27.3,19.1
+CH005,Ironclad Construction Risks,2024-10,20441.00,5288.00,25.9,18.6
+CH005,Ironclad Construction Risks,2024-11,21649.00,10234.00,47.3,33.5
+CH005,Ironclad Construction Risks,2024-12,28323.00,16154.00,57.0,43.4
+CH005,Ironclad Construction Risks,2025-01,28054.00,10701.00,38.1,47.5
+CH005,Ironclad Construction Risks,2025-02,18419.00,10083.00,54.7,50.0
+CH005,Ironclad Construction Risks,2025-03,18897.00,8963.00,47.4,46.8
+CH005,Ironclad Construction Risks,2025-04,14289.00,10410.00,72.9,58.3
+CH005,Ironclad Construction Risks,2025-05,23817.00,13745.00,57.7,59.3
+CH005,Ironclad Construction Risks,2025-06,16105.00,9120.00,56.6,62.4
