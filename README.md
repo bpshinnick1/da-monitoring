@@ -1,0 +1,216 @@
+# Delegated-Authority-Performance-Coverholder-Monitoring-System
+
+A data engineering and analytics project replicating the coverholder oversight workflow used by Lloyd's managing agents. Built to demonstrate practical understanding of delegated authority operations, bordereaux analysis, and compliance monitoring in the Lloyd's insurance market.
+
+**Stack:** Python · PostgreSQL · Power BI  
+**Data:** Synthetic — 18 months (Jan 2024 – Jun 2025), 5 fictional coverholders  
+**Lines of business modelled:** Commercial Property, EL/PL Liability, Professional Indemnity
+
+---
+
+## Background
+
+In the Lloyd's market, managing agents deploy underwriting capacity through **coverholders** — MGAs, brokers, or specialist intermediaries — under **Binding Authority Agreements (BAAs)**. Coverholders can bind risks on behalf of the syndicate without referring each risk to the underwriter individually, subject to strict authority limits and contractual constraints.
+
+The managing agent's Delegated Underwriting (DA) team is responsible for monitoring whether coverholders are operating within those limits. This is done primarily through **bordereaux** — monthly data submissions from each coverholder listing every policy bound and every claim handled under the delegated authority.
+
+Without effective bordereaux monitoring, a managing agent can accumulate unexpected exposures, suffer regulatory breaches, and experience deteriorating loss ratios that are only identified too late to remediate.
+
+This project automates the core monitoring workflow: ingesting bordereaux data, calculating key metrics, flagging compliance and performance issues, and surfacing everything in a management dashboard.
+
+---
+
+## Project Structure
+
+```
+da-monitoring/
+├── data/
+│   └── generated/                  # Synthetic CSVs produced by generate_data.py
+│       ├── premium_bordereaux.csv
+│       ├── claims_bordereaux.csv
+│       └── monthly_submissions.csv
+├── sql/
+│   ├── schema.sql                  # Full database schema
+│   └── views/
+│       ├── vw_monthly_loss_ratios.sql
+│       ├── vw_authority_utilisation.sql
+│       ├── vw_geographic_compliance.sql
+│       ├── vw_submission_timeliness.sql
+│       └── vw_coverholder_scorecard.sql
+├── src/
+│   ├── generate_data.py            # Synthetic data generation
+│   ├── load_data.py                # PostgreSQL ingestion pipeline
+│   ├── monitoring_engine.py        # Automated flagging logic
+│   └── run_monitoring.py           # Entry point — runs full monitoring cycle
+├── powerbi/
+│   └── dashboard_screenshots/      # Exported dashboard visuals
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## Coverholder Universe
+
+Five fictional coverholders, each operating under a Binding Authority Agreement with different class, territory, and authority limit parameters.
+
+| ID | Name | Class of Business | Territory | Authority Limit |
+|---|---|---|---|---|
+| CH001 | Avonbridge Underwriting | Commercial Property | UK-wide | £2,000,000 |
+| CH002 | Meridian Risk Solutions | EL/PL Liability | UK-wide SMEs | £1,500,000 |
+| CH003 | Fortis Professional Risks | Professional Indemnity | UK-wide | £1,000,000 |
+| CH004 | Southgate Property Partners | Commercial Property | South East only | £500,000 |
+| CH005 | Ironclad Construction Risks | EL/PL Liability | Construction sector | £750,000 |
+
+Each coverholder submits a **premium bordereaux** and a **claims bordereaux** monthly, along with a submission date. The managing agent has a 15 business day SLA for receipt.
+
+---
+
+## Data Model
+
+### `coverholders`
+Reference table. One row per coverholder. Includes authority limit, class of business, geographic scope, and BAA start date.
+
+### `premium_bordereaux`
+One row per policy bound. Key fields: policy reference, coverholder ID, inception/expiry date, class of business, premium, sum insured, postcode, underwriting year.
+
+### `claims_bordereaux`
+One row per claim. Linked to policies via policy reference. Key fields: claim reference, date of loss, date reported, reserve amount, paid amount, claim status.
+
+### `monthly_submissions`
+One row per coverholder per month. Records the submission date for that month's bordereaux and calculates days from month end.
+
+### `flags_log`
+Written to by the monitoring engine each run. Stores all active flags with severity, type, coverholder, and detail.
+
+---
+
+## Monitoring Logic
+
+The `monitoring_engine.py` script connects to PostgreSQL, queries the analytical views, and produces a structured flag report. Five checks are run:
+
+**Loss Ratio Deterioration**  
+Flags any coverholder where the 3-month rolling loss ratio exceeds 65%, or where it has increased by more than 15 percentage points over the prior 3-month period. Severity: High above 75%, Medium above 65%.
+
+**Authority Limit Utilisation**  
+Calculates cumulative written premium per coverholder per underwriting year as a percentage of their BAA authority limit. Warning at 80%, breach alert at 95%.
+
+**Geographic Compliance**  
+For coverholders with territorial restrictions, checks whether any bound policy has a postcode outside the permitted area. Every breach is flagged as High severity — this is a potential unintended exposure and a regulatory issue.
+
+**Bordereaux Submission Timeliness**  
+Calculates days between month end and submission date. Flags anything over 15 business days. Persistent lateness (3+ consecutive months) is escalated to High severity.
+
+**Composite RAG Status**  
+The `vw_coverholder_scorecard` view aggregates all active flags into a single RAG (Red/Amber/Green) status per coverholder, used as the top-level management indicator.
+
+---
+
+## Key Findings (Synthetic Data)
+
+Running the monitoring engine against the generated dataset surfaces the following issues:
+
+**CH003 — Fortis Professional Risks: Loss Ratio Deterioration (HIGH)**  
+Loss ratio rises sharply from month 10, reaching 78% by month 14 against a benchmark of 52% in the prior period. The 3-month rolling average crosses the 65% threshold in October 2024 and continues to deteriorate. Recommended action: request a claims review and consider suspending new business pending investigation.
+
+**CH004 — Southgate Property Partners: Geographic Scope Breach (HIGH)**  
+9 policies identified with postcodes outside the South East England territory defined in the BAA. Affected postcodes span the North West and Midlands. These risks are potentially uninsured at Lloyd's level and represent both an exposure and a compliance issue requiring immediate remediation.
+
+**CH002 — Meridian Risk Solutions: Authority Limit Warning (MEDIUM)**  
+Cumulative premium reaches 84% of the £1.5m annual authority limit by October 2024 with two months of the underwriting year remaining. At the current run rate, the coverholder will breach their limit before year end. Recommended action: issue written notice and cap new business until the limit is renegotiated or the underwriting year closes.
+
+**CH005 — Ironclad Construction Risks: Submission Timeliness (MEDIUM)**  
+Bordereaux submitted an average of 22 days after month end across 7 of 18 months, against the 15 business day SLA. Three consecutive months of late submission in Q3 2025 trigger escalation to High severity. Recommended action: formal remediation notice per BAA terms.
+
+---
+
+## Dashboard
+
+Built in Power BI Desktop, connected directly to the PostgreSQL views.
+
+**Page 1 — Portfolio Overview**  
+KPI cards: total written premium YTD, portfolio loss ratio, active flag count, coverholder RAG summary. Portfolio loss ratio trend by month with 65% reference line. Written premium by coverholder vs. authority limit. Active flags table sorted by severity.
+
+**Page 2 — Coverholder Scorecard**  
+Slicer-driven single coverholder view. RAG status, 18-month loss ratio trend, authority utilisation gauge, submission timeliness history, geographic compliance status, flag history.
+
+---
+
+## Setup & Replication
+
+### Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+Contents of `requirements.txt`:
+```
+pandas
+numpy
+faker
+psycopg2-binary
+sqlalchemy
+```
+
+### Database
+
+Create the database in PostgreSQL:
+
+```sql
+CREATE DATABASE da_monitoring;
+```
+
+Run the schema:
+
+```bash
+psql -d da_monitoring -f sql/schema.sql
+```
+
+### Generate Data
+
+```bash
+python src/generate_data.py
+```
+
+Outputs CSVs to `data/generated/`.
+
+### Load Data
+
+```bash
+python src/load_data.py
+```
+
+Connects to `da_monitoring` and loads all three CSVs. Update the connection string in `load_data.py` if your PostgreSQL credentials differ from the defaults.
+
+### Run Monitoring Engine
+
+```bash
+python src/run_monitoring.py
+```
+
+Runs all five checks, prints a flag summary to console, and writes results to the `flags_log` table.
+
+### Power BI
+
+Open Power BI Desktop, connect via Get Data → PostgreSQL, point to `localhost/da_monitoring`, and import the five views. The report file is not included in the repo due to size, but dashboard screenshots are available in `powerbi/dashboard_screenshots/`.
+
+---
+
+## Insurance Market Context
+
+**Delegated authority** is a core feature of the Lloyd's and London Market, enabling capacity to be deployed at scale through specialist intermediaries. The Lloyd's market writes approximately £40bn of gross written premium annually, a significant portion of which flows through binding authorities.
+
+Key regulatory context: Lloyd's requires managing agents to maintain robust oversight of their coverholders under the Lloyd's Delegated Underwriting Byelaw and the Coverholder Reporting Standards (CRS). The types of monitoring implemented in this project — loss ratio tracking, authority utilisation, geographic compliance, and submission timeliness — directly mirror the requirements set out in those standards.
+
+**Bordereaux quality** is one of the most operationally challenging aspects of DA oversight. Data arrives in inconsistent formats, coverholders interpret field definitions differently, and late submissions create blind spots in the managing agent's exposure position. A recurring theme in Lloyd's market modernisation efforts (including the Blueprint Two programme) is improving the digitisation and standardisation of bordereaux data flows.
+
+---
+
+## About
+
+Built as a portfolio project to demonstrate practical understanding of Lloyd's delegated authority operations and the analytical workflow of a managing agent's DA team. The dataset is entirely synthetic; any resemblance to real coverholders or managing agents is coincidental.
+
+Author: Ben Shinnick  
+LinkedIn: linkedin.com/in/ben-shinnick-674969252  
+GitHub: github.com/bpshinnick1
