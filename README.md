@@ -20,6 +20,34 @@ This project automates the core monitoring workflow: ingesting bordereaux data, 
 
 ---
 
+## Dashboard
+
+Built in Power BI Desktop, connected directly to the PostgreSQL analytical views. Three pages, each designed for a different audience and level of detail.
+
+### Page 1 — Portfolio Overview
+
+The management summary. Designed to answer "is anything on fire?" in 30 seconds. KPI cards show total written premium YTD, portfolio loss ratio, active flag count, and a RAG distribution donut. The RAG summary table lists all five coverholders sorted by severity with conditional formatting across every metric. The portfolio loss ratio trend shows all coverholders on a single axis with a 65% threshold reference line, immediately surfacing CH003's deterioration. A written premium vs. authority limit bar chart shows each coverholder's headroom against their BAA limit.
+
+![Portfolio Overview](powerbi/dashboard_screenshots/portfolio_overview.png)
+
+### Page 2 — Coverholder Deep Dive
+
+Slicer-driven single coverholder view for quarterly review preparation. Selecting a coverholder updates all panels: RAG status badge, BAA parameters (class, territory, authority limit), utilisation bar, 18-month loss ratio trend (monthly vs. 3-month rolling with 65% threshold), bordereaux submission timeliness (bars coloured red when exceeding the 15-day SLA), and geographic compliance status with breach detail table.
+
+![Coverholder Deep Dive — Clean](powerbi/dashboard_screenshots/coverholder_clean.png)
+
+The diagnostic value is in the contrast. A healthy coverholder (CH001 Avonbridge) shows stable loss ratios, all grey timeliness bars, and zero breaches. A problem coverholder (CH005 Ironclad) shows a rising loss ratio, a wall of red timeliness bars, and an AMBER RAG status.
+
+![Coverholder Deep Dive — Problem](powerbi/dashboard_screenshots/coverholder_problem.png)
+
+### Page 3 — Geographic Breach Analysis
+
+A dedicated drill-down into the most serious compliance finding: CH004 Southgate Property Partners binding 17 policies outside their South East England territorial restriction. A map plots every out-of-territory policy across the UK, with breach clusters visible in Liverpool, Manchester, Newcastle, Leeds, Sheffield, Bristol, and Cambridge. KPI cards quantify the exposure: 17 breach policies, £30,796 premium at risk, breaches occurring in 14 of 18 months. The breach detail table provides the policy-level remediation list.
+
+![Geographic Breach Analysis](powerbi/dashboard_screenshots/geographic_breaches.png)
+
+---
+
 ## Project Structure
 
 ```
@@ -110,29 +138,17 @@ The `vw_coverholder_scorecard` view aggregates all active flags into a single RA
 
 Running the monitoring engine against the generated dataset surfaces the following issues:
 
-**CH003 — Fortis Professional Risks: Loss Ratio Deterioration (HIGH)**  
-Loss ratio rises sharply from month 10, reaching 78% by month 14 against a benchmark of 52% in the prior period. The 3-month rolling average crosses the 65% threshold in October 2024 and continues to deteriorate. Recommended action: request a claims review and consider suspending new business pending investigation.
-
 **CH004 — Southgate Property Partners: Geographic Scope Breach (HIGH)**  
-9 policies identified with postcodes outside the South East England territory defined in the BAA. Affected postcodes span the North West and Midlands. These risks are potentially uninsured at Lloyd's level and represent both an exposure and a compliance issue requiring immediate remediation.
+17 policies identified with postcodes outside the South East England territory defined in the BAA. Affected postcodes span Liverpool (L1, L2), Manchester area (OL1, WN1, PR1), Newcastle (NE2), Leeds (LS1), Sheffield (S2), Bristol (BS1), and Cambridge (CB1) — representing £30,796 of premium at risk. Breaches occur in 14 of 18 months, indicating a systemic process failure rather than an isolated incident. These risks represent both an unintended exposure and a compliance issue requiring immediate remediation.
 
-**CH002 — Meridian Risk Solutions: Authority Limit Warning (MEDIUM)**  
-Cumulative premium reaches 84% of the £1.5m annual authority limit by October 2024 with two months of the underwriting year remaining. At the current run rate, the coverholder will breach their limit before year end. Recommended action: issue written notice and cap new business until the limit is renegotiated or the underwriting year closes.
+**CH003 — Fortis Professional Risks: Loss Ratio Deterioration (HIGH)**  
+Loss ratio stable in the low 30s through the first 14 months, then spikes sharply with monthly figures of 85.6% and 86.4% in March–April 2025. The 3-month rolling average crosses the 65% threshold in April 2025 (65.9%) and remains elevated at 69.5% and 61.8% through June 2025. Recommended action: request a claims review and consider suspending new business pending investigation.
 
-**CH005 — Ironclad Construction Risks: Submission Timeliness (MEDIUM)**  
-Bordereaux submitted an average of 22 days after month end across 7 of 18 months, against the 15 business day SLA. Three consecutive months of late submission in Q3 2025 trigger escalation to High severity. Recommended action: formal remediation notice per BAA terms.
+**CH005 — Ironclad Construction Risks: Submission Timeliness (HIGH)**  
+Bordereaux submitted late in 14 of 18 months, with delays ranging from 20 to 34 days against the 15 business day SLA. Average delay on late submissions is 24 days. The persistence and severity of the lateness — including a 34-day delay in June 2024 — indicates a systemic operational issue. Recommended action: formal remediation notice per BAA terms, with consideration of BAA suspension if the pattern continues.
 
----
-
-## Dashboard
-
-Built in Power BI Desktop, connected directly to the PostgreSQL views.
-
-**Page 1 — Portfolio Overview**  
-KPI cards: total written premium YTD, portfolio loss ratio, active flag count, coverholder RAG summary. Portfolio loss ratio trend by month with 65% reference line. Written premium by coverholder vs. authority limit. Active flags table sorted by severity.
-
-**Page 2 — Coverholder Scorecard**  
-Slicer-driven single coverholder view. RAG status, 18-month loss ratio trend, authority utilisation gauge, submission timeliness history, geographic compliance status, flag history.
+**CH005 — Ironclad Construction Risks: Loss Ratio Approaching Threshold (MEDIUM)**  
+The 3-month rolling loss ratio climbs steadily through Q1–Q2 2025, reaching 58.3%, 59.3%, and 62.4% in the final three months. While not yet breaching the 65% threshold, the trajectory warrants close monitoring. Combined with the submission timeliness issues, this coverholder presents a compound risk that may require intervention before the loss ratio formally triggers.
 
 ---
 
@@ -210,7 +226,3 @@ Key regulatory context: Lloyd's requires managing agents to maintain robust over
 ## About
 
 Built as a portfolio project to demonstrate practical understanding of Lloyd's delegated authority operations and the analytical workflow of a managing agent's DA team. The dataset is entirely synthetic; any resemblance to real coverholders or managing agents is coincidental.
-
-Author: Ben Shinnick  
-LinkedIn: linkedin.com/in/ben-shinnick-674969252  
-GitHub: github.com/bpshinnick1
