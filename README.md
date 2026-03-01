@@ -1,10 +1,15 @@
-# Delegated-Authority-Performance-Coverholder-Monitoring-System
+# Delegated Authority — Coverholder Monitoring System
+
+![Banner](powerbi/dashboard_screenshots/banner.png)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.1+-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Complete-27AE60?style=flat)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
 A data engineering and analytics project replicating the coverholder oversight workflow used by Lloyd's managing agents. Built to demonstrate practical understanding of delegated authority operations, bordereaux analysis, and compliance monitoring in the Lloyd's insurance market.
-
-**Stack:** Python · PostgreSQL · Power BI  
-**Data:** Synthetic — 18 months (Jan 2024 – Jun 2025), 5 fictional coverholders  
-**Lines of business modelled:** Commercial Property, EL/PL Liability, Professional Indemnity
 
 ---
 
@@ -34,47 +39,25 @@ The management summary. Designed to answer "is anything on fire?" in 30 seconds.
 
 Slicer-driven single coverholder view for quarterly review preparation. Selecting a coverholder updates all panels: RAG status badge, BAA parameters (class, territory, authority limit), utilisation bar, 18-month loss ratio trend (monthly vs. 3-month rolling with 65% threshold), bordereaux submission timeliness (bars coloured red when exceeding the 15-day SLA), and geographic compliance status with breach detail table.
 
+The diagnostic value is in the contrast between coverholders:
+
+**Healthy coverholder** — CH001 Avonbridge shows stable loss ratios in the 30s–40s, all grey timeliness bars below the SLA, and zero breaches.
+
 ![Coverholder Deep Dive — Clean](powerbi/dashboard_screenshots/coverholder_clean.png)
 
-The diagnostic value is in the contrast. A healthy coverholder (CH001 Avonbridge) shows stable loss ratios, all grey timeliness bars, and zero breaches. A problem coverholder (CH005 Ironclad) shows a rising loss ratio, a wall of red timeliness bars, and an AMBER RAG status.
+**Timeliness failure** — CH005 Ironclad shows an AMBER badge, a rising loss ratio approaching the 65% threshold, and a wall of red timeliness bars (14 of 18 months late, up to 34 days).
 
-![Coverholder Deep Dive — Problem](powerbi/dashboard_screenshots/coverholder_problem.png)
+![Coverholder Deep Dive — Timeliness Problem](powerbi/dashboard_screenshots/coverholder_problem.png)
+
+**Compliance breach** — CH004 Southgate shows a RED badge, 17 territorial scope breaches, and the breach detail table populated with out-of-territory policies.
+
+![Coverholder Deep Dive — Compliance Breach](powerbi/dashboard_screenshots/coverholder_breach.png)
 
 ### Page 3 — Geographic Breach Analysis
 
 A dedicated drill-down into the most serious compliance finding: CH004 Southgate Property Partners binding 17 policies outside their South East England territorial restriction. A map plots every out-of-territory policy across the UK, with breach clusters visible in Liverpool, Manchester, Newcastle, Leeds, Sheffield, Bristol, and Cambridge. KPI cards quantify the exposure: 17 breach policies, £30,796 premium at risk, breaches occurring in 14 of 18 months. The breach detail table provides the policy-level remediation list.
 
 ![Geographic Breach Analysis](powerbi/dashboard_screenshots/geographic_breaches.png)
-
----
-
-## Project Structure
-
-```
-da-monitoring/
-├── data/
-│   └── generated/                  # Synthetic CSVs produced by generate_data.py
-│       ├── premium_bordereaux.csv
-│       ├── claims_bordereaux.csv
-│       └── monthly_submissions.csv
-├── sql/
-│   ├── schema.sql                  # Full database schema
-│   └── views/
-│       ├── vw_monthly_loss_ratios.sql
-│       ├── vw_authority_utilisation.sql
-│       ├── vw_geographic_compliance.sql
-│       ├── vw_submission_timeliness.sql
-│       └── vw_coverholder_scorecard.sql
-├── src/
-│   ├── generate_data.py            # Synthetic data generation
-│   ├── load_data.py                # PostgreSQL ingestion pipeline
-│   ├── monitoring_engine.py        # Automated flagging logic
-│   └── run_monitoring.py           # Entry point — runs full monitoring cycle
-├── powerbi/
-│   └── dashboard_screenshots/      # Exported dashboard visuals
-├── README.md
-└── requirements.txt
-```
 
 ---
 
@@ -149,6 +132,36 @@ Bordereaux submitted late in 14 of 18 months, with delays ranging from 20 to 34 
 
 **CH005 — Ironclad Construction Risks: Loss Ratio Approaching Threshold (MEDIUM)**  
 The 3-month rolling loss ratio climbs steadily through Q1–Q2 2025, reaching 58.3%, 59.3%, and 62.4% in the final three months. While not yet breaching the 65% threshold, the trajectory warrants close monitoring. Combined with the submission timeliness issues, this coverholder presents a compound risk that may require intervention before the loss ratio formally triggers.
+
+---
+
+## Project Structure
+
+```
+da-monitoring/
+├── data/
+│   └── generated/                  # Synthetic CSVs produced by generate_data.py
+│       ├── premium_bordereaux.csv
+│       ├── claims_bordereaux.csv
+│       └── monthly_submissions.csv
+├── sql/
+│   ├── schema.sql                  # Full database schema
+│   └── views/
+│       ├── vw_monthly_loss_ratios.sql
+│       ├── vw_authority_utilisation.sql
+│       ├── vw_geographic_compliance.sql
+│       ├── vw_submission_timeliness.sql
+│       └── vw_coverholder_scorecard.sql
+├── src/
+│   ├── generate_data.py            # Synthetic data generation
+│   ├── load_data.py                # PostgreSQL ingestion pipeline
+│   ├── monitoring_engine.py        # Automated flagging logic
+│   └── run_monitoring.py           # Entry point — runs full monitoring cycle
+├── powerbi/
+│   └── dashboard_screenshots/      # Exported dashboard visuals
+├── README.md
+└── requirements.txt
+```
 
 ---
 
